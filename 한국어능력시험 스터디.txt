@@ -22,7 +22,7 @@
 아랫사람	subordinate (e.g. in job)
 끝인사	closing remarks
 첫인사	opening remarks
-안부	tidings, greetings
+안부	tidings, greetings 부모님께 [greetings] 전해 주십시오
 소문	rumor
 헛소문	false rumor
 유언비어	canard; wild rumor
@@ -40,18 +40,18 @@
 속보	news flash
 해외 토픽	international news
 정신없다	to be hectic; to not be in one's right mind, beside oneself
-매력	appeal
+매력	appeal 사람들은 그녀의 [appeal] 푹 빠졌다. 그 남자는 잘생긴 얼굴은 아니지만 [appeal]이 있다.
 추천서	letter of recommendation
 찾아뵈다	to visit (formal)
 개인 사정	personal reasons
 마감 날짜	deadline
 늦추다	to put off, delay
-직장 상사	workplace superior
+직장 상사	workplace superior (literally)
 임원	executive
 능률	efficiency
 주식	stock, share
 차단하다	to block
-찬성	agreement
+찬성(하다)	agreement (e.g. to agree)
 조회(수)	hits
 (이메일을) 전송하다	to transmit, send (an email)
 지우다	to erase
@@ -72,7 +72,7 @@
 대화가 단절되다	to have a conversation cut off, interrupted
 대화가 안 되다	to be unable to have a conversation with someone
 의사소통이 안 되다	to be unable to communicate with someone
-들다	to pick up
+들다	to hold, take; pick up; carry
 향수	perfume
 구체적이다	to be specific
 들어주다	to listen to someone
@@ -98,7 +98,7 @@
 자녀	children, sons and daughters
 당황하다	embarrassed, flustered, bewildered, disconcerted
 생각이 깊다	to be pensive
-섬세하다	to be delicate
+섬세하다	to be delicate (in feeling, perception, character)
 눈치가 빠르다	to be tactful
 자존심이 강하다	to be proud
 발끈하다	to fly into a rage
@@ -158,7 +158,7 @@
 마침	just in time
 원어민	native speaker
 낫다	to be better
-희망하다	to hope
+희망하다	to hope, wish
 규정	provisions
 숙소	lodging
 휴가를 내다	to take a vacation
@@ -209,1460 +209,988 @@
 휴직하다	to take a leave of absence
 이직하다	to change jobs
 퇴직하다	to retire (from a job)
-to be discharged (from the military)	제대하다
-branch	지사
-sales department	영업부
-applicant	지원자
-this month	이달
-to be chosen	선정되다
-to show; to play (e.g. a movie in a cinema)	상영하다
-memorization	암기
-to be proficient	능통하다
-to live a long life	장수하다
-heart disease	심장병
-mayor	시장
-to be discovered	발견되다
-mine	광산
-water ski	수상 스키
-topic	화제
-properly	제대로
-to be awkward	쑥스럽다
-to go back to school	복학하다
-relative, relation	친척
-superior (e.g. in job)	윗사람
-subordinate (e.g. in job)	아랫사람
-closing remarks	끝인사
-opening remarks	첫인사
-tidings, greetings	안부
-rumor	소문
-false rumor	헛소문
-canard; wild rumor	유언비어
-to spread a rumor	소문을 퍼뜨리다
-to have a rumor spread	소문이 퍼지다
-to start a rumor	소문을 내다
-to be rumored	소문이 나다
-to hear through the grapevine, a rumor	소문으로 듣다
-to have a rumor go around	소문이 돌다
-to have a rumor float around	소문이 떠돌다
-to be in the newspaper	신문에 나다
-to be published in the newspaper	신문에 실리다
-to come out on the news	뉴스에 나오다
-to be reported on the news	뉴스에 보도되다
-news flash	속보
-international news	해외 토픽
-to be hectic; to not be in one's right mind, beside oneself	정신없다
-appeal	매력
-letter of recommendation	추천서
-to visit (formal)	찾아뵈다
-personal reasons	개인 사정
-deadline	마감 날짜
-to put off, delay	늦추다
-workplace superior	직장 상사
-executive	임원
-efficiency	능률
-stock, share	주식
-to block	차단하다
-agreement	찬성
-hits	조회(수)
-to transmit, send (an email)	(이메일을) 전송하다
-to erase	지우다
-to delete	삭제하다
-to upload; raise, lift up	올리다
-to download (a file)	(파일을) 내려받다
-to edit (a photo)	(사진을) 편집하다
-to share (e.g. a photo)	공유하다
-to make public (e.g. a photo)	공개하다
-to post (a comment)	(댓글을) 달다
-to leave (a comment)	(댓글을) 남기다
-to share an opinion	의견을 나누다
-to have good communication	소통이 잘 되다
-to understand each other	대화가[말이] 통하다
-to have smooth communication	의사소통이 원활하다
-"smooth (as in ""go smoothly"")"	원활하다
-to ignore an opinion	의견을 무시하다
-to have a conversation cut off, interrupted	대화가 단절되다
-to be unable to have a conversation with someone	대화가 안 되다
-to be unable to communicate with someone	의사소통이 안 되다
-to pick up	들다
-perfume	향수
-to be specific	구체적이다
-to listen to someone	들어주다
-as a matter of fact (it is like that)	하긴 (그건 그렇지)
-see; I told you	거봐
-to waste one's breath	입만 아프다
-no way	설마
-daycare center	어린이집
-daughter	딸아이
-to wrap up, to finish	마무리하다
-to be consistent	일관성(이) 있다
-knitting	뜨개질
-appearance	외모
-folk tale	전래 동화
-to bully	괴롭히다
-to sense	눈치채다
-banquet hall	잔칫집
-fairy	선녀
-magistrate	원님
-to fall in love at first sight	첫눈에 반하다
-(someone's) turn; order, precedence	차례
-chores, housework	집안일
-children, sons and daughters	자녀
-embarrassed, flustered, bewildered, disconcerted	당황하다
-to be pensive	생각이 깊다
-to be delicate	섬세하다
-to be tactful	눈치가 빠르다
-to be proud	자존심이 강하다
-to fly into a rage	발끈하다
-to sulk easily	잘 삐치다
-to be extremely fickle, change one's mood very quickly	변덕이 심하다
-to be stubborn	고집이 세다
-to be tactless	눈치가 없다
-to be simple	단순하다
-to be understanding	관대하다
-to be thoughtful, considerate, attentive	자상하다
-working couple	맞벌이 부부
-to divide housework and childcare	가사와 육아를 분담하다
-to take full charge of housework and childcare	가사와 육아를 전담하다
-housewife; stay-at-home mom	전업 주부
-support of wife, wife's help	내조
-househusband; stay-at-home dad	가사 전업 남성
-support of husband, husband's help	외조
-understanding	양해
-to ask (a favor); to seek, look for, find	구하다
-to make someone be careful	주의(를) 주다
-hot water pipes	온수관
-to burst	터지다
-wallpapering	도배
-to stand, to endure	견디다
-noise between floors	층간 소음
-court	법원
-every time	매번
-doorbell	초인종
-to knock	두드리다
-to be excessive	지나치다
-to request	요청하다
-to be fair	정당하다
-to assert	주장하다
-prohibition	금지
-to visit	찾아가다
-front door	현관
-main bedroom	안방
-kitchen	부엌
-living room	거실
-veranda	베란다
-bathroom	욕실
-bathtub	욕조
-bathroom sink	세면대
-toilet	변기
-hallway	복도
-stairs	계단
-management office	관리 사무소
-security office	경비실
-to have so much noise, for the noise to be severe	소음이 심하다
-to have the ceiling shake	천장이 울리다
-to have water leak	물이 새다
-to have cigarette smoke come up	담배 연기가 올라오다
-to be dusty	먼지가 나다
-to smell	냄새가 나다
-work; job	일자리
-just in time	마침
-native speaker	원어민
-to be better	낫다
-to hope	희망하다
-provisions	규정
-lodging	숙소
-to take a vacation	휴가를 내다
-to be difficult	곤란하다
-years of work (experience) 우리 회사는 [years of work experience]에 따라 승진이 이루어진다.	근무 연차
-pile up, be stacked up	쌓이다
-to increase	늘어나다
-to renew a contract	재계약(을) 하다
-student	수강생
-to negotiate	협상(을) 하다
-suggestion	제의
-"qualifications (literally ""qualification conditions"")"	자격 조건
-pay	보수
-certificate; license	자격증
-diploma	졸업장
-weather (conditions)	기상
-Korea Meteorological Administration; weather service	기상청
-to predict, forecast	예측하다
-to relay, convey, communicate; deliver	전달하다
-construction company	건설 회사
-company, business (entity)	기업체
-to be burdensome	부담스럽다
-unusual weather change	기상 이변
-to be promising	유망하다
-to prescribe	처방하다
-psychological	심리적
-emotional	정서적
-to suffer	어려움(을) 겪다
-to be suitable (유. 적합하다, 적당하다)	알맞다
-to advise, suggest, recommend	권하다
-comfort, solace	위안
-to overcome	극복하다
-pain, suffering 그는 극심한 심리적 [pain]에 시달렸다. 신체적 [pain]이 너무 심해서 견디기가 힘들었다.	고통 (1.~을 주다, 2.~을 참다, 3.~을 겪다)
-employee benefits	직원 복지
-personal development	자기 개발
-aptitude	적성
-spare time	여가 시간
-social awareness	사회적 인지도
-commuting distance	출퇴근 거리
-annual income	연봉
-work environment	회사 분위기
-workload	업무량
-prospects	장래성
-to join a company	입사하다
-to resign, leave a company	퇴사하다
-to work outside the office	외근하다
-to work overtime (at night)	야근하다
-to take a leave of absence	휴직하다
-to change jobs	이직하다
-to retire (from a job)	퇴직하다
 기후	climate
-climate	기후
 대하다	face, confront
-face, confront	대하다
 그러나	However, but still
-However, but still	그러나
 자신	oneself, one's own body; confidence, assurance
-oneself, one's own body; confidence, assurance	자신
 이러하다	be this way, be like this, be as follows
-be this way, be like this, be as follows	이러하다
 가지	(종류) kind (of), sort (of), variety (of)
-(종류) kind (of), sort (of), variety (of)	가지
 정부	government
-government	정부
 뿐	only, alone, merely
-only, alone, merely	뿐
 과정 (1.을 겪다)	process, course (유. 경로, 경과) 1. to go through, experience a process 결과 못지않게 [process]도 중요하다. 과장님께 일의 [process]을 보고했다.
-process, course (유. 경로, 경과) 1. to go through, experience a process 결과 못지않게 [process]도 중요하다. 과장님께 일의 [process]을 보고했다.	과정 (1.을 겪다)
 특히	especially
-especially	특히
 경제 (1.~가 좋다/나쁘다 2.~를 살리다)	economy 1. for the economy to be good/bad 2. to revive the economy 요즘 서민들의 [economy] 사정이 좋지 않다. 과학 기술 발전에 따라 [economy]도 급속도로 발전하고 있다.
-economy 1. for the economy to be good/bad 2. to revive the economy 요즘 서민들의 [economy] 사정이 좋지 않다. 과학 기술 발전에 따라 [economy]도 급속도로 발전하고 있다.	경제 (1.~가 좋다/나쁘다 2.~를 살리다)
 잡다	hold, seize, catch
-hold, seize, catch	잡다
 물론	of course
-of course	물론
 정치	politics
-politics	정치
 생명	(목숨) life
-(목숨) life	생명
-사건	event, incident
-event, incident	사건
+사건 (1.~이 일어나다/발생하다/터지다, 2.~을 해결하다)	event, incident 1. for an incident to occur, arise 2. to resolve an incident 비슷한 [incident]들이 연이어 터지고 있다. 세계 곳곳에서 충격적인 [incident]이 일어나고 있다.
 짓다	to make, build, construct; to form a line (a group)
-to make, build, construct; to form a line (a group)	짓다
 짝을 짓다	to pair up, form a pair
-to pair up, form a pair	짝을 짓다
 작품	a work of art
-a work of art	작품
 가운데	in the middle
-in the middle	가운데
 즉	namely, that is to say, in other words, i.e.
-namely, that is to say, in other words, i.e.	즉
 문학	literature
-literature	문학
 당시	then, at that time
-then, at that time	당시
 더욱	more and more, increasingly
-more and more, increasingly	더욱
 지방	a locality, district; the provinces, the country
-a locality, district; the provinces, the country	지방
 (~하는) 채	as it is, no change (while the state described by the verb is maintained)
-as it is, no change (while the state described by the verb is maintained)	(~하는) 채
 현실	actuality, reality
-actuality, reality	현실
 자체	one's own body, itself
-one's own body, itself	자체
 전문	one's speciality
-one's speciality	전문
-변화	change, transformation
-change, transformation	변화
+변화 (1. 하다, 2. 되다, 3.~를 주다)	change, transformation 1. to change 2. to be changed, transformed 3. to make a change; to bring change, variety (to) 힘든 일을 겪은 후 그의 마음에 [change]가 생겼다. 아무것도 하지 않는 것보다 조금이라도 [change]을 주는 것이 낫다.
 선거	an election
-an election	선거
-관하다	refer to, be about
-refer to, be about	관하다
+관하다	refer to, be about 한국전쟁에 [about] 자료를 모으다
 중심	the nucleus, focus, the heart, the center
-the nucleus, focus, the heart, the center	중심
 활동	activity
-activity	활동
 서로	mutually, one another
-mutually, one another	서로
 정신	mind, spirit
-mind, spirit	정신
 (목적지에) 이르다	to reach, arrive, get at
-to reach, arrive, get at	(목적지에) 이르다
 (소원을) 이루다	accomplish, complete (one's aim, wish); make, form
-accomplish, complete (one's aim, wish); make, form	(소원을) 이루다
 현상	the present situation, state
-the present situation, state	현상
 얻다	get, obtain
-get, obtain	얻다
-민족	race, nation, people
-race, nation, people	민족
+민족	race, nation, people 세계에는 다양한 [race]으로 구성된 나라가 있다.
 듯	to be like something
-to be like something	듯
 간 (間)	the interval between
-the interval between	간 (間)
 (~하는) 줄 (알다/모르다)	way, method (i.e. know how to do something)
-way, method (i.e. know how to do something)	(~하는) 줄 (알다/모르다)
 구조	construction, structure (유. 형태, 구성); rescue 한국어와 중국어는 문장 [structure]가 다르다. 선장은 누구보다도 배의 [structure]를 잘 알고 있어야 한다.
-construction, structure (유. 형태, 구성); rescue 한국어와 중국어는 문장 [structure]가 다르다. 선장은 누구보다도 배의 [structure]를 잘 알고 있어야 한다.	구조
 자연	nature
-nature	자연
 과학	science
-science	과학
 오히려	rather, preferably
-rather, preferably	오히려
 (소원이) 이루어지다	get accomplished, achieved (i.e. a wish); be composed of, made up of
-get accomplished, achieved (i.e. a wish); be composed of, made up of	(소원이) 이루어지다
 그림	a picture
-a picture	그림
 (~해본) 적 (있다/없다)	time, occasion (i.e. to have [not] tried something)
-time, occasion (i.e. to have [not] tried something)	(~해본) 적 (있다/없다)
 치다	hit, knock, strike; play (piano, billiards); attack, assault
-hit, knock, strike; play (piano, billiards); attack, assault	치다
 지키다	to protect, maintain
-to protect, maintain	지키다
 바라보다	look at, watch; look forward to, hope for
-look at, watch; look forward to, hope for	바라보다
 알아보다	to investigate, examine, search
-to investigate, examine, search	알아보다
-산업	industry
-industry	산업
+산업	industry 서비스도 [industry]의 한 분야이다. 강대국이 되기 위해서는 항공 우주 [industry]을 육성해야 한다.
 오르다	go up, climb, ascend
-go up, climb, ascend	오르다
 일부	a part, a portion
-a part, a portion	일부
 성격	personality; character, nature
-personality; character, nature	성격
-세기	century
-century	세기
-발전	development, progress
-development, progress	발전
+세기	century 21[century]는 아이디어 상품이 인기를 끌고 있다. 다음 [century]의 후손들을 생각하여 자연을 보호해야 한다.
+발전 (1. 하다, 2. 되다)	development, progress (유. 발달, 개발) 1. to develop, be in progress 2. to be developed, be advanced 그 정치인은 지역 [development]에 힘쓰고 있다. 과거보다 나은 [development]을 위해 노력 중이다.
 향하다	to face, look out on; head to
-to face, look out on; head to	향하다
 형태	form, shape
-form, shape	형태
 관련 (되다, 있다/없다)	relation, connection, reference (유. 관계, 상관) 그는 의학 [related to] 책들을 수집하고 있다. 여기는 이번 사건과 밀접한 [relation]이 있는 곳이다.
-relation, connection, reference (유. 관계, 상관) 그는 의학 [related to] 책들을 수집하고 있다. 여기는 이번 사건과 밀접한 [relation]이 있는 곳이다.	관련 (되다, 있다/없다)
 각	each, every
-each, every	각
 작업	work
-work	작업
 그러하다	to be so, to be the case
-to be so, to be the case	그러하다
 우선	first of all, before everything
-first of all, before everything	우선
 (아기를) 낳다	to give birth (to)
-to give birth (to)	(아기를) 낳다
 열리다	open, be opened, be unlocked
-open, be opened, be unlocked	열리다
 시	poetry, lines of verse
-poetry, lines of verse	시
 행동	action, behavior
-action, behavior	행동
 활동적	active, energetic
-active, energetic	활동적
 비하다	compare to
-compare to	비하다
 기관	an engine, machine; organization, institution
-an engine, machine; organization, institution	기관
 입장 (표명을 하다)	a position, situation (i.e. take a position against; an awkward situation); admission (i.e. university)
-a position, situation (i.e. take a position against; an awkward situation); admission (i.e. university)	입장 (표명을 하다)
 -만하다	to be to the extent of
-to be to the extent of	-만하다
 예	example
-example	예
-방식	form, method, process
-form, method, process	방식
+방식	way, form, method, process (유. 방법) 나라마다 생활 [way]이 다르다. 사람들 모두 각자 자기의 [way]대로 살아가고 있다.
 영향 (~을 주다/미치다)	influence, consequences
-influence, consequences	영향 (~을 주다/미치다)
 (눈물이) 흐르다	flow, stream (i.e. tears)
-flow, stream (i.e. tears)	(눈물이) 흐르다
 배	boat
-boat	배
 조건	condition, stipulation
-condition, stipulation	조건
 단계 (1.~가 있다/없다, 2.~를 밟다)	a step, phase, level 1. for there to be (no) stages, steps 2. to take a step, to take steps 정부가 추진 중인 정책은 지금 마무리 [phase]에 있다. 한꺼번에 좋아지기는 어려우니 한 [step] 한 [step]씩 밟아 나가면 좋은 결과가 있을 것이다.
-a step, phase, level 1. for there to be (no) stages, steps 2. to take a step, to take steps 정부가 추진 중인 정책은 지금 마무리 [phase]에 있다. 한꺼번에 좋아지기는 어려우니 한 [step] 한 [step]씩 밟아 나가면 좋은 결과가 있을 것이다.	단계 (1.~가 있다/없다, 2.~를 밟다)
 교사	instructor
-instructor	교사
 넘다	cross, go across; exceed, go over
-cross, go across; exceed, go over	넘다
 지니다	carry with, keep, hold, possess
-carry with, keep, hold, possess	지니다
 습성을 지니다	have a habit of
-have a habit of	습성을 지니다
 어리다	to be young
-to be young	어리다
-대표	representative
-representative	대표
+대표 (1. 하다, 2.~로 뽑히다, 3.~가 되다)	representative 1. to represent 2. to be chosen as a representative 3. to be represented 국회의원은 국민이 직접 뽑은 국민 [representative]이다. 내 친구가 학교 [representative]로 전국 말하기 대회에 참가하게 되었다.
 가능성 (있다/없다)	possibility (i.e. for there to be a possibility of)
-possibility (i.e. for there to be a possibility of)	가능성 (있다/없다)
 ~할 가능성이 높다/낮다	there is a high/low probability of
-there is a high/low probability of	~할 가능성이 높다/낮다
 의원	member; assemblyman, congressman
-member; assemblyman, congressman	의원
 노력(하다)	effort (i.e. to make an effort, work hard)
-effort (i.e. to make an effort, work hard)	노력(하다)
 전혀	entirely, utterly, completely (only negative)
-entirely, utterly, completely (only negative)	전혀
 단체	group; organization, association (유. 집단, 반. 개인) 학교에서 [group]로 축제에 참가하기로 했다. [group] 사진 촬영을 위해 하나둘씩 모이기 시작했다.
-group; organization, association (유. 집단, 반. 개인) 학교에서 [group]로 축제에 참가하기로 했다. [group] 사진 촬영을 위해 하나둘씩 모이기 시작했다.	단체
 알려지다	to become known
-to become known	알려지다
 자식 (낳다)	one's children, offspring (i.e. bear one's child)
-one's children, offspring (i.e. bear one's child)	자식 (낳다)
 주민	inhabitants, dwellers
-inhabitants, dwellers	주민
 (돈을) 모으다	gather, collect; get together
-gather, collect; get together	(돈을) 모으다
 (돈이) 모이다	to be gathered; be collected
-to be gathered; be collected	(돈이) 모이다
 자료	materials, data
-materials, data	자료
 존재(하다)	existence (to exist)
-existence (to exist)	존재(하다)
 제품	manufactured goods
-manufactured goods	제품
 분야	field
-field	분야
-사업	business
-business	사업
+사업	business [business]이 잘 되다/안되다 퇴직 후에 개인 [business]을 하려고 구상 중에 있디. [business]을 시작한 지 얼마 되지 않아서 적자를 보고 있다.
 행위	an act, deed, behavior
-an act, deed, behavior	행위
 수준	level
-level	수준
 지난해	last year
-last year	지난해
 대 (代)	era, period
-era, period	대 (代)
 시대	period, epoch, era
-period, epoch, era	시대
 현대	today, modern times
-today, modern times	현대
 기능	function, functionality
-function, functionality	기능
 젊다	to be young, youthful
-to be young, youthful	젊다
 전쟁	war
-war	전쟁
 회의	a meeting, conference
-a meeting, conference	회의
 이야기하다	to talk
-to talk	이야기하다
 연극	a drama, play
-a drama, play	연극
 (~와) 마찬가지(로)	the same (as), likewise
-the same (as), likewise	(~와) 마찬가지(로)
 노동	labor work
-labor work	노동
 노동자	laborer, worker
-laborer, worker	노동자
 과거	the past
-the past	과거
 가치 (있다/없다/높다/떨어지다)	value, worth 그 미술 작뭎의 [value]는 돈으로 바꿀 수 없을 정도다. 손으로 직접 만든 물건은 하나밖에 없기 때문에 [value]가 있다.
-value, worth 그 미술 작뭎의 [value]는 돈으로 바꿀 수 없을 정도다. 손으로 직접 만든 물건은 하나밖에 없기 때문에 [value]가 있다.	가치 (있다/없다/높다/떨어지다)
 매우 가치 있는 ~	invaluable, priceless
-invaluable, priceless	매우 가치 있는 ~
 집단	a group, body, collective (abstract)
-a group, body, collective (abstract)	집단
 살펴보다	watch closely, examine carefully
-watch closely, examine carefully	살펴보다
 장관	a government cabinet minister; great spectacle
-a government cabinet minister; great spectacle	장관
 풀다	to solve; untie, loosen; melt into
-to solve; untie, loosen; melt into	풀다
 (어린) 시절	season; days, years; occasion (i.e. one's childhood)
-season; days, years; occasion (i.e. one's childhood)	(어린) 시절
 작가	writer, author
-writer, author	작가
 효과	effect, effectiveness
-effect, effectiveness	효과
 불교	buddhism
-buddhism	불교
 (주목을) 끌다	to pull, draw (e.g. attention)
-to pull, draw (e.g. attention)	(주목을) 끌다
 대로	like, according to
-like, according to	대로
 우주	the universe
-the universe	우주
 시기	an opportunity, chance
-an opportunity, chance	시기
 마치	as if, as though, just like
-as if, as though, just like	마치
-생산	production, manufacture
-production, manufacture	생산
+생산	production, manufacture [production]이 늘다/줄다 고품질 쌀 [production]을 위해 연구에 몰두했다. 기업에서 투자와 [production]이 줄어들고 있는 것은 심각한 문제다.
 나타내다	to show, display
-to show, display	나타내다
 농민	a farmer, peasant
-a farmer, peasant	농민
-법	a law, the law
-a law, the law	법
+법 (1.~을 지키다/어기다, 2.~을 제정하다)	a law, the law 1. to observe/break the law 2. to legislate, enact a law [the law]은 국민을 보호해야 한다. 사람은 누구나 [the law]을 지켜야 한다.
 질서 (지키다)	(e.g. preserve) (public) order
-(e.g. preserve) (public) order	질서 (지키다)
 스스로	on its own, of its own free will
-on its own, of its own free will	스스로
 회장	president, chairman; hall, venue
-president, chairman; hall, venue	회장
 시민	residents of a city
-residents of a city	시민
 첫인상	first impression
-first impression	첫인상
 던지다	to throw
-to throw	던지다
 시선을 던지다	to turn one's eyes [attention] upon
-to turn one's eyes [attention] upon	시선을 던지다
 참	really, truly
-really, truly	참
 공간	space, room
-space, room	공간
 (사업을) 벌이다	to start a business/job/project; wage (war)
-to start a business/job/project; wage (war)	(사업을) 벌이다
 강조(하다)	emphasis (to place emphasis upon, to highlight) (유. 강세) 밑줄을 그은 부분은 [emphasis]를 나타낸다. 허리선 [emphasis]를 위해 허리 부분에 다른 색깔을 넣어 디자인했다.
-emphasis (to place emphasis upon, to highlight) (유. 강세) 밑줄을 그은 부분은 [emphasis]를 나타낸다. 허리선 [emphasis]를 위해 허리 부분에 다른 색깔을 넣어 디자인했다.	강조(하다)
-맡다	to take charge of, take care of
-to take charge of, take care of	맡다
+맡다	to take charge of, take care of 더 이상 이 일을 못 [take care of]겠습니다. 돈은 네가 [take care of]고 있어라. 그 사무를 [in charge of]고 있는 사람
 주로	mainly, principally, mostly
-mainly, principally, mostly	주로
 기자	a journalist
-a journalist	기자
 훨씬	by far, very much so
-by far, very much so	훨씬
 통일	unification
-unification	통일
 시설	an establishment, institution; facilities
-an establishment, institution; facilities	시설
 주변	surroundings
-surroundings	주변
 원인	a cause, factor
-a cause, factor	원인
 어른	an adult
-an adult	어른
 군	an army
-an army	군
 재산	property, fortune, assets, possessions
-property, fortune, assets, possessions	재산
 감독	(movie) director, manager, supervisor
-(movie) director, manager, supervisor	감독
 감독하다	to supervise, oversee, direct
-to supervise, oversee, direct	감독하다
 (괴롭힘을) 당하다	to suffer, undergo, experience (e.g. bullying)
-to suffer, undergo, experience (e.g. bullying)	(괴롭힘을) 당하다
 (연습으로) 삼다	make a thing of (e.g. take something as practice)
-make a thing of (e.g. take something as practice)	(연습으로) 삼다
 일으키다	to raise, get up; start, commence
-to raise, get up; start, commence	일으키다
 일단	first, for the time being; temporarily
-first, for the time being; temporarily	일단
 끌리다	to be attracted (to), drawn (to); to be dragged
-to be attracted (to), drawn (to); to be dragged	끌리다
-drain	하수구
 금일	today
-today	금일
 조직	organization (composition, structure); gang, ring
-organization (composition, structure); gang, ring	조직
 공장	factory, plant
-factory, plant	공장
 공사장	construction site
-construction site	공사장
 변하다	to change
-to change	변하다
 아무리	however much
-however much	아무리
 맞추다	adjust, adapt; assemble
-adjust, adapt; assemble	맞추다
 (길을) 막다	block, stop, obstruct (e.g. the way/a street)
-block, stop, obstruct (e.g. the way/a street)	(길을) 막다
 (길이/말이) 막히다	to be stopped, be blocked (e.g. a road, or to be at a loss for words)
-to be stopped, be blocked (e.g. a road, or to be at a loss for words)	(길이/말이) 막히다
 달리	differently
-differently	달리
 인물	a man, a person, figure
-a man, a person, figure	인물
 전국	the whole country, the entire nation
-the whole country, the entire nation	전국
-(일을) 마치다	to finish, complete, wrap up (e.g. work)
-to finish, complete, wrap up (e.g. work)	(일을) 마치다
+(일을/등록을) 마치다	to finish, complete, wrap up (e.g. work, registration)
 가정(을 이루다)	(to start a) family, home
-(to start a) family, home	가정(을 이루다)
 걸다	to hang up, suspend
-to hang up, suspend	걸다
 빠지다	to fall into
-to fall into	빠지다
 농업	agriculture
-agriculture	농업
 대다	to put (over), place up to
-to put (over), place up to	대다
 식	way, form, style
-way, form, style	식
 무대	a stage
-a stage	무대
 인하다	to be caused by, arise from, be due to
-to be caused by, arise from, be due to	인하다
 붙다	to stick, adhere to
-to stick, adhere to	붙다
 잇다	to join, connect
-to join, connect	잇다
 목적	goal, purpose
-goal, purpose	목적
 태도	attitude, manner (toward); stance (on)
-attitude, manner (toward); stance (on)	태도
 대책 (1.~을 세우다, 2.~을 마련하다)	countermeasure, measure (유. 대비책, 방안) 1. to establish a (counter)measure 2. to prepare a (counter)measure 하루라도 빨리 노후 [countermeasure]을 세워야 한다. 홍수 피해를 자주 입는 지역은 근본적인 [countermeasure]을 마련해야 한다.
-countermeasure, measure (유. 대비책, 방안) 1. to establish a (counter)measure 2. to prepare a (counter)measure 하루라도 빨리 노후 [countermeasure]을 세워야 한다. 홍수 피해를 자주 입는 지역은 근본적인 [countermeasure]을 마련해야 한다.	대책 (1.~을 세우다, 2.~을 마련하다)
 주위 (e.g. 둘러보다)	surroundings, the area around oneself (e.g. look around)
-surroundings, the area around oneself (e.g. look around)	주위 (e.g. 둘러보다)
 발생하다	to originate, come from
-to originate, come from	발생하다
 어쩌다	by chance, accident; from time to time, sometimes
-by chance, accident; from time to time, sometimes	어쩌다
 결코 (못 잊다)	never, by no means (e.g. never be able to forget)
-never, by no means (e.g. never be able to forget)	결코 (못 잊다)
 (계획을 실행에) 옮기다	move, transfer (e.g. a plan into practice)
-move, transfer (e.g. a plan into practice)	(계획을 실행에) 옮기다
 자유	freedom, liberty
-freedom, liberty	자유
 자유롭다	to be free
-to be free	자유롭다
 경쟁	competition, rivalry
-competition, rivalry	경쟁
 자라다	to grow (up), be raised, brought up
-to grow (up), be raised, brought up	자라다
 구체적	specific, conretely, detailed
-specific, conretely, detailed	구체적
 기회 (1.~가 오다, 2.~를 잡다, 3.~를 놓치다)	an opportunity 1. for an opportunity to arrive 2. to catch, take an opportunity 3. to miss an opportunity 망설이다가 결국 [opportunity]를 놓쳐 버렸다. [opportunity]가 되면 해외에서도 경험을 쌓아 보고 싶다.
-an opportunity 1. for an opportunity to arrive 2. to catch, take an opportunity 3. to miss an opportunity 망설이다가 결국 [opportunity]를 놓쳐 버렸다. [opportunity]가 되면 해외에서도 경험을 쌓아 보고 싶다.	기회 (1.~가 오다, 2.~를 잡다, 3.~를 놓치다)
 실시하다	to execute, enforce, put into effect
-to execute, enforce, put into effect	실시하다
 지구	the earth
-the earth	지구
 소비자	consumer
-consumer	소비자
 규모 (줄이다)	scale, scope, structure (e.g. downscale)
-scale, scope, structure (e.g. downscale)	규모 (줄이다)
 기준 (1.~이 있다/없다, 2.~을 세우다)	standard, basis 1. for there to be a (no) standard 2. to set a standard, establish a criterion 사람마다 생각하고 판단하는 [criteria]이 다르다. 자동차의 배기가스 배출량이 [standard]을 초과하였다.
-standard, basis 1. for there to be a (no) standard 2. to set a standard, establish a criterion 사람마다 생각하고 판단하는 [criteria]이 다르다. 자동차의 배기가스 배출량이 [standard]을 초과하였다.	기준 (1.~이 있다/없다, 2.~을 세우다)
 반드시	most certainly
-most certainly	반드시
 (~할) 셈 (치다/되다/있다)	an intention, design, purpose
-an intention, design, purpose	(~할) 셈 (치다/되다/있다)
 갖추다	(1) to make, get ready, prepare; (2) to possess, be endowed with
-(1) to make, get ready, prepare; (2) to possess, be endowed with	갖추다
 현장	site, scene, place in question
-site, scene, place in question	현장
 꺼내다	to get out, draw out, pull out
-to get out, draw out, pull out	꺼내다
 말을 꺼내다	bring up (a subject)
-bring up (a subject)	말을 꺼내다
-전하다	to transmit, convey
-to transmit, convey	전하다
+전하다	to tell, convey, transmit, communicate (sth.)
 (정답을) 맞히다	guess correctly (the right answer)
-guess correctly (the right answer)	(정답을) 맞히다
 (건강을) 유지하다	to preserve, maintain (e.g. one's health)
-to preserve, maintain (e.g. one's health)	(건강을) 유지하다
 대중	the masses
-the masses	대중
 (접시를) 닦다	to wipe clean, polish, wash (e.g. dishes)
-to wipe clean, polish, wash (e.g. dishes)	(접시를) 닦다
 각종	various, all sorts or varieties (유. 각양각색) 그곳에는 [various] 전자제품들이 가득 놓여 있었다. 날이 더워지자 [various] 냉방 기기들이 날개 돋친듯이 팔리고 있다.
-various, all sorts or varieties (유. 각양각색) 그곳에는 [various] 전자제품들이 가득 놓여 있었다. 날이 더워지자 [various] 냉방 기기들이 날개 돋친듯이 팔리고 있다.	각종
 피하다	to avoid, keep away
-to avoid, keep away	피하다
 (서울을) 거치다	to pass or go through (e.g. a city)
-to pass or go through (e.g. a city)	(서울을) 거치다
 나아가다	to advance, proceed, go forward
-to advance, proceed, go forward	나아가다
 (자기 의견을) 고집하다	to persist in, stick to (one's opinion)
-to persist in, stick to (one's opinion)	(자기 의견을) 고집하다
-보관	storage, custody, store
-storage, custody, store	보관
+보관	storage, custody, store 여름철에는 음식물 [storage]에 주의해야 한다. 이 자전거는 접을 수 있어서 이동과 [storage]이 용이하다.
 가계부 (쓰다/적다/기입하다)	household ledger, account book 요즘 [household ledger]를 쓰는 주부들은 많지 않다. 그는 성격이 꼼꼼해서 매일 [household ledger]도 쓴다.
-household ledger, account book 요즘 [household ledger]를 쓰는 주부들은 많지 않다. 그는 성격이 꼼꼼해서 매일 [household ledger]도 쓴다.	가계부 (쓰다/적다/기입하다)
 기입하다	write, input, enter, fill out
-write, input, enter, fill out	기입하다
 (성격이) 꼼꼼하다	meticulous, precise, detailed
-meticulous, precise, detailed	(성격이) 꼼꼼하다
 가난 (가난하다, 가난에 허덕이다)	poverty 나는 [poverty]에서 벗어나고자 쉬지 않고 일만 했다. 그는 넉넉한 가정에서 자라서 [poverty]을 잘 모른다.
-poverty 나는 [poverty]에서 벗어나고자 쉬지 않고 일만 했다. 그는 넉넉한 가정에서 자라서 [poverty]을 잘 모른다.	가난 (가난하다, 가난에 허덕이다)
 벗어나다	get out (of), free (sb. from sth.), break away (from)
-get out (of), free (sb. from sth.), break away (from)	벗어나다
 (생활이) 넉넉하다	enough, sufficient, ample; well-off (i.e. family, lifestyle), well-to-do
-enough, sufficient, ample; well-off (i.e. family, lifestyle), well-to-do	(생활이) 넉넉하다
 가뭄 (들다)	drought 올해에는 다행스럽게 [drought]이 들지 않았다. 계속되는 [drought]으로 많은 농가가 피해를 입었다.
-drought 올해에는 다행스럽게 [drought]이 들지 않았다. 계속되는 [drought]으로 많은 농가가 피해를 입었다.	가뭄 (들다)
 다행스럽다	lucky, fortunate
-lucky, fortunate	다행스럽다
 가사	housework (유. 집안일) 어머니는 집에서 [housework]를 돌보고 계신다. [housework]에 전념하기 위해서 다니던 직장을 그만두었다.
-housework (유. 집안일) 어머니는 집에서 [housework]를 돌보고 계신다. [housework]에 전념하기 위해서 다니던 직장을 그만두었다.	가사
 돌보다	to look after, take care of
-to look after, take care of	돌보다
 전념하다	concentrate (on), focus (on), devote oneself (to)
-concentrate (on), focus (on), devote oneself (to)	전념하다
 가상	virtual, imagine, imagination, hypothetical (반. 실제, 현실) 사기꾼들은 [virtual] 계좌를 만들어 돈을 모았다. 그는 실제가 아닌 게임 속에 존재하는 [virtual] 인물이다.
-virtual, imagine, imagination, hypothetical (반. 실제, 현실) 사기꾼들은 [virtual] 계좌를 만들어 돈을 모았다. 그는 실제가 아닌 게임 속에 존재하는 [virtual] 인물이다.	가상
 사기꾼	trickster, swindler, con man
-trickster, swindler, con man	사기꾼
 가입 (하다/되다)	initiation (반. 탈퇴) 그 사이트는 회원 [initiation] 절차가 매우 까다로웠다. 등산을 다니려고 산악회에 [initiation] 신청을 해 놓았다.
-initiation (반. 탈퇴) 그 사이트는 회원 [initiation] 절차가 매우 까다로웠다. 등산을 다니려고 산악회에 [initiation] 신청을 해 놓았다.	가입 (하다/되다)
 가족적	in a family way (반. 사무적) 우리 기숙사 분위기는 아주 [family-like]이다. 회사 동료들과 [family-like]인 분위기에서 일한다.
-in a family way (반. 사무적) 우리 기숙사 분위기는 아주 [family-like]이다. 회사 동료들과 [family-like]인 분위기에서 일한다.	가족적
 동료	co-worker, colleague
-co-worker, colleague	동료
 절차	procedure (for), process (of)
-procedure (for), process (of)	절차
 까다롭다	particular, fussy, complicated (유. 복잡하다)
-particular, fussy, complicated (유. 복잡하다)	까다롭다
 가축 (기르다/키우다)	livestock 농촌에서 [livestock]을 키우는 농가들이 점점 줄고 있다. 예전에는 시골에서 [livestock]을 길러서 아이들 교육을 시키는 집이 많았다.
-livestock 농촌에서 [livestock]을 키우는 농가들이 점점 줄고 있다. 예전에는 시골에서 [livestock]을 길러서 아이들 교육을 시키는 집이 많았다.	가축 (기르다/키우다)
 농촌	farm(ing) village, farming area, rural community
-farm(ing) village, farming area, rural community	농촌
 각각	each, respectively (유. 각자) 홍수로 피해를 입은 사람들 [each]에게 보상을 해 주었다. 회의에 참석한 사람들은 [each]의 의견을 자유롭게 나누었다.
-each, respectively (유. 각자) 홍수로 피해를 입은 사람들 [each]에게 보상을 해 주었다. 회의에 참석한 사람들은 [each]의 의견을 자유롭게 나누었다.	각각
 홍수 (나다)	flood
-flood	홍수 (나다)
 피해를 입다	to be damaged, suffer damage
-to be damaged, suffer damage	피해를 입다
 보상	reward; compensation 피해를 [compensate]하다
-reward; compensation 피해를 [compensate]하다	보상
 각자	respectively, each, individual (유. 각각) [individual]의 일은 스스로 책임져야 한다. 우리는 [each]에게 어울리는 옷을 골라 입었다.
-respectively, each, individual (유. 각각) [individual]의 일은 스스로 책임져야 한다. 우리는 [each]에게 어울리는 옷을 골라 입었다.	각자
-책임지다	to be in charge, be responsible, take responsibility
-to be in charge, be responsible, take responsibility	책임지다
+책임지다	to be in charge, be responsible, take responsibility (유. 맡다)
 날개 돋친 듯 팔리다	to sell like hot cakes
-to sell like hot cakes	날개 돋친 듯 팔리다
 간격 (넓다/좁다)	interval, space, distance, gap (유. 거리, 사이) 버스가 한 시간 [interval]으로 이곳을 지나간다. 시험 볼 때에는 책상과 책상의 [space]을 넓혀서 앉는다.
-interval, space, distance, gap (유. 거리, 사이) 버스가 한 시간 [interval]으로 이곳을 지나간다. 시험 볼 때에는 책상과 책상의 [space]을 넓혀서 앉는다.	간격 (넓다/좁다)
 간접	indirectness (반. 직접) 사람은 책을 통해 [indirect] 경험을 할 수 있다. 친구를 통해 [indirect](적)으로 소식을 들었다.
-indirectness (반. 직접) 사람은 책을 통해 [indirect] 경험을 할 수 있다. 친구를 통해 [indirect](적)으로 소식을 들었다.	간접
 간판 (걸다/따다)	1) signboard; 2) paper qualification; 3) front, figurehead; 1) 시내에 나가면 여기저기 화려한 [signboard]들이 눈에 띈다. 2) 대학 [paper qualification]을 따기 위해 대학교에 가서는 안 된다. 3) [figurehead]뿐인 사장
-1) signboard; 2) paper qualification; 3) front, figurehead; 1) 시내에 나가면 여기저기 화려한 [signboard]들이 눈에 띈다. 2) 대학 [paper qualification]을 따기 위해 대학교에 가서는 안 된다. 3) [figurehead]뿐인 사장	간판 (걸다/따다)
 눈에 띄다	to attract attention, stand out, catch someone's eye
-to attract attention, stand out, catch someone's eye	눈에 띄다
 갈등 (하다/일으키다/해소하다)	conflict (have a conflict, to stir up a conflict, to resolve a conflict) 이 드라마는 고부간의 [conflict]을 주로 다룬다. 노사 간의 [conflict]을 해소하기 위해서는 타협해야 한다.
-conflict (have a conflict, to stir up a conflict, to resolve a conflict) 이 드라마는 고부간의 [conflict]을 주로 다룬다. 노사 간의 [conflict]을 해소하기 위해서는 타협해야 한다.	갈등 (하다/일으키다/해소하다)
 (스트레스를/갈등을) 해소하다	to resolve, relieve, ease (stress, a conflict)
-to resolve, relieve, ease (stress, a conflict)	(스트레스를/갈등을) 해소하다
 고부간	mother-in-law and daughter-in-law relationship
-mother-in-law and daughter-in-law relationship	고부간
 노사	labor and management, management and unions
-labor and management, management and unions	노사
 타협하다	to compromise, meet halfway
-to compromise, meet halfway	타협하다
 감각 (있다/없다)	sensation, sense, feeling (유. 느낌, 센스) 1) 사고를 당한 후로 다리에 [sensation/feeling]을 잃고 말았다. 2) 그 학생은 언어 [sense]이 뛰어난 편이다.
-sensation, sense, feeling (유. 느낌, 센스) 1) 사고를 당한 후로 다리에 [sensation/feeling]을 잃고 말았다. 2) 그 학생은 언어 [sense]이 뛰어난 편이다.	감각 (있다/없다)
 뛰어나다	excellent, outstanding, remarkable, exceptional
-excellent, outstanding, remarkable, exceptional	뛰어나다
 여기저기	here and there; all over the place, everywhere
-here and there; all over the place, everywhere	여기저기
 화려하다	fancy, splendid
-fancy, splendid	화려하다
 감동적	moving, touching 소설의 내용이 매우 [moving]이었다. 이 영화는 평범한 가장의 삶을 [moving]으로 그려냈다.
-moving, touching 소설의 내용이 매우 [moving]이었다. 이 영화는 평범한 가장의 삶을 [moving]으로 그려냈다.	감동적
 가장	head of household
-head of household	가장
 감상(하다)	appreciation 서울의 야경 [appreciation]을 위해 남산으로 올라갔다. 저는 영화 [appreciation]이 취미이고 제 친구는 음악 [appreciation]이 취미예요.
-appreciation 서울의 야경 [appreciation]을 위해 남산으로 올라갔다. 저는 영화 [appreciation]이 취미이고 제 친구는 음악 [appreciation]이 취미예요.	감상(하다)
 감정 (풍부하다/있다/없다)	feeling, emotion 그는 자신의 [emotion]을 솔직하게 말하는 편이다. 내 친구는 [emotion]이 풍부해서 쉽게 눈물을 흘리곤 한다.
-feeling, emotion 그는 자신의 [emotion]을 솔직하게 말하는 편이다. 내 친구는 [emotion]이 풍부해서 쉽게 눈물을 흘리곤 한다.	감정 (풍부하다/있다/없다)
 풍부하다	to be rich (in), plentiful, ample
-to be rich (in), plentiful, ample	풍부하다
 감탄(하다)	admiration 눈이 온 산의 풍경은 [admiration]이 나올 만큼 훌륭했다. 그들이 거대한 문화유산을 보니 [admiration] 저절로 나왔다.
-admiration 눈이 온 산의 풍경은 [admiration]이 나올 만큼 훌륭했다. 그들이 거대한 문화유산을 보니 [admiration] 저절로 나왔다.	감탄(하다)
-문화 유산	cultural heritage [traditions]
-cultural heritage [traditions]	문화 유산
+문화 유산 (1.~을 지키다, 2.~을 알리다)	cultural heritage [traditions] 1. to protect (one's) cultural heritage 2. to promote a cultural heritage 이곳은 세계 [cultural heritage]으로 등재되었다. [cultural heritage]이 훼손되지 않도록 보호하게 힘써야 한다.
 저절로	by itself, naturally, automatically
-by itself, naturally, automatically	저절로
 풍경	scene, scenery, landscape
-scene, scenery, landscape	풍경
 거대하다	huge, great, enormous, gigantic
-huge, great, enormous, gigantic	거대하다
 강변	riverside (유. 강가) 저녁을 먹고 [riverside]을 걸으며 산책을 했다. [riverside]에는 많은 아파트 단지들이 조성되어 있다.
-riverside (유. 강가) 저녁을 먹고 [riverside]을 걸으며 산책을 했다. [riverside]에는 많은 아파트 단지들이 조성되어 있다.	강변
 (공원을) 조성하다	to built, develop (a park); foster, promote
-to built, develop (a park); foster, promote	(공원을) 조성하다
 강수량 (많다/적다)	(the amount of) rainfall, precipitation 우리 고향은 [precipitation]의 변화가 심하다. 이 지역은 [precipitation]이 적어 농사짓기에 적합하지 않다.
-(the amount of) rainfall, precipitation 우리 고향은 [precipitation]의 변화가 심하다. 이 지역은 [precipitation]이 적어 농사짓기에 적합하지 않다.	강수량 (많다/적다)
 농사짓다	to farm, do farm work
-to farm, do farm work	농사짓다
 적합하다	to be suitable, fit, appropriate, suited (for) (유. 적당하다)
-to be suitable, fit, appropriate, suited (for) (유. 적당하다)	적합하다
 강연 (하다)	lecture (유. 강의, 연설) 오늘 [lecture]은 행복에 대한 내용입니다. 그분의 [lecture]을 듣기 위해 지방에서 올라왔다.
-lecture (유. 강의, 연설) 오늘 [lecture]은 행복에 대한 내용입니다. 그분의 [lecture]을 듣기 위해 지방에서 올라왔다.	강연 (하다)
-밑줄을 긋다	to underline, underscore (literally: to draw an underline)
-to underline, underscore (literally: to draw an underline)	밑줄을 긋다
+밑줄을 긋다	to underline, underscore (literally: to draw an underline) (유. ~를 치다) 중고로 산 책에는 [underline]이 쳐져 있었다. 중요한 부분에는 [underline]을 [draw]으며 공부했다.
 개강 (하다)	opening of a course, beginning of lectures (반. 종강) 우리 학교는 다음 주부터 [beginning of lectures]이다. 그는 [beginning of lectures] 후 얼마 동안은 열심히 했으나 지금은 학교에 오지 않는다.
-opening of a course, beginning of lectures (반. 종강) 우리 학교는 다음 주부터 [beginning of lectures]이다. 그는 [beginning of lectures] 후 얼마 동안은 열심히 했으나 지금은 학교에 오지 않는다.	개강 (하다)
 개발 (하다)	development 정부는 경제 [development] 5개년 계획을 세웠다. 신제품 [development]을 위해 오랫동안 회의가 진행되었다.
-development 정부는 경제 [development] 5개년 계획을 세웠다. 신제품 [development]을 위해 오랫동안 회의가 진행되었다.	개발 (하다)
 계획을 세우다	to make a plan
-to make a plan	계획을 세우다
 개방적	to be frank, open (반. 폐쇄적, 보수적) 그는 성격이 활발하고 [open]이다. 현대 사회는 [open]이라서 다양한 문화를 쉽게 받아들인다.
-to be frank, open (반. 폐쇄적, 보수적) 그는 성격이 활발하고 [open]이다. 현대 사회는 [open]이라서 다양한 문화를 쉽게 받아들인다.	개방적
 폐쇄적	to be closed, exclusive (반. 개방적) [closed] 경제 [closed]인 사회 [closed]인 구조
-to be closed, exclusive (반. 개방적) [closed] 경제 [closed]인 사회 [closed]인 구조	폐쇄적
 보수적	to be conservative (반. 진보적)
-to be conservative (반. 진보적)	보수적
 진보적	to be progressive (반. 보수적)
-to be progressive (반. 보수적)	진보적
 개선(하다)	improvement 그 강연은 식생활 [improvement]에 많은 영향을 주었다. 입시 제도 [improvement]을 위해 선진국들의 사례를 조사하였다.
-improvement 그 강연은 식생활 [improvement]에 많은 영향을 주었다. 입시 제도 [improvement]을 위해 선진국들의 사례를 조사하였다.	개선(하다)
 선진국	advanced country, developed country
-advanced country, developed country	선진국
 입시	entrance examination
-entrance examination	입시
 제도	system, institution
-system, institution	제도
 조사하다	to investigate, examine closely
-to investigate, examine closely	조사하다
 개성 (있다/없다/살리다)	individuality, personality (유. 특징, 특성) (to have (no) personality, to express one's personality) 그는 [individuality] 뚜렷한 옷차림을 선호한다. 요즘은 예쁜 사람보다는 [personality] 있는 사람이 인기가 많다.
-individuality, personality (유. 특징, 특성) (to have (no) personality, to express one's personality) 그는 [individuality] 뚜렷한 옷차림을 선호한다. 요즘은 예쁜 사람보다는 [personality] 있는 사람이 인기가 많다.	개성 (있다/없다/살리다)
 옷차림	dress, attire
-dress, attire	옷차림
 뚜렷하다	clear, distinct, plain, evident
-clear, distinct, plain, evident	뚜렷하다
 소망하다	to wish, hope, desire
-to wish, hope, desire	소망하다
-개인적	individual (유. 사적, 반. 공적) 그 사람하고는 [individual]으로 친분이 있다. 공적인 일을 [individual]인 감정으로 처리해서는 안 된다.
-individual (유. 사적, 반. 공적) 그 사람하고는 [individual]으로 친분이 있다. 공적인 일을 [individual]인 감정으로 처리해서는 안 된다.	개인적
+개인적	individual, personal (유. 사적, 반. 공적) 그 사람하고는 [individual]으로 친분이 있다. 공적인 일을 [individual]인 감정으로 처리해서는 안 된다.
 친분이 있다	to be acquainted, be familiar
-to be acquainted, be familiar	친분이 있다
 개최 (하다/되다)	to take place; to hold, host 올림픽 [take place]를 위해 많은 투자를 했다. 한중 정상 회담 [take place]는 많은 사람의 관심을 끌고 있다.
-to take place; to hold, host 올림픽 [take place]를 위해 많은 투자를 했다. 한중 정상 회담 [take place]는 많은 사람의 관심을 끌고 있다.	개최 (하다/되다)
 정상 회담	a summit (meeting)
-a summit (meeting)	정상 회담
 투자하다	to invest
-to invest	투자하다
 처리하다	to handle, treat, process
-to handle, treat, process	처리하다
 객관적	objective, being objective (반. 주관적) 모든 사건에는 [objective]인 증거가 필요하다. 언론은 대중에게 있는 그대로의 사실을 [objective]으로 전달해야 한다.
-objective, being objective (반. 주관적) 모든 사건에는 [objective]인 증거가 필요하다. 언론은 대중에게 있는 그대로의 사실을 [objective]으로 전달해야 한다.	객관적
 증거	evidence, proof
-evidence, proof	증거
 언론	the press, media
-the press, media	언론
 그대로	as it is
-as it is	그대로
 주관적	subjective, being subjective (반. 객관적) [subjective]으로 보다
-subjective, being subjective (반. 객관적) [subjective]으로 보다	주관적
 거래 (하다/되다/끊다)	deal, dealings, trade (유. 매매) 두 지역의 [trade]가 활발하게 이루어졌다. 상대측에서 일방적으로 [trade]를 끊었다.
-deal, dealings, trade (유. 매매) 두 지역의 [trade]가 활발하게 이루어졌다. 상대측에서 일방적으로 [trade]를 끊었다.	거래 (하다/되다/끊다)
 상대측	the opposition, other side
-the opposition, other side	상대측
 일방적	unilateral, one-sided
-unilateral, one-sided	일방적
 거품 (일다, 생기다, 빠지다)	bubble (rise up/form/burst) 1) 맥주에 [bubble]이 너무 많이 생겼다. 2) 부동산에 [bubble]이 빠지면 경기도 안정될 것이다.
-bubble (rise up/form/burst) 1) 맥주에 [bubble]이 너무 많이 생겼다. 2) 부동산에 [bubble]이 빠지면 경기도 안정될 것이다.	거품 (일다, 생기다, 빠지다)
 (바람이/거품이) 일다	to rise, blow, form
-to rise, blow, form	(바람이/거품이) 일다
 건강식품	health food 김치나 청국장 등은 한국의 대표적인 [health food]이다. 건강에 대한 관심이 높아지면서 [health food]이 잘 팔리고 있다.
-health food 김치나 청국장 등은 한국의 대표적인 [health food]이다. 건강에 대한 관심이 높아지면서 [health food]이 잘 팔리고 있다.	건강식품
 건망증 (있다/없다/심하다)	forgetfulness 젊은 사람도 [forgetfulness]에 걸릴 수 있다. 나는 [forgetfulness]이 심해서 집을 나올때 항상 다시 확인한다.
-forgetfulness 젊은 사람도 [forgetfulness]에 걸릴 수 있다. 나는 [forgetfulness]이 심해서 집을 나올때 항상 다시 확인한다.	건망증 (있다/없다/심하다)
 건설 (하다/되다)	construction (유. 건축, 반. 파괴) 1) 정부는 하반기에 신도시 [construction]을 계획하고 있다. 2) 사람들은 끊임없이 새로운 사회의 [construction]을 위해 힘쓰고 있다.
-construction (유. 건축, 반. 파괴) 1) 정부는 하반기에 신도시 [construction]을 계획하고 있다. 2) 사람들은 끊임없이 새로운 사회의 [construction]을 위해 힘쓰고 있다.	건설 (하다/되다)
 하반기	the second half of the year
-the second half of the year	하반기
 상반기	the first half of the year
-the first half of the year	상반기
 건축 (하다/되다)	architecture (유. 건설, 반. 파괴) 그 성당은 새로운 [architecture] 양식을 보여주는 [architecture]물이다. 이 도로는 아파트 [architecture] 공사로 당분간 폐쇄되오니 양해 바랍니다.
-architecture (유. 건설, 반. 파괴) 그 성당은 새로운 [architecture] 양식을 보여주는 [architecture]물이다. 이 도로는 아파트 [architecture] 공사로 당분간 폐쇄되오니 양해 바랍니다.	건축 (하다/되다)
-당분간	for the time being, for a while
-for the time being, for a while	당분간
+당분간	for the time being, for a while (유. 일단) 교통 사고를 당해서 다리를 다친 그는 [for the time being] 병원을 다니면서 치료를 해야 한다.
 폐쇄되다	to be closed, be blocked, be shut down
-to be closed, be blocked, be shut down	폐쇄되다
 성당	catholic church
-catholic church	성당
 걸음 (멈추다/늦추다/빠르다)	step 발자국 소리에 나도 모르게 [step]을 멈추었다. 고향으로 가는 [step]이 가벼워서 날아갈 것 같다.
-step 발자국 소리에 나도 모르게 [step]을 멈추었다. 고향으로 가는 [step]이 가벼워서 날아갈 것 같다.	걸음 (멈추다/늦추다/빠르다)
 검사 (하다/되다)	examination (유. 검토, 점검) 품질 [examination] 절차가 매우 까다로운 편이다. 선생님께서는 숙제 [examination]를 깜박 잊으셨다.
-examination (유. 검토, 점검) 품질 [examination] 절차가 매우 까다로운 편이다. 선생님께서는 숙제 [examination]를 깜박 잊으셨다.	검사 (하다/되다)
 발자국 소리	the sound of footsteps
-the sound of footsteps	발자국 소리
 양식	mode, style, way; (서류) a form
-mode, style, way; (서류) a form	양식
 승진(하다)	promotion, (formal) advancement (to be promoted)
-promotion, (formal) advancement (to be promoted)	승진(하다)
 검색 (하다/되다)	search 사건 자료는 인터넷을 통해 [search]이 가능하다. 비밀문서 [search]은 별도의 아이디와 비밀번호가 필요하다.
-search 사건 자료는 인터넷을 통해 [search]이 가능하다. 비밀문서 [search]은 별도의 아이디와 비밀번호가 필요하다.	검색 (하다/되다)
 겁 (1. 나다 2. 먹다 3. 있다/없다)	cowardice, fear (유. 무서움, 두려움; 반. 용기) 1. to be frightened, filled with fear 2. to be afraid 3. to be fearful/to be bold or brave 주위가 어두워지자 덜컥 [fear]이 났다. 그 아이는 [fear]도 없이 혼자 집을 나섰다.
-cowardice, fear (유. 무서움, 두려움; 반. 용기) 1. to be frightened, filled with fear 2. to be afraid 3. to be fearful/to be bold or brave 주위가 어두워지자 덜컥 [fear]이 났다. 그 아이는 [fear]도 없이 혼자 집을 나섰다.	겁 (1. 나다 2. 먹다 3. 있다/없다)
 겉모습	appearance (유. 외관, 겉모양) 사람을 [appearance]만 보고 판단해서는 안 된다. 그는 [appearance]과는 달리 무척이나 부드럽고 친절했다.
-appearance (유. 외관, 겉모양) 사람을 [appearance]만 보고 판단해서는 안 된다. 그는 [appearance]과는 달리 무척이나 부드럽고 친절했다.	겉모습
 판단하다	to judge, decide
-to judge, decide	판단하다
 무척 (피곤하다/더운 날이다)	very, really, extremely, exceedingly
-very, really, extremely, exceedingly	무척 (피곤하다/더운 날이다)
 격려 (하다/받다/보내다)	encouragement 유가족들에게 [encouragement]의 말을 전해 주세요. 힘들 때에는 무엇보다도 따뜻한 [encouragement]가 큰 힘이 된다.
-encouragement 유가족들에게 [encouragement]의 말을 전해 주세요. 힘들 때에는 무엇보다도 따뜻한 [encouragement]가 큰 힘이 된다.	격려 (하다/받다/보내다)
 결과 (나오다, 좋다)	result (유. 성과; 반. 원인) 열심히 노력한 [result] 시험에 당당히 합격했다. 나는 일을 할 때 [result]보다는 과정을 중요시하는 편이다.
-result (유. 성과; 반. 원인) 열심히 노력한 [result] 시험에 당당히 합격했다. 나는 일을 할 때 [result]보다는 과정을 중요시하는 편이다.	결과 (나오다, 좋다)
 중요시하다 [되다]	lay stress on, put emphasis on, regard as important
-lay stress on, put emphasis on, regard as important	중요시하다 [되다]
 당당히 (이기다)	1. fairly; 2. bravely; 3. confidently, proudly
-1. fairly; 2. bravely; 3. confidently, proudly	당당히 (이기다)
 결론 (1. 나다, 2. 내리다, 3. 얻다)	conclusion (유. 결말) 1. to come to conclusion 2. to conclude, reach a conclusion 3. to draw, obtain a conclusion 이 드라마의 [conclusion]이 어떻게 날지 궁금하다. 그는 모든 것의 근원은 돈이라고 [conclusion]을 내렸다.
-conclusion (유. 결말) 1. to come to conclusion 2. to conclude, reach a conclusion 3. to draw, obtain a conclusion 이 드라마의 [conclusion]이 어떻게 날지 궁금하다. 그는 모든 것의 근원은 돈이라고 [conclusion]을 내렸다.	결론 (1. 나다, 2. 내리다, 3. 얻다)
 근원 (~을 이루다)	root, cause, source (유. 원인) (e.g. to lie at the root of)
-root, cause, source (유. 원인) (e.g. to lie at the root of)	근원 (~을 이루다)
 결말 (1. 나다, 2. 내다, 짓다)	ending (유. 걸론) 1. to end, come to an end 2. to bring to an end, settle 그 영화의 [ending]이 너무 슬프다. 동화는 대부분 행복한 [ending]로 끝난다.
-ending (유. 걸론) 1. to end, come to an end 2. to bring to an end, settle 그 영화의 [ending]이 너무 슬프다. 동화는 대부분 행복한 [ending]로 끝난다.	결말 (1. 나다, 2. 내다, 짓다)
 결승 (1.~에 나가다, 2.~에 오르다, 3.~에 진출하다)	the final round, finals (유. 결승전; 반. 예선) 1. to go to the finals 2. to go up to the finals 3. to enter, advance to the finals 그는 [finals]에 올랐지만 우승은 하지 못했다. 우리 팀의 열정적인 응원으로 [finals]에 진출할 수 있었다.
-the final round, finals (유. 결승전; 반. 예선) 1. to go to the finals 2. to go up to the finals 3. to enter, advance to the finals 그는 [finals]에 올랐지만 우승은 하지 못했다. 우리 팀의 열정적인 응원으로 [finals]에 진출할 수 있었다.	결승 (1.~에 나가다, 2.~에 오르다, 3.~에 진출하다)
 진출하다	to expand; to charge to, advance to, enter (e.g. the finals)
-to expand; to charge to, advance to, enter (e.g. the finals)	진출하다
 우승 (하다)	victory, championship title, win the championship
-victory, championship title, win the championship	우승 (하다)
 겸손(하다)	modesty, humility (반. 거만) 그는 [modesty]과 친절이 몸에 배어 있는 사람이다. [humility]은 옛날부터 내려온 우리나라의 전통 미덕이다.
-modesty, humility (반. 거만) 그는 [modesty]과 친절이 몸에 배어 있는 사람이다. [humility]은 옛날부터 내려온 우리나라의 전통 미덕이다.	겸손(하다)
 미덕	a virtue
-a virtue	미덕
 거만(하다)	arrogance (반. 겸손) (e.g. to be arrogant)
-arrogance (반. 겸손) (e.g. to be arrogant)	거만(하다)
 (친절이) 몸에 배어 있다	for something to be second nature, ingrained in one's body (e.g. kindness)
-for something to be second nature, ingrained in one's body (e.g. kindness)	(친절이) 몸에 배어 있다
 경고 (1. 하다, 주다, 2. 받다)	warning (유. 주의) 1. to warn, give a warning 2. to receive a warning, be warned 경기에서 [warning]를 두 번 받으면 퇴장이다. 아무나 들어가면 안 돤다는 [warning]를 무시하고 들어갔다.
-warning (유. 주의) 1. to warn, give a warning 2. to receive a warning, be warned 경기에서 [warning]를 두 번 받으면 퇴장이다. 아무나 들어가면 안 돤다는 [warning]를 무시하고 들어갔다.	경고 (1. 하다, 주다, 2. 받다)
 경력 (1.~을 쌓다, 2.~이 있다/없다)	career, work experience (유. 경험, 이력) 1. to build one's career, gain experience 2. to have (no) experience 기사는 10년 무사고 운전 [experience]을 가지고 있다. 우리 회사에서는 상반기에 [experienced] 사원을 모집할 계획이다.
-career, work experience (유. 경험, 이력) 1. to build one's career, gain experience 2. to have (no) experience 기사는 10년 무사고 운전 [experience]을 가지고 있다. 우리 회사에서는 상반기에 [experienced] 사원을 모집할 계획이다.	경력 (1.~을 쌓다, 2.~이 있다/없다)
 사원	employee, worker, member of staff
-employee, worker, member of staff	사원
 경비 (1.~가 들다, 2.~를 줄이다)	expenditure (유. 비용) 1. to cost money, incur expenses 2. to decrease spending, expenses 이번 행사를 준비하는 데 많은 [expenses]가 들었다. 여행 [expenses]를 마련하기 위해 방학 동안 아르바이트를 했다.
-expenditure (유. 비용) 1. to cost money, incur expenses 2. to decrease spending, expenses 이번 행사를 준비하는 데 많은 [expenses]가 들었다. 여행 [expenses]를 마련하기 위해 방학 동안 아르바이트를 했다.	경비 (1.~가 들다, 2.~를 줄이다)
-경영 (1. 하다, 2. 되다)	management, administration (process) (유. 운영) 1. to manage 2. to be managed 화사 [management]이 갑자기 어려워졌다. 기업의 소유와 [management]은 분리되어야 한다.
-management, administration (process) (유. 운영) 1. to manage 2. to be managed 화사 [management]이 갑자기 어려워졌다. 기업의 소유와 [management]은 분리되어야 한다.	경영 (1. 하다, 2. 되다)
+경영 (1. 하다, 2. 되다)	management, administration (process) (유. 운영) 1. to manage 2. to be managed 회사 [management]이 갑자기 어려워졌다. 기업의 소유와 [management]은 분리되어야 한다.
 소유(하다)	ownership (to own)
-ownership (to own)	소유(하다)
 경우	instance, case (유. 상황, 도리) 1) 비가 올 [case]에도 행사는 예정대로 진행할 것이다. 2) 그는 [case] 맞지 않는 행동을 하지 않는다.
-instance, case (유. 상황, 도리) 1) 비가 올 [case]에도 행사는 예정대로 진행할 것이다. 2) 그는 [case] 맞지 않는 행동을 하지 않는다.	경우
 서민	ordinary person, common people
-ordinary person, common people	서민
-사정	reason, circumstances, situation
-reason, circumstances, situation	사정
+사정 (~이 있다/생기다)	reason, circumstances, situation [reason]이 있어서 약속을 미루게 됐다. 갑자기 [situation]이 생겨서 오늘 회사에 갈 수 없다.
 경제적 (반. 비경제적)	financial, economical 1) 비싼 등록금은 [financial]으로 부담이 된다. 2) 혼자보다 여럿이 공동으로 구매하는 것이 [economical]이다.
-financial, economical 1) 비싼 등록금은 [financial]으로 부담이 된다. 2) 혼자보다 여럿이 공동으로 구매하는 것이 [economical]이다.	경제적 (반. 비경제적)
 비경제적	uneconomical 24시간 영업하는 것은 [uneconomical]이다. 예산을 [uneconomical]으로 사용했다.
-uneconomical 24시간 영업하는 것은 [uneconomical]이다. 예산을 [uneconomical]으로 사용했다.	비경제적
 경험 (1. 하다, 2. 풍부하다, 3. 쌓다)	experience (유. 체험, 반. 상상) 1. to experience 2. to be experienced, have a large amount of experience 3. gain experience, accumulate experience 고통과 시련도 좋은 [experience]이라고 생각한다. [experience]이 풍부한 사람들은 그만큼 생각도 깊다.
-experience (유. 체험, 반. 상상) 1. to experience 2. to be experienced, have a large amount of experience 3. gain experience, accumulate experience 고통과 시련도 좋은 [experience]이라고 생각한다. [experience]이 풍부한 사람들은 그만큼 생각도 깊다.	경험 (1. 하다, 2. 풍부하다, 3. 쌓다)
 시련	ordeal, trial, hardship, test
-ordeal, trial, hardship, test	시련
 상상(하다)	imagination (to imagine)
-imagination (to imagine)	상상(하다)
 계약 (1. 하다, 2.~을 성사시키다, 3.~을 맺다)	contract 1. to make a contract 2. to succeed in finalizing/making a contract 3. to enter into a contract, sign a contract 오늘 전세 [contract]을 2년 더 연장했다. 그 기업과의 [contract]을 성사시키기 위해 최선을 다했다.
-contract 1. to make a contract 2. to succeed in finalizing/making a contract 3. to enter into a contract, sign a contract 오늘 전세 [contract]을 2년 더 연장했다. 그 기업과의 [contract]을 성사시키기 위해 최선을 다했다.	계약 (1. 하다, 2.~을 성사시키다, 3.~을 맺다)
 계층	class, echelon (유. 집단, 계급) 모든 사회에는 [class] 간의 갈등이 있다. 정부는 소외된 [class]을 위한 정책을 마련해야 한다.
-class, echelon (유. 집단, 계급) 모든 사회에는 [class] 간의 갈등이 있다. 정부는 소외된 [class]을 위한 정책을 마련해야 한다.	계층
 소외되다	to be alienated, marginalized
-to be alienated, marginalized	소외되다
 마련하다	prepare, arrange; provide 나는 우리의 여행을 위해 차편을 [arranged].
-prepare, arrange; provide 나는 우리의 여행을 위해 차편을 [arranged].	마련하다
 고개 (1.~를 숙이다, 2.~를 들다, 3.~를 끄덕이다)	head 1. to lower one's head 2. to raise one's head 3. to nod one's head 그는 알았다는 듯이 [head]를 끄덕였다. 내가 한 행동이 부끄러워서 [head]를 들 수 없었다.
-head 1. to lower one's head 2. to raise one's head 3. to nod one's head 그는 알았다는 듯이 [head]를 끄덕였다. 내가 한 행동이 부끄러워서 [head]를 들 수 없었다.	고개 (1.~를 숙이다, 2.~를 들다, 3.~를 끄덕이다)
 (고개를) 끄덕이다	to nod (one's head)
-to nod (one's head)	(고개를) 끄덕이다
 고민 (1. 하다, 2.~을 해결하다, 3.~을 털어놓다)	worry, woe (유. 걱정) 1. to agonize, worry 2. to find a solution to one's problem, resolve one's worries 3. to get off one's chest, confess one's worries 유학을 갈지 취업 할지 [worry] 중이다. 안색이 안 좋아 보여요. 요즘은 무슨 [worry] 있어요?
-worry, woe (유. 걱정) 1. to agonize, worry 2. to find a solution to one's problem, resolve one's worries 3. to get off one's chest, confess one's worries 유학을 갈지 취업 할지 [worry] 중이다. 안색이 안 좋아 보여요. 요즘은 무슨 [worry] 있어요?	고민 (1. 하다, 2.~을 해결하다, 3.~을 털어놓다)
 안색이 나쁘다	to look bad, unwell
-to look bad, unwell	안색이 나쁘다
 고백 (하다, 받다)	confession 사랑한다는 [confession]과 함께 빨간 장미를 건네주었다. 진실된 그의 [confession]을 듣고 나도 모르게 눈물이 흘렀다.
-confession 사랑한다는 [confession]과 함께 빨간 장미를 건네주었다. 진실된 그의 [confession]을 듣고 나도 모르게 눈물이 흘렀다.	고백 (하다, 받다)
 건네주다	to hand, deliver
-to hand, deliver	건네주다
 차편	transportation
-transportation	차편
 고장 (1.~이 나다, 2.~이 잦다)	breakdown, trouble 1. to break (down) 2. to frequently break down 차가 오래되서 그런지 [breakdown]이 너무 잦다. 라디오가 [breakdown]이 나서 소리가 나지 않는다.
-breakdown, trouble 1. to break (down) 2. to frequently break down 차가 오래되서 그런지 [breakdown]이 너무 잦다. 라디오가 [breakdown]이 나서 소리가 나지 않는다.	고장 (1.~이 나다, 2.~이 잦다)
 고집 (1.~이 세다, 2.~을 부리다/피우다, 3.~을 버리다)	persistence, stubbornness 1. to be stubborn 2. to be stubborn, to show persistence 3. to stop being stubborn 아이가 장난감을 사 달라고 [stubborness]을 부렸다. 그는 [stubborness]이 너무 세서 자기 의견을 절대로 꺾지 않을 것이다.
-persistence, stubbornness 1. to be stubborn 2. to be stubborn, to show persistence 3. to stop being stubborn 아이가 장난감을 사 달라고 [stubborness]을 부렸다. 그는 [stubborness]이 너무 세서 자기 의견을 절대로 꺾지 않을 것이다.	고집 (1.~이 세다, 2.~을 부리다/피우다, 3.~을 버리다)
 신체적	to be physical, related to one's body [physical] 건강 [physically]으로 힘들다
-to be physical, related to one's body [physical] 건강 [physically]으로 힘들다	신체적
 극심하다 (e.g. 피해, 더위, 추위, 고통)	to be severe, intense, extreme
-to be severe, intense, extreme	극심하다 (e.g. 피해, 더위, 추위, 고통)
 겪다	to experience, undergo, suffer
-to experience, undergo, suffer	겪다
 (불면증에) 시달리다	to suffer (from), be pestered (by) (e.g. suffer from insomnia)
-to suffer (from), be pestered (by) (e.g. suffer from insomnia)	(불면증에) 시달리다
 꺾다	to break, twist, snap
-to break, twist, snap	꺾다
 곤란 (1. 하다, 2.~에 빠지다, 3.~을 겪다)	difficulty, hardship, trouble (유. 어려움, 궁핍) 1. to be difficult 2. to fall into trouble, difficulty 3. to undergo difficulty, go through difficulty 아버지가 돌아가시고 생활에 많은 [difficulty]을 겪었다. 친구를 [difficulty]에 빠지게 하면 내 마음이 편할 수 없다.
-difficulty, hardship, trouble (유. 어려움, 궁핍) 1. to be difficult 2. to fall into trouble, difficulty 3. to undergo difficulty, go through difficulty 아버지가 돌아가시고 생활에 많은 [difficulty]을 겪었다. 친구를 [difficulty]에 빠지게 하면 내 마음이 편할 수 없다.	곤란 (1. 하다, 2.~에 빠지다, 3.~을 겪다)
 골치 (1.~가 아프다, 2.~를 썩이다)	the head (유. 머리) 1. to have a headache, be annoyed by, be troubled by 2. to worry about 요즘 이사 문제로 [head]를 썩이고 있다. 교통사고 보상 처리가 제대로 되지 않아서 [head]가 아프다.
-the head (유. 머리) 1. to have a headache, be annoyed by, be troubled by 2. to worry about 요즘 이사 문제로 [head]를 썩이고 있다. 교통사고 보상 처리가 제대로 되지 않아서 [head]가 아프다.	골치 (1.~가 아프다, 2.~를 썩이다)
 곳곳	here and there, everywhere, in parts (유. 여기저기, 각지) 시내 [everywhere]에 교통 체증이 심각했다. 나는 자전거를 타고 전국 [here and there]을 여행 다녔다.
-here and there, everywhere, in parts (유. 여기저기, 각지) 시내 [everywhere]에 교통 체증이 심각했다. 나는 자전거를 타고 전국 [here and there]을 여행 다녔다.	곳곳
 (교통) 체증	indigestion (or: traffic congestion)
-indigestion (or: traffic congestion)	(교통) 체증
 공공장소	public place [public place]에서는 금연이오니 흡연을 삼가 주세요. [public place]에서 다른 사람에게 피해를 주는 행동은 하지 말아야 한다.
-public place [public place]에서는 금연이오니 흡연을 삼가 주세요. [public place]에서 다른 사람에게 피해를 주는 행동은 하지 말아야 한다.	공공장소
 삼가다	to abstain from, refrain from
-to abstain from, refrain from	삼가다
 공동	joint, collaborative, in association (유. 합동, 반. 단독) 1. 책을 [jointly]으로 구매하니 훨씬 저렴하다. 2. 마음 맞는 친구들이 [jointly]으로 투자를 해서 회사를 경영하고 있다.
-joint, collaborative, in association (유. 합동, 반. 단독) 1. 책을 [jointly]으로 구매하니 훨씬 저렴하다. 2. 마음 맞는 친구들이 [jointly]으로 투자를 해서 회사를 경영하고 있다.	공동
 저렴하다	to be cheap, inexpensive
-to be cheap, inexpensive	저렴하다
-소화(하다)	digestion; assimilation, absorption [digestion]가 잘되는 음식 이 책은 고등학생이 [absorption]하기에는 너무 어렵다
-digestion; assimilation, absorption [digestion]가 잘되는 음식 이 책은 고등학생이 [absorption]하기에는 너무 어렵다	소화(하다)
+소화 (1. 하다, 2. 되다, 3. 시키다)	digestion; assimilation, absorption 1. to digest 2. to be digested 3. to digest [digestion]가 잘되는 음식 이 책은 고등학생이 [absorption]하기에는 너무 어렵다 식혜는 [digestion]에 좋은 음료이다. [digestion]가 잘 되자 않아서 속이 불편했다.
 복원하다	to restore, reconstruct
-to restore, reconstruct	복원하다
 한창	at the height, zenith, climax; in full bloom 이제 장미는 [bloom] 때가 지났다.
-at the height, zenith, climax; in full bloom 이제 장미는 [bloom] 때가 지났다.	한창
 공통	common(ness) 환경 문제는 우리가 해결해야 할 [common] 과제이다. 빈칸에 [common]으로 들어갈 수 있는 단어를 고르십시오.
-common(ness) 환경 문제는 우리가 해결해야 할 [common] 과제이다. 빈칸에 [common]으로 들어갈 수 있는 단어를 고르십시오.	공통
 빈 칸에 써넣다	fill in the blank space
-fill in the blank space	빈 칸에 써넣다
 공포 (1.~를 느끼다, 2.~에 떨다)	fear, terror, horror (유. 두려움, 무서움) 1. to be terrified, frightened 2. to be terror-stricken, trembling with fear 어둠 속에서 들려오는 소리에 [fear]를 느겼다. 그곳에 있던 사람들은 그의 잔인한 행동을 보고 [fear]에 떨었다.
-fear, terror, horror (유. 두려움, 무서움) 1. to be terrified, frightened 2. to be terror-stricken, trembling with fear 어둠 속에서 들려오는 소리에 [fear]를 느겼다. 그곳에 있던 사람들은 그의 잔인한 행동을 보고 [fear]에 떨었다.	공포 (1.~를 느끼다, 2.~에 떨다)
 잔인하다	to be cruel, brutal; merciless, cold-blooded
-to be cruel, brutal; merciless, cold-blooded	잔인하다
 공해	(environmental) pollution (유. 오염) 각종 [pollution]로 인해 많은 자연 생물들이 쉴 곳이 없다. 이곳에서는 [pollution]를 발생시킬 수 있는 물질의 사용을 금하고 있다.
-(environmental) pollution (유. 오염) 각종 [pollution]로 인해 많은 자연 생물들이 쉴 곳이 없다. 이곳에서는 [pollution]를 발생시킬 수 있는 물질의 사용을 금하고 있다.	공해
-물질	matter, substance, material
-matter, substance, material	물질
+물질	matter, substance, material 나무에서 병을 치료할 수 있는 [substance]이 발견됐다. 조사 결과 그것에는 인체에 해로운 [substance]이 포함되어 있었다.
 과로(하다)	overwork 그는 몇일 동안 밤을 새우고 일하더니 결국 [overwork]로 쓰러졌다. 감기를 예방하기 위해서는 [overwork]와 스트레스 등을 피해야 한다.
-overwork 그는 몇일 동안 밤을 새우고 일하더니 결국 [overwork]로 쓰러졌다. 감기를 예방하기 위해서는 [overwork]와 스트레스 등을 피해야 한다.	과로(하다)
 쓰러지다	to fall (down), collapse
-to fall (down), collapse	쓰러지다
 과목 (선택하다, 듣다)	subject 학교에서 제가 가르치는 [subject]은 수학입니다.
-subject 학교에서 제가 가르치는 [subject]은 수학입니다.	과목 (선택하다, 듣다)
 과소비 (1.하다, 2.~를 부추기다)	overspending (반. 절약) 1. to overspend 2. to stimulate, instigate overspending 경제가 살아나려면 사치와 [overspending]를 막아야 한다. 과장된 광고들이 소비자들의 [overspending]를 부추기고 있다.
-overspending (반. 절약) 1. to overspend 2. to stimulate, instigate overspending 경제가 살아나려면 사치와 [overspending]를 막아야 한다. 과장된 광고들이 소비자들의 [overspending]를 부추기고 있다.	과소비 (1.하다, 2.~를 부추기다)
 사치(스럽다)	luxury, extravagance
-luxury, extravagance	사치(스럽다)
 과장되다	to be exaggerated, overstated
-to be exaggerated, overstated	과장되다
 과속 (1. 하다, 2.~으로 달리다)	speeding 1. to speed 2. to drive too fast [speeding] 차량은 다른 사람의 생명까지 위협한다. 비 올 때 [speeding]으로 인한 교통사고 발생률이 높다.
-speeding 1. to speed 2. to drive too fast [speeding] 차량은 다른 사람의 생명까지 위협한다. 비 올 때 [speeding]으로 인한 교통사고 발생률이 높다.	과속 (1. 하다, 2.~으로 달리다)
 (생명/건강을) 위협하다	to threaten; intimidate, menace (e.g. someone's life, health)
-to threaten; intimidate, menace (e.g. someone's life, health)	(생명/건강을) 위협하다
 과식(하다)	overeating (유. 폭식, 반. 소식) [overeating]으로 인해 배탈이 났다. 건강을 위해서는 [overeating]보다는 소식을 하는 것이 좋다.
-overeating (유. 폭식, 반. 소식) [overeating]으로 인해 배탈이 났다. 건강을 위해서는 [overeating]보다는 소식을 하는 것이 좋다.	과식(하다)
 배탈이 나다	to have a stomach ache
-to have a stomach ache	배탈이 나다
 소식하다	to not eat much
-to not eat much	소식하다
 (범죄) 발생률	incidence (rate) (e.g. crime rate)
-incidence (rate) (e.g. crime rate)	(범죄) 발생률
 과외(하다)	private lessons 어렸을 때부터 [private lessons]로 그림을 배웠다. 학교 수업을 도저히 따라갈 수 없어서 [private lessons]를 받고 있다.
-private lessons 어렸을 때부터 [private lessons]로 그림을 배웠다. 학교 수업을 도저히 따라갈 수 없어서 [private lessons]를 받고 있다.	과외(하다)
 도저히 (못 먹다, 못 하다)	utterly, absolutely (negative) (유. 전혀)
-utterly, absolutely (negative) (유. 전혀)	도저히 (못 먹다, 못 하다)
 과음(하다)	overdrinking (유. 폭음) [overdrinking]은 건강을 해친다. 어제 [overdrinking]으로 인해 오늘 출근을 못 했다.
-overdrinking (유. 폭음) [overdrinking]은 건강을 해친다. 어제 [overdrinking]으로 인해 오늘 출근을 못 했다.	과음(하다)
-(결과를) 보고하다	to report (on) (e.g. results)
-to report (on) (e.g. results)	(결과를) 보고하다
+(결과를) 보고하다	to report (on) (e.g. results) 사건이 생기고 한참 후에야 [report]를 받았다. 상사에게 업무 계획과 실적에 관한 [report]를 드렸다.
 못지않다	to not be inferior to, be no less than 그 여자는 자기 언니 [no less]게 아름답다.
-to not be inferior to, be no less than 그 여자는 자기 언니 [no less]게 아름답다.	못지않다
 과제 (1. 있다/없다, 2.~가 주어지다)	assignment, task (유. 숙제) 1. to have a (no) task 2. to be given a task 통일은 우리 민족의 [task]이다. 정부가 우선적으로 해결해야 할 [task]는 물가 안정이다.
-assignment, task (유. 숙제) 1. to have a (no) task 2. to be given a task 통일은 우리 민족의 [task]이다. 정부가 우선적으로 해결해야 할 [task]는 물가 안정이다.	과제 (1. 있다/없다, 2.~가 주어지다)
 관객	audience (유. 관람객, 관중) 휴일에는 극장에 [audience]들이 많다. 이번 공연은 [audience]들이 뜨거운 호응을 얻었다.
-audience (유. 관람객, 관중) 휴일에는 극장에 [audience]들이 많다. 이번 공연은 [audience]들이 뜨거운 호응을 얻었다.	관객
 호응(하다)	(positive) response; to respond to 아무도 그의 제안에 [positive response]하지 않았다.
-(positive) response; to respond to 아무도 그의 제안에 [positive response]하지 않았다.	호응(하다)
 제안(하다)	suggestion, proposal; to suggest
-suggestion, proposal; to suggest	제안(하다)
 관계자	the persons concerned, a participator, contracting party (유. 당사자) 이곳은 [participant] 외 출입을 금지합니다. 이번 사건 [participants]들을 모두 모아 진실을 밝히고자 한다.
-the persons concerned, a participator, contracting party (유. 당사자) 이곳은 [participant] 외 출입을 금지합니다. 이번 사건 [participants]들을 모두 모아 진실을 밝히고자 한다.	관계자
 진실 (~을 밝히다)	honest, truth, fact (e.g. to reveal the truth)
-honest, truth, fact (e.g. to reveal the truth)	진실 (~을 밝히다)
 관광 (1. 하다, 2.~을 떠나다)	sightseeing (유. 구경) 1. to go sightseeing 2. to leave and go sightseeing 여행사들은 새로운 [sightseeing] 상품 개발에 몰두하고 있다. 첫째 날은 서울 시내 [sightseeing] 후 자유 시간을 갖겠습니다.
-sightseeing (유. 구경) 1. to go sightseeing 2. to leave and go sightseeing 여행사들은 새로운 [sightseeing] 상품 개발에 몰두하고 있다. 첫째 날은 서울 시내 [sightseeing] 후 자유 시간을 갖겠습니다.	관광 (1. 하다, 2.~을 떠나다)
 밀접한 관계가 있다	to be closely connected with, in close connection with
-to be closely connected with, in close connection with	밀접한 관계가 있다
 관심 (1.~을 끌다, 2. 있다/없다, 3.~을 쏟다)	interest 1. to attract attention, draw interest 2. to have an (no) interest, be interested in 3. to concentrate, focus one's attention on something 월드컵 개최로 인해서 온 곡민이 축구에 [interest]을 [concentrate]고 있다.
-interest 1. to attract attention, draw interest 2. to have an (no) interest, be interested in 3. to concentrate, focus one's attention on something 월드컵 개최로 인해서 온 곡민이 축구에 [interest]을 [concentrate]고 있다.	관심 (1.~을 끌다, 2. 있다/없다, 3.~을 쏟다)
 (물/마음/힘/관심을) 쏟다	to spill, pour; concentrate (on)
-to spill, pour; concentrate (on)	(물/마음/힘/관심을) 쏟다
 (맥주를) 따르다	to pour
-to pour	(맥주를) 따르다
 온 국민	the whole nation
-the whole nation	온 국민
 성원하다	to support, give support, root for
-to support, give support, root for	성원하다
 관찰 (1. 하다, 2. 되다)	observation 1. to observe 2. to be observed 이 책은 개미의 [observation] 결과를 기록한 책이다. 환자에 대한 가족들의 세심한 [observation]이 필요하다.
-observation 1. to observe 2. to be observed 이 책은 개미의 [observation] 결과를 기록한 책이다. 환자에 대한 가족들의 세심한 [observation]이 필요하다.	관찰 (1. 하다, 2. 되다)
 세심하다	to be careful, attentive (about something); (꼼꼼하다) meticulous
-to be careful, attentive (about something); (꼼꼼하다) meticulous	세심하다
 기록하다	to record, document (sth.)
-to record, document (sth.)	기록하다
 개미	an ant
-an ant	개미
 광장	square, plaza 많은 사람이 시청 앞 [square]에 모여 경기를 응원했다. 날이 어더워지자 시민들은 하나둘씩 서울역 [square]을 빠져나갔다.
-square, plaza 많은 사람이 시청 앞 [square]에 모여 경기를 응원했다. 날이 어더워지자 시민들은 하나둘씩 서울역 [square]을 빠져나갔다.	광장
 교육 (1. 하다, 2.~을 받다)	education, training 1. to train, educate 2. to receive training 요즘 젊은 부모들은 아이들 [education]에 관심이 매우 많다. 방학 기간에 지도자 [training]을 받기 위해 세미나에 참석했다.
-education, training 1. to train, educate 2. to receive training 요즘 젊은 부모들은 아이들 [education]에 관심이 매우 많다. 방학 기간에 지도자 [training]을 받기 위해 세미나에 참석했다.	교육 (1. 하다, 2.~을 받다)
 지도자	leader, guide
-leader, guide	지도자
 교재 (1.~가 좋다/나쁘다, 2.~를 쓰다)	teaching materials 1. the teaching materials are good/bad 2. to write teaching materials 최근 새로 나오는 [teaching materials]는 신선하고 독특한 디자인이 많다. 좋은 교육이 이루어지려면 좋은 [teaching materials]가 기분이 되어야 한다.
-teaching materials 1. the teaching materials are good/bad 2. to write teaching materials 최근 새로 나오는 [teaching materials]는 신선하고 독특한 디자인이 많다. 좋은 교육이 이루어지려면 좋은 [teaching materials]가 기분이 되어야 한다.	교재 (1.~가 좋다/나쁘다, 2.~를 쓰다)
 신선하다	to be fresh, new
-to be fresh, new	신선하다
 독특하다	to be peculiar (to), exclusive, unique, distinct
-to be peculiar (to), exclusive, unique, distinct	독특하다
 교통수단	means of transportation (유. 교통편, not 차편) 대도시에서는 지하철이 중요 [means of transportation]이다. 이동을 위한 [means of transportation]에는 여러 종류가 있다.
-means of transportation (유. 교통편, not 차편) 대도시에서는 지하철이 중요 [means of transportation]이다. 이동을 위한 [means of transportation]에는 여러 종류가 있다.	교통수단
 교통편 (1.~이 좋다/나쁘다, 2.~이 좁다)	(means of) transportation (유. 교통수단) 1. to have good/bad transportation 2. for transportation to be cramped 행사 참석자들에게는 [transportation]과 숙식이 제공된다. 그곳은 [transportation]이 좁지 않아 관광객이 많지 않다.
-(means of) transportation (유. 교통수단) 1. to have good/bad transportation 2. for transportation to be cramped 행사 참석자들에게는 [transportation]과 숙식이 제공된다. 그곳은 [transportation]이 좁지 않아 관광객이 많지 않다.	교통편 (1.~이 좋다/나쁘다, 2.~이 좁다)
 교환 (1. 하다, 2. 되다)	exchange 1. to exchange 2. to be exchanged 구입 후 일주일 안에 오시면 [exchange]이 가능합니다. [exchange]을 원하시면 구입하신 제품과 영수증을 가져 오셔야 합니다.
-exchange 1. to exchange 2. to be exchanged 구입 후 일주일 안에 오시면 [exchange]이 가능합니다. [exchange]을 원하시면 구입하신 제품과 영수증을 가져 오셔야 합니다.	교환 (1. 하다, 2. 되다)
 숙식을 제공하다	to provide, offer accommodation + food
-to provide, offer accommodation + food	숙식을 제공하다
 구두쇠	miser, cheapskate (유. 자린고비) 돈에 인색한 사람을 [miser]라고 한다. [cheapskate]로 소문난 친구가 한턱낸다고 해서 깜짝 놀랐다.
-miser, cheapskate (유. 자린고비) 돈에 인색한 사람을 [miser]라고 한다. [cheapskate]로 소문난 친구가 한턱낸다고 해서 깜짝 놀랐다.	구두쇠
 저녁을 한턱내다	to pay for dinner, to treat to dinner
-to pay for dinner, to treat to dinner	저녁을 한턱내다
-인색한 사람	a miserly, cheap person; cheapskate
-a miserly, cheap person; cheapskate	인색한 사람
+인색한 사람	a miserly, cheap person; cheapskate (유. 구두쇠)
 구매(하다)	(to) purchase (유. 구입, 반. 판매) 광고는 소비자들의 [purchase] 의욕을 자극한다. 물건을 공동으로 구입하면 [purchase] 가격을 할인 받을 수 있다.
-(to) purchase (유. 구입, 반. 판매) 광고는 소비자들의 [purchase] 의욕을 자극한다. 물건을 공동으로 구입하면 [purchase] 가격을 할인 받을 수 있다.	구매(하다)
 의욕 (높다/낮다)	will, drive, desire
-will, drive, desire	의욕 (높다/낮다)
 학습 의욕이 높다	to be motivated to study
-to be motivated to study	학습 의욕이 높다
 구멍 (1.~이 나다, 2.~이 뚫리다)	hole, opening 1. for a hole to appear, to open 2. for a hole to be made, opened 1) 양말에 [hole]이 난 것도 모르고 신고 다녔다. 2) 도저히 이 생활을 빠져나갈 [opening]이 안 보인다. 3) 그가 한 일은 [holes]이 많아서 다시 확인해야 한다.
-hole, opening 1. for a hole to appear, to open 2. for a hole to be made, opened 1) 양말에 [hole]이 난 것도 모르고 신고 다녔다. 2) 도저히 이 생활을 빠져나갈 [opening]이 안 보인다. 3) 그가 한 일은 [holes]이 많아서 다시 확인해야 한다.	구멍 (1.~이 나다, 2.~이 뚫리다)
 빠져나가다	to get out, escape, evade
-to get out, escape, evade	빠져나가다
 구별 (1. 하다, 2. 되다)	distinction (유. 구분) 1. to distinguish, discriminate 2. to be distinguished 친구 사이라도 공사 [distinction]이 필요할 때가 있다. 요즘 패션에는 남자와 여자의 [distinction]이 없는 것 같다.
-distinction (유. 구분) 1. to distinguish, discriminate 2. to be distinguished 친구 사이라도 공사 [distinction]이 필요할 때가 있다. 요즘 패션에는 남자와 여자의 [distinction]이 없는 것 같다.	구별 (1. 하다, 2. 되다)
 구성 (1. 하다, 2. 되다)	composition 1. to form, organize, compose 2. to be made up (of), composed, consist 이 글은 [composition]이 탄탄하다. 재난 대책 위원회의 [composition]에 문제점이 많이 발견 되었다.
-composition 1. to form, organize, compose 2. to be made up (of), composed, consist 이 글은 [composition]이 탄탄하다. 재난 대책 위원회의 [composition]에 문제점이 많이 발견 되었다.	구성 (1. 하다, 2. 되다)
 위원회	committee, commission, (advisory) board
-committee, commission, (advisory) board	위원회
 탄탄하다	robust, strong, solid
-robust, strong, solid	탄탄하다
 구입(하다)	(to) purchase (유. 구매, 반. 판매) 신제품 [purchase]을 위해 많은 비용을 지출했다. 부동산 가격이 올라서 아파트 [purchase] 쉽지 않다.
-(to) purchase (유. 구매, 반. 판매) 신제품 [purchase]을 위해 많은 비용을 지출했다. 부동산 가격이 올라서 아파트 [purchase] 쉽지 않다.	구입(하다)
 (비용을) 지출하다	to expend, pay (an expense)
-to expend, pay (an expense)	(비용을) 지출하다
 선장	captain (of a ship)
-captain (of a ship)	선장
 추상적 (~인 개념)	to be abstract, not detailed (반. 구체적) (e.g. an abstract idea)
-to be abstract, not detailed (반. 구체적) (e.g. an abstract idea)	추상적 (~인 개념)
 개념	concept, idea, notion
-concept, idea, notion	개념
 국가	nation (유. 나라) [nation]는 국민을 보호할 의무가 있다. 지난해에 비해 [nation] 경쟁력이 상승했다.
-nation (유. 나라) [nation]는 국민을 보호할 의무가 있다. 지난해에 비해 [nation] 경쟁력이 상승했다.	국가
 의무	obligation, duty
-obligation, duty	의무
 경쟁력 (~이 상승하다/~을 높이다)	competitiveness, competitive edge (e.g. to become more competitive, to raise one's competitiveness)
-competitiveness, competitive edge (e.g. to become more competitive, to raise one's competitiveness)	경쟁력 (~이 상승하다/~을 높이다)
 국외	foreign country, overseas (유. 해외, 외국, 반. 국내) 이 제품은 [foreign country]로 수출되고 있다.
-foreign country, overseas (유. 해외, 외국, 반. 국내) 이 제품은 [foreign country]로 수출되고 있다.	국외
 수출하다	export
-export	수출하다
 수입하다	to import
-to import	수입하다
 탈출하다	to escape
-to escape	탈출하다
 군대 (1.~에 가다, 2.~를 마치다)	the military 1. to go to the military 2. to finish military service 대한민국 남자는 [military]에 가야 하는 의무가 있다. 그는 [military] 생활을 잘 마치고 멋있는 남자가 되어 돌아왔다.
-the military 1. to go to the military 2. to finish military service 대한민국 남자는 [military]에 가야 하는 의무가 있다. 그는 [military] 생활을 잘 마치고 멋있는 남자가 되어 돌아왔다.	군대 (1.~에 가다, 2.~를 마치다)
 궁금증 (1.~이 생기다, 2.~을 해결하다)	curiosity 1. to become curious (about) 2. to satisfy one's curiosity, for the question to be resolved 시간이 지날수록 [curiosity]이 더해 갔다. [curiosity]을 해결하기 위해 인터넷 검색을 이용했다.
-curiosity 1. to become curious (about) 2. to satisfy one's curiosity, for the question to be resolved 시간이 지날수록 [curiosity]이 더해 갔다. [curiosity]을 해결하기 위해 인터넷 검색을 이용했다.	궁금증 (1.~이 생기다, 2.~을 해결하다)
 귀국(하다)	homecoming, return to one's country
-homecoming, return to one's country	귀국(하다)
 (일정을) 앞당기다	to move up, make something earlier, advance (e.g. a schedule)
-to move up, make something earlier, advance (e.g. a schedule)	(일정을) 앞당기다
 규칙적	to be regular 군대에서는 [regular]인 생활을 한다. 건강을 회복하려면 [regular]인 식사와 운동이 필요하다.
-to be regular 군대에서는 [regular]인 생활을 한다. 건강을 회복하려면 [regular]인 식사와 운동이 필요하다.	규칙적
 그늘	shade (유. 음지, 반. 양지) 너무 더우니까 [shade]에서 잠깐 쉬어가자. 더운 여름에도 나무 [shade]에 안자 있으면 시원하다.
-shade (유. 음지, 반. 양지) 너무 더우니까 [shade]에서 잠깐 쉬어가자. 더운 여름에도 나무 [shade]에 안자 있으면 시원하다.	그늘
 근로자	worker (유. 노동자) 5월 1일은 [worker]의 날이다. 회사의 경영자와 [worker]의 입장은 다르지만 대화를 통해서 타협할 수 있다.
-worker (유. 노동자) 5월 1일은 [worker]의 날이다. 회사의 경영자와 [worker]의 입장은 다르지만 대화를 통해서 타협할 수 있다.	근로자
 근무(하다)	(to) work 야간 [work]는 주간 [work]보다 더 힘들다. 아르바이트는 [work] 시간에 비례해서 비용을 계산한다.
-(to) work 야간 [work]는 주간 [work]보다 더 힘들다. 아르바이트는 [work] 시간에 비례해서 비용을 계산한다.	근무(하다)
 주간	daytime, during the day (반. 야간); a week (유. 일주일)
-daytime, during the day (반. 야간); a week (유. 일주일)	주간
 근육 (1.~을 만들다/키우다, 2.~이 있다/없다)	muscle 1. to build muscle, grow muscles 2. to have (no) muscles 그 선수는 [muscle]이 잘 발달되어 있다. 요즘 젊은이들은 [muscle]을 키우는 데 신경을 많이 쓴다.
-muscle 1. to build muscle, grow muscles 2. to have (no) muscles 그 선수는 [muscle]이 잘 발달되어 있다. 요즘 젊은이들은 [muscle]을 키우는 데 신경을 많이 쓴다.	근육 (1.~을 만들다/키우다, 2.~이 있다/없다)
-발달하다	to develop (유. 발전, 개발)
-to develop (유. 발전, 개발)	발달하다
+발달 (1. 하다, 2. 되다)	development, growth (유. 발전, 개발) 1. to develop 2. to be developed, grown 과학기술의 [development]로 생활이 편리해졌다. 아이의 [development] 상태를 알아보러 병원에 갔다.
 글쓴이	writer (유. 작가, 지은이) 글의 제목에는 [writer]의 의도가 잘 나타나 있다. 소설이나 수필 등과 같은 글을 쓴 사람을 [writer]라고 한다.
-writer (유. 작가, 지은이) 글의 제목에는 [writer]의 의도가 잘 나타나 있다. 소설이나 수필 등과 같은 글을 쓴 사람을 [writer]라고 한다.	글쓴이
 의도	intention, aim, purpose
-intention, aim, purpose	의도
 의도하다	to intend (to do something)
-to intend (to do something)	의도하다
 수필 (쓰다)	essay
-essay	수필 (쓰다)
 글씨 (1.~를 쓰다)	handwriting, letters (유. 글자) 1. to write letters, characters 칠판에 [letters]를 예쁘게 썼다. 마음이 급하니 [handwriting]도 엉망이네요.
-handwriting, letters (유. 글자) 1. to write letters, characters 칠판에 [letters]를 예쁘게 썼다. 마음이 급하니 [handwriting]도 엉망이네요.	글씨 (1.~를 쓰다)
 칠판	blackboard, chalkboard
-blackboard, chalkboard	칠판
 글자 (쓰다)	letter, type, character (유. 글씨, 문자) 너무 급하게 써서 무슨 [letter]인지 못 알아보겠어요.
-letter, type, character (유. 글씨, 문자) 너무 급하게 써서 무슨 [letter]인지 못 알아보겠어요.	글자 (쓰다)
 금액 (1.~이 크다/작다)	amount of money (유. 액수) 여기에 카드를 넣고 찾고 싶은 [amount]을 누르십시오. 지진 피해를 입은 사람들과 보상 [amount]을 의논하고 있다.
-amount of money (유. 액수) 여기에 카드를 넣고 찾고 싶은 [amount]을 누르십시오. 지진 피해를 입은 사람들과 보상 [amount]을 의논하고 있다.	금액 (1.~이 크다/작다)
 긍정적	positive (반. 부정적) 행복하게 살려면 [positive]인 사고방식이 필요하다. 인터넷이 청소년들에게 미치는 [positive]인 영향에 대해 이야기해 봅시다.
-positive (반. 부정적) 행복하게 살려면 [positive]인 사고방식이 필요하다. 인터넷이 청소년들에게 미치는 [positive]인 영향에 대해 이야기해 봅시다.	긍정적
 사고방식	one's way of thinking
-one's way of thinking	사고방식
-부정적	negative (반. 긍정적)
-negative (반. 긍정적)	부정적
+부정적	negative (반. 긍정적) [negative]인 생각보다 긍정적인 생각을 해야 한다. 나이가 들면서 [negative]으로 변하는 건 아닌지 걱정스럽다.
 기계 (1.~를 다루다)	machine 1. to handle, operate a machine 공장에 최신 [machine]가 한 대 들어왔다. 그는 하루 종일 [machine]를 다루는 위험한 직업을 가지고 있다.
-machine 1. to handle, operate a machine 공장에 최신 [machine]가 한 대 들어왔다. 그는 하루 종일 [machine]를 다루는 위험한 직업을 가지고 있다.	기계 (1.~를 다루다)
 기념일 (1. 기념하다, 2. 기념품, 3. 기념관)	anniversary 1. to commomerate 2. a souvenir 3. memorial hall 내일은 우리가 만난 지 100일 되는 [anniversary]이다. 회사 창립 [anniversary]을 맞아 다채로운 행사가 열릴 예정이다.
-anniversary 1. to commomerate 2. a souvenir 3. memorial hall 내일은 우리가 만난 지 100일 되는 [anniversary]이다. 회사 창립 [anniversary]을 맞아 다채로운 행사가 열릴 예정이다.	기념일 (1. 기념하다, 2. 기념품, 3. 기념관)
 창립(하다)	founding, establishment (e.g. to found)
-founding, establishment (e.g. to found)	창립(하다)
 다채롭다	various, diverse, colorful [diverse] 문화 행사가 열렸다 서울의 음식문화는 사실 [diverse].
-various, diverse, colorful [diverse] 문화 행사가 열렸다 서울의 음식문화는 사실 [diverse].	다채롭다
 기대 (1. 하다, 2. 되다, 3.~가 크다, 4.~에 어긋나다)	expectation 1. to expect, anticipate 2. to be expected, anticipated 3. to have high, great expectations 4. to fall short of one's expectations (i.e. 현실은...) [expectation]가 크면 실망도 큰 법이다. 그 영화가 재미있다는 얘기에 [expectation]를 갖고 봤는데 생각보다 별로였다.
-expectation 1. to expect, anticipate 2. to be expected, anticipated 3. to have high, great expectations 4. to fall short of one's expectations (i.e. 현실은...) [expectation]가 크면 실망도 큰 법이다. 그 영화가 재미있다는 얘기에 [expectation]를 갖고 봤는데 생각보다 별로였다.	기대 (1. 하다, 2. 되다, 3.~가 크다, 4.~에 어긋나다)
 기도 (1. 하다, 2.~를 드리다)	prayer 1. to pray 2. to give, say one's prayers 지금 우리가 할 수 있는 일은 [prayer]뿐이다. 아들이 시험에 꼭 붙게 해 달라고 [prayer]를 드렸다.
-prayer 1. to pray 2. to give, say one's prayers 지금 우리가 할 수 있는 일은 [prayer]뿐이다. 아들이 시험에 꼭 붙게 해 달라고 [prayer]를 드렸다.	기도 (1. 하다, 2.~를 드리다)
 기둥 (1.~을 세우다, 2.~이 되다)	pillar, column 1. to erect a pillar 2. to become a pillar (figuratively) 1) 집을 지을 때에는 [pillar]을 튼튼하게 세워야 한다. 2) 너희들은 자라서 우리나라의 [pillar]이 될 것이다. 그는 우리 회사의 [pillar]이다.
-pillar, column 1. to erect a pillar 2. to become a pillar (figuratively) 1) 집을 지을 때에는 [pillar]을 튼튼하게 세워야 한다. 2) 너희들은 자라서 우리나라의 [pillar]이 될 것이다. 그는 우리 회사의 [pillar]이다.	기둥 (1.~을 세우다, 2.~이 되다)
 기록 (1. 하다, 2. 되다, 3.~을 세우다)	record 1. to record, document 2. to be recorded, documented 3. to set a record (e.g. highest score) 그 선수는 마라톤 역사상 최고 [record]을 세웠다. 그는 이번 사건과 관련된 여러 [record]들을 살펴보았다.
-record 1. to record, document 2. to be recorded, documented 3. to set a record (e.g. highest score) 그 선수는 마라톤 역사상 최고 [record]을 세웠다. 그는 이번 사건과 관련된 여러 [record]들을 살펴보았다.	기록 (1. 하다, 2. 되다, 3.~을 세우다)
 역사상	historically, from a historical point of view [historically]으로 보면 그 두 가문 사이에는 항상 경쟁이 심했다.
-historically, from a historical point of view [historically]으로 보면 그 두 가문 사이에는 항상 경쟁이 심했다.	역사상
 기본	basics, basis (유. 기초, 바탕) 무슨 일을 하든지 [basics]에 충실해야 한다. 어른에게 인사를 하는 것은 가장 [basic]이 되는 예절이다.
-basics, basis (유. 기초, 바탕) 무슨 일을 하든지 [basics]에 충실해야 한다. 어른에게 인사를 하는 것은 가장 [basic]이 되는 예절이다.	기본
 (기본에) 충실하다	to stick to, be faithful to sth. (e.g. the basics)
-to stick to, be faithful to sth. (e.g. the basics)	(기본에) 충실하다
 예절 (~을 배우다, 지키다)	manners, etiquette (e.g. to learn manners, to observe manners)
-manners, etiquette (e.g. to learn manners, to observe manners)	예절 (~을 배우다, 지키다)
 기부(하다)	donation, contribution (e.g. to donate) 각 기업들은 매달 일정 금액 [donate]를 약속했다. 우리 사회에 올바른 [donation] 문화가 하루 빨리 자리를 잡았으면 좋겠다.
-donation, contribution (e.g. to donate) 각 기업들은 매달 일정 금액 [donate]를 약속했다. 우리 사회에 올바른 [donation] 문화가 하루 빨리 자리를 잡았으면 좋겠다.	기부(하다)
 올바르다	right, correct, accurate; proper, upright [right] 방향으로 나아가다 [upright] 사람 [upright] 습관
-right, correct, accurate; proper, upright [right] 방향으로 나아가다 [upright] 사람 [upright] 습관	올바르다
 기분 (1.~이 좋다/나쁘다, 2.~이 상하다)	feelings, mood 1. to have a good/bad mood or feeling 2. to take offense (at) 친구랑 싸워서 [feeling]이 좋지 않아요. 날씨가 따뜻하고 맑은 날에는 [mood]도 상쾌하고 좋아요.
-feelings, mood 1. to have a good/bad mood or feeling 2. to take offense (at) 친구랑 싸워서 [feeling]이 좋지 않아요. 날씨가 따뜻하고 맑은 날에는 [mood]도 상쾌하고 좋아요.	기분 (1.~이 좋다/나쁘다, 2.~이 상하다)
 (기분이) 상쾌하다	fresh, refreshing (e.g. to feel refreshed)
-fresh, refreshing (e.g. to feel refreshed)	(기분이) 상쾌하다
 기쁨 (~을 주다)	pleasure, joy, happiness, delight (유. 즐거움, 반. 슬픔, 괴로움) 그는 나를 보자 [happiness]의 눈물을 흘렸다. 자식들은 부모들에게 [joy]인 동시에 희망이다.
-pleasure, joy, happiness, delight (유. 즐거움, 반. 슬픔, 괴로움) 그는 나를 보자 [happiness]의 눈물을 흘렸다. 자식들은 부모들에게 [joy]인 동시에 희망이다.	기쁨 (~을 주다)
 기술 (1.~이 좋다/나쁘다, 2.~을 배우다)	technology 1. for a technology to be good/bad 2. to learn a technology 과학 [technology]의 발전에 따라 경제도 많이 발전했다. 그는 건축 [technology]을 배우기 위해 3년 동안이나 막노동을 했다.
-technology 1. for a technology to be good/bad 2. to learn a technology 과학 [technology]의 발전에 따라 경제도 많이 발전했다. 그는 건축 [technology]을 배우기 위해 3년 동안이나 막노동을 했다.	기술 (1.~이 좋다/나쁘다, 2.~을 배우다)
 막노동(하다)	physical labor, manual labor
-physical labor, manual labor	막노동(하다)
 기억 (1.~하다/되다, 2.~이 나다, 3.~에 남다)	memory 1. to remember/to be remembered 2. to remember, recall 3. to remain in one's memory, be impressed in one's memory 요즘은 사람들의 이름도 잘 [memory]이 나지 않는다. 어렸을 때 헤어졌지만 어머니의 얼굴은 뚜렷하게 [memory]에 남아 있다.
-memory 1. to remember/to be remembered 2. to remember, recall 3. to remain in one's memory, be impressed in one's memory 요즘은 사람들의 이름도 잘 [memory]이 나지 않는다. 어렸을 때 헤어졌지만 어머니의 얼굴은 뚜렷하게 [memory]에 남아 있다.	기억 (1.~하다/되다, 2.~이 나다, 3.~에 남다)
 기억력 (1.~이 좋다/나쁘다)	memory (capability) 1. for one's memory to be good, bad 나이를 먹을수록 [memory]이 나쁘지는 듯하다. 그는 [memory]이 좋아서 한번 들은 이름은 절대 잊어버리지 않는다.
-memory (capability) 1. for one's memory to be good, bad 나이를 먹을수록 [memory]이 나쁘지는 듯하다. 그는 [memory]이 좋아서 한번 들은 이름은 절대 잊어버리지 않는다.	기억력 (1.~이 좋다/나쁘다)
 기업 (e.g. 대기업, 중기업, 소기업)	corporation, business, enterprise (유. 회사) 그는 작은 가게를 세계적인 [enterprise]으로 성장시켰다. [business] 경영에 대한 공부를 제대로 하기 위해 유학을 떠났다.
-corporation, business, enterprise (유. 회사) 그는 작은 가게를 세계적인 [enterprise]으로 성장시켰다. [business] 경영에 대한 공부를 제대로 하기 위해 유학을 떠났다.	기업 (e.g. 대기업, 중기업, 소기업)
 성장시키다	to grow, develop 동물을 [grow] 경제를 [develop]
-to grow, develop 동물을 [grow] 경제를 [develop]	성장시키다
 기운 (1.~이 나다, 2.~이 세다, 3.~을 차리다)	energy (유. 힘) 1. to gain strength, feel strong 2. to be strong 3. to recover strength 이것 좀 먹고 얼른 [energy] 좀 차리세요. 아이들이 씩씩하게 잘 자라는 걸 보니 [energy]이 저절로 난다.
-energy (유. 힘) 1. to gain strength, feel strong 2. to be strong 3. to recover strength 이것 좀 먹고 얼른 [energy] 좀 차리세요. 아이들이 씩씩하게 잘 자라는 걸 보니 [energy]이 저절로 난다.	기운 (1.~이 나다, 2.~이 세다, 3.~을 차리다)
 (1. 식탁을; 2. 정신을, 기운을) 차리다	to set, prepare, fix; to recover, regain 1. to set the table 2. to regain consciousness, strength
-to set, prepare, fix; to recover, regain 1. to set the table 2. to regain consciousness, strength	(1. 식탁을; 2. 정신을, 기운을) 차리다
 씩씩하다	to be manly, valiant, brave, courageous
-to be manly, valiant, brave, courageous	씩씩하다
 (기준을/제한속도를) 초과하다	to exceed, go over (formal) (e.g. a standard, the speed limit)
-to exceed, go over (formal) (e.g. a standard, the speed limit)	(기준을/제한속도를) 초과하다
 배기가스	exhaust gas, fumes
-exhaust gas, fumes	배기가스
 (배기가스) 배출량	output, released amount, emissions (e.g. of exhaust gas)
-output, released amount, emissions (e.g. of exhaust gas)	(배기가스) 배출량
 기초 (1.~를 쌓다, 2.~가 되다, 3.~가 부족하다)	base, foundation (유. 바탕, 기본) 1. to build a foundation, to lay the foundation 2. to form the foundation, basis of something 3. for a foundation to be insufficient, to lack a foundation in something 건물을 지을 때 [base]를 튼튼히 해야 한다. 수학 [foundation]가 부족해서 별도로 학원에 다니면서 보충하고 있다.
-base, foundation (유. 바탕, 기본) 1. to build a foundation, to lay the foundation 2. to form the foundation, basis of something 3. for a foundation to be insufficient, to lack a foundation in something 건물을 지을 때 [base]를 튼튼히 해야 한다. 수학 [foundation]가 부족해서 별도로 학원에 다니면서 보충하고 있다.	기초 (1.~를 쌓다, 2.~가 되다, 3.~가 부족하다)
 부족하다	to be insufficient, inadequate
-to be insufficient, inadequate	부족하다
 별도(로)	separate, special (use or way)
-separate, special (use or way)	별도(로)
 기호 (1.~를 붙이다)	sign, symbol 1. to mark (with a sign) 수학에는 많은 [symbol]가 사용된다. 인간이 의사소통을 위해 사용하는 말이나 글자 등도 모두 [sign]에 해당된다.
-sign, symbol 1. to mark (with a sign) 수학에는 많은 [symbol]가 사용된다. 인간이 의사소통을 위해 사용하는 말이나 글자 등도 모두 [sign]에 해당된다.	기호 (1.~를 붙이다)
 상하다	to spoil, go bad or rotten 1. [spoiled] 냄새가 나다 2. 우유가 [has gone bad] 3. ~에 마음을 [go bad, hurt]
-to spoil, go bad or rotten 1. [spoiled] 냄새가 나다 2. 우유가 [has gone bad] 3. ~에 마음을 [go bad, hurt]	상하다
-보충하다	to replenish, supplement, fill up a deficiency 식품과 식수 비축 물자를 [replenish] 부족한 잠은 나중에 [replenish] 할 수 있다
-to replenish, supplement, fill up a deficiency 식품과 식수 비축 물자를 [replenish] 부족한 잠은 나중에 [replenish] 할 수 있다	보충하다
+보충 (1. 하다, 2. 되다)	supplement, replenishment 1. to replenish, supplement, fill up a deficiency 2. to be supplemented, replenished 기운이 없을 때는 영양 [supplement]을 좀 하는 것이 좋다. 고등학교에서는 입시 때문에 [supplement] 수업을 하는 학교가 많다. 부족한 잠은 나중에 [replenish] 할 수 있다.
 괴로움 (~을 견디다, 겪다)	pain, suffering (e.g. to bear the suffering, to undergo suffering)
-pain, suffering (e.g. to bear the suffering, to undergo suffering)	괴로움 (~을 견디다, 겪다)
 기혼 (1. 기혼자)	matrimony, the state of being married (반. 미혼) 1. married person 회사에서 [being married]이냐 아니냐가 승진에 영향을 주지는 않는다. 직장을 다니는 [married] 여성이 육아와 살림으로 직장을 그만두는 경우가 많다.
-matrimony, the state of being married (반. 미혼) 1. married person 회사에서 [being married]이냐 아니냐가 승진에 영향을 주지는 않는다. 직장을 다니는 [married] 여성이 육아와 살림으로 직장을 그만두는 경우가 많다.	기혼 (1. 기혼자)
 망설이다	hesitate, waver (between) 1. 나는 그녀에게 어떤 선물을 줘야 할지 [waver]. 2. 왜 그에게 편지 보내기를 [hesitate]이는 거야?
-hesitate, waver (between) 1. 나는 그녀에게 어떤 선물을 줘야 할지 [waver]. 2. 왜 그에게 편지 보내기를 [hesitate]이는 거야?	망설이다
 환경오염	environmental pollution
-environmental pollution	환경오염
 열정적	passionate, ardent 나는 늘 [passionate]인 사랑을 꿈꿔 왔다 [with passion] 가르치다 음악에 대한 [passionate]인 관심 [passionate]인 응원
-passionate, ardent 나는 늘 [passionate]인 사랑을 꿈꿔 왔다 [with passion] 가르치다 음악에 대한 [passionate]인 관심 [passionate]인 응원	열정적
 이상 기후 (~를 겪다)	abnormal climate, weather
-abnormal climate, weather	이상 기후 (~를 겪다)
 긴장감 (1.~을 느끼다, 2.~이 감돌다)	tension 1. to feel tension 2. for tension to be hanging in the air 그 영화는 보는 내내 조금도 [tension]을 늦출 수 없었다. 모두들 자신의 순서를 기다리며 앉아 있는 면접 대기실에서는 [tension]이 느껴졌다.
-tension 1. to feel tension 2. for tension to be hanging in the air 그 영화는 보는 내내 조금도 [tension]을 늦출 수 없었다. 모두들 자신의 순서를 기다리며 앉아 있는 면접 대기실에서는 [tension]이 느껴졌다.	긴장감 (1.~을 느끼다, 2.~이 감돌다)
 길가	roadside (유. 길거리) [roadside]에 피어 있는 꽃들이 바람에 이리저리 흔들리고 있다. 길을 잃었는지 주인이 없는 강아지 [roadside]에 앉아 있었다.
-roadside (유. 길거리) [roadside]에 피어 있는 꽃들이 바람에 이리저리 흔들리고 있다. 길을 잃었는지 주인이 없는 강아지 [roadside]에 앉아 있었다.	길가
 길이	length (~ — 넓이 — 높이 — 깊이) 치마 [length]가 너무 길어서 수선을 맡겼다. 한국에서는 밤의 [length]가 가장 긴 동지에는 팥죽을 먹는다.
-length (~ — 넓이 — 높이 — 깊이) 치마 [length]가 너무 길어서 수선을 맡겼다. 한국에서는 밤의 [length]가 가장 긴 동지에는 팥죽을 먹는다.	길이
 깊이	depth, deeply (길 — 넓이 — 높이 — ~) 1) 그의 마음은 매우 깊어서 [depth]를 알 수 없다. 2) 이곳은 물의 [depth]가 얕으니 안심하고 수영해도 된다.
-depth, deeply (길 — 넓이 — 높이 — ~) 1) 그의 마음은 매우 깊어서 [depth]를 알 수 없다. 2) 이곳은 물의 [depth]가 얕으니 안심하고 수영해도 된다.	깊이
 얕다	to be shallow, low, superficial [shallow] 물 [light, shallow] 잠이 들다 [shallow] 접시
-to be shallow, low, superficial [shallow] 물 [light, shallow] 잠이 들다 [shallow] 접시	얕다
 김장 (1.~을 하다)	kimchi-making (for winter) 1. to make kimchi for winter 온 가족이 모두 모여서 [kimchi]을 했다. [kimchi-making]이란 겨울 동안 먹을 김치를 한꺼번에 미리 만들어 놓는 것이다.
-kimchi-making (for winter) 1. to make kimchi for winter 온 가족이 모두 모여서 [kimchi]을 했다. [kimchi-making]이란 겨울 동안 먹을 김치를 한꺼번에 미리 만들어 놓는 것이다.	김장 (1.~을 하다)
 한꺼번(에)	at once, all together, at the same time
-at once, all together, at the same time	한꺼번(에)
 (김치를) 담그다	to soak, immerse; make (kimchi)
-to soak, immerse; make (kimchi)	(김치를) 담그다
 껍질 (1.~이 얇다/두껍다, 2.~을 벗기다)	skin (유. 껍데기) 달걀 [skin]은 음식물 쓰레기로 버리면 안 된다. 잘 씻어 말린 과일 [skin]은 차나 요리로 재활용 할 수 있다.
-skin (유. 껍데기) 달걀 [skin]은 음식물 쓰레기로 버리면 안 된다. 잘 씻어 말린 과일 [skin]은 차나 요리로 재활용 할 수 있다.	껍질 (1.~이 얇다/두껍다, 2.~을 벗기다)
 달걀	an egg [egg]을 깨다
-an egg [egg]을 깨다	달걀
 꼬리 (1.~가 길다, 2.~를 내리다)	tail 1. to have a long tail; to make the same mistake repeatedly 2. to lower one's tail; to keep a submissive attitude, a low profile 1) 강아지가 나를 보자 반갑게 [tail]를 흔들면서 따라다녔다. 2) [tail]가 길면 밟히는 법이니 여기서 그만두는게 좋겠다.
-tail 1. to have a long tail; to make the same mistake repeatedly 2. to lower one's tail; to keep a submissive attitude, a low profile 1) 강아지가 나를 보자 반갑게 [tail]를 흔들면서 따라다녔다. 2) [tail]가 길면 밟히는 법이니 여기서 그만두는게 좋겠다.	꼬리 (1.~가 길다, 2.~를 내리다)
 나들이 (1. 하다, 2.~를 가다)	trip, outing 1. to go on a trip 2. to go for a trip 날씨가 너무 화창해서 가족들과 [trip]를 나왔다. 결혼한 지 1년이 다 되어서야 친정 [trip]를 할 수 있었다.
-trip, outing 1. to go on a trip 2. to go for a trip 날씨가 너무 화창해서 가족들과 [trip]를 나왔다. 결혼한 지 1년이 다 되어서야 친정 [trip]를 할 수 있었다.	나들이 (1. 하다, 2.~를 가다)
 화창하다	clear, fine, bright, sunny (weather) (유. 맑다 + 밝다) [fine, sunny] 봄날 오늘 날씨가 [clear, sunny]
-clear, fine, bright, sunny (weather) (유. 맑다 + 밝다) [fine, sunny] 봄날 오늘 날씨가 [clear, sunny]	화창하다
 친정	a married woman's parents home ~에 가다 ~아버지/어머니
-a married woman's parents home ~에 가다 ~아버지/어머니	친정
 나머지	the rest, remainder 월급에서 생활비를 뺀 [rest]는 모두 저금을 한다. 방학 때 아르바이트 한 돈으로 등록금을 내고 [rest]는 생활비로 썼다.
-the rest, remainder 월급에서 생활비를 뺀 [rest]는 모두 저금을 한다. 방학 때 아르바이트 한 돈으로 등록금을 내고 [rest]는 생활비로 썼다.	나머지
 저금(하다)	saving, deposit (e.g. to save)
-saving, deposit (e.g. to save)	저금(하다)
 나물 (1.~을 무치다, 2.~을 뜯다)	herbs, vegetables, greens (유. 야채) 1. to season vegetables 2. to pick, pluck vegetables 한국의 밥상에는 [vegetable] 반찬이 자주 올라온다. 여러 가지 [vegetable]에다가 고추장을 넣어서 비벼 먹었다.
-herbs, vegetables, greens (유. 야채) 1. to season vegetables 2. to pick, pluck vegetables 한국의 밥상에는 [vegetable] 반찬이 자주 올라온다. 여러 가지 [vegetable]에다가 고추장을 넣어서 비벼 먹었다.	나물 (1.~을 무치다, 2.~을 뜯다)
 밥상	(dining) table
-(dining) table	밥상
 난방 (잘되다/안되다)	heating 이 병원은 [heating], 냉방 시설이 참 잘 되어 있다. [heating]이 되지 않는 방에서 잤더니 감기에 걸리고 말았다.
-heating 이 병원은 [heating], 냉방 시설이 참 잘 되어 있다. [heating]이 되지 않는 방에서 잤더니 감기에 걸리고 말았다.	난방 (잘되다/안되다)
 남녀노소	men and women of all ages, irrespective of age or gender 이 노래는 [~]를 막론하고 모두가 좋아한다. 이곳에서는 [~] 할 것 없이 모두 즐겁게 춤을 춘다.
-men and women of all ages, irrespective of age or gender 이 노래는 [~]를 막론하고 모두가 좋아한다. 이곳에서는 [~] 할 것 없이 모두 즐겁게 춤을 춘다.	남녀노소
 막론하다	to go without question, be needless to say ~를 [without question]하고 (...) 어떤 경우 [needless to say]하고 (...) 난 장르를 [without question] 모든 영화를 좋아한다
-to go without question, be needless to say ~를 [without question]하고 (...) 어떤 경우 [needless to say]하고 (...) 난 장르를 [without question] 모든 영화를 좋아한다	막론하다
 남녀평등	gender equality (유. 양성평등) [gender equality]에 대한 자신의 의견을 발표해 보세요. 서양의 많은 사상과 문화가 우리나라에 들어오면서 [gender equality]을 주장하는 사람들이 많아졌다.
-gender equality (유. 양성평등) [gender equality]에 대한 자신의 의견을 발표해 보세요. 서양의 많은 사상과 문화가 우리나라에 들어오면서 [gender equality]을 주장하는 사람들이 많아졌다.	남녀평등
 사상	thought, idea [thought]의 자유를 보장하다
-thought, idea [thought]의 자유를 보장하다	사상
 내기 (1. 하다, 2.~를 걸다, 3.~에 지다/이기다)	bet, wager 1. to bet, gamble 2. to make a bet 3. to lose/win a wager 결승에 진출할지 못할지를 놓고 [bet]를 걸었다. 이번 [bet]에 지는 사람이 친구들에게 아이스크림을 사기로 했다.
-bet, wager 1. to bet, gamble 2. to make a bet 3. to lose/win a wager 결승에 진출할지 못할지를 놓고 [bet]를 걸었다. 이번 [bet]에 지는 사람이 친구들에게 아이스크림을 사기로 했다.	내기 (1. 하다, 2.~를 걸다, 3.~에 지다/이기다)
 지다	to lose, be defeated, be beaten (유. 패배하다)
-to lose, be defeated, be beaten (유. 패배하다)	지다
 내용물	contents (substances, things inside) 공항에서 가방 안의 [contents]들을 모두 확인했다. [contents]이 파손되지 않도록 안전하게 포장해 주세요.
-contents (substances, things inside) 공항에서 가방 안의 [contents]들을 모두 확인했다. [contents]이 파손되지 않도록 안전하게 포장해 주세요.	내용물
 파손되다	to be damaged, broken
-to be damaged, broken	파손되다
 냉방병 (1.~에 걸리다)	air-conditioningitis, overexposure to air conditioning 1. to get sick from air conditioning 여름에는 [air-conditioningitis] 때문에 병원에 오는 사람이 많다. 실내와 실외의 온도 차이가 너무 크면 [air-conditioningitis]에 걸리기 쉽다.
-air-conditioningitis, overexposure to air conditioning 1. to get sick from air conditioning 여름에는 [air-conditioningitis] 때문에 병원에 오는 사람이 많다. 실내와 실외의 온도 차이가 너무 크면 [air-conditioningitis]에 걸리기 쉽다.	냉방병 (1.~에 걸리다)
 노동(하다)	to work, labor 월급은 [labor]의 대가로 정당하게 받는 돈이다. 주부들이 집에서 하는 집안일을 가사 [labor]이라고 한다.
-to work, labor 월급은 [labor]의 대가로 정당하게 받는 돈이다. 주부들이 집에서 하는 집안일을 가사 [labor]이라고 한다.	노동(하다)
 노동력	labor (force), workforce, manpower
-labor (force), workforce, manpower	노동력
 노력 (1. 하다, 2.~을 쏟다, 3.~을 기울이다)	effort 1. to make an effort 2. to concentrate one's efforts (on sth.) 3. to make a devoted effort 꿈을 이루기 위해서는 많은 시간과 [effort]이 필요하다. 많은 [effort]을 기울이지 않으면 문제를 해결할 수 없다.
-effort 1. to make an effort 2. to concentrate one's efforts (on sth.) 3. to make a devoted effort 꿈을 이루기 위해서는 많은 시간과 [effort]이 필요하다. 많은 [effort]을 기울이지 않으면 문제를 해결할 수 없다.	노력 (1. 하다, 2.~을 쏟다, 3.~을 기울이다)
 노선	route (유. ~도) 이곳을 지나가는 새로운 버스 [route]이 생겼다. 이제는 혼자서도 지하철 [route]을 보고 원하는 곳을 찾아갈 수 있다.
-route (유. ~도) 이곳을 지나가는 새로운 버스 [route]이 생겼다. 이제는 혼자서도 지하철 [route]을 보고 원하는 곳을 찾아갈 수 있다.	노선
 비례하다	to be in proportion (to) [proportion]하여 증가하다 이것은 필요에 [proportion]하여 충분치 않다. 국가들은 인구에 [proportion]하여 대표된다
-to be in proportion (to) [proportion]하여 증가하다 이것은 필요에 [proportion]하여 충분치 않다. 국가들은 인구에 [proportion]하여 대표된다	비례하다
 회복하다	to recover, regain, revitalize 건강을 [recover] 경기를 [revitalize, recover] 병에서 [recover] 질서를 [regain, restore]
-to recover, regain, revitalize 건강을 [recover] 경기를 [revitalize, recover] 병에서 [recover] 질서를 [regain, restore]	회복하다
 노약자	the old and infirm [the old]에게 자리를 양보해야 한다. 지하철이나 버스에는 [the old]를 위한 좌석이 마련되어 있다.
-the old and infirm [the old]에게 자리를 양보해야 한다. 지하철이나 버스에는 [the old]를 위한 좌석이 마련되어 있다.	노약자
 녹음 (1. 하다, 2. 되다, 3.~을 듣다)	recording 1. to record 2. to be recorded 3. to listen to a recording [recording]이 잘되어 소리가 선명하게 들린다. 별도의 녹음기 없이 휴대 전화만 있어도 얼마든지 [recording]이 가능하다.
-recording 1. to record 2. to be recorded 3. to listen to a recording [recording]이 잘되어 소리가 선명하게 들린다. 별도의 녹음기 없이 휴대 전화만 있어도 얼마든지 [recording]이 가능하다.	녹음 (1. 하다, 2. 되다, 3.~을 듣다)
 선명하다	clear, distinct, sharp, vivid (i.e. picture, print) 인쇄가 [sharp] 녹음이 [clear] [sharp] 사진 이 그림은 컬러가 [vivid]
-clear, distinct, sharp, vivid (i.e. picture, print) 인쇄가 [sharp] 녹음이 [clear] [sharp] 사진 이 그림은 컬러가 [vivid]	선명하다
 농담	joke (반. 진담) 유머가 있는 사람은 [joke]도 아주 잘한다. 그 사람이 하는 말은 [joke] 반 진담 반이라서 어떤 말을 믿고 어떤 말을 안 믿어야 할지 모르겠다.
-joke (반. 진담) 유머가 있는 사람은 [joke]도 아주 잘한다. 그 사람이 하는 말은 [joke] 반 진담 반이라서 어떤 말을 믿고 어떤 말을 안 믿어야 할지 모르겠다.	농담
 농사 (1.~를 짓다)	farming 1. to do farm work, farming 올해 [farming]는 풍년이라 모두 배불리 먹을 수 있다. 농촌이 생활이 어려워지자 [farming]를 짓는 사람들이 점점 줄고 있다.
-farming 1. to do farm work, farming 올해 [farming]는 풍년이라 모두 배불리 먹을 수 있다. 농촌이 생활이 어려워지자 [farming]를 짓는 사람들이 점점 줄고 있다.	농사 (1.~를 짓다)
 배불리 먹다	to eat heartily, to one's heart's content
-to eat heartily, to one's heart's content	배불리 먹다
 풍년 (~이 들다)	a year of plenty, a rich year, a year with a good harvest
-a year of plenty, a rich year, a year with a good harvest	풍년 (~이 들다)
 농작물 (1.~을 거두다, 2.~을 재배하다)	crop 1. to harvest a crop 2. to cultivate, grow, raise crops 마을 사람들은 [crop]을 공동으로 재배했다. 이상 기후로 인해 [crop]에 많은 피해가 발생하였다.
-crop 1. to harvest a crop 2. to cultivate, grow, raise crops 마을 사람들은 [crop]을 공동으로 재배했다. 이상 기후로 인해 [crop]에 많은 피해가 발생하였다.	농작물 (1.~을 거두다, 2.~을 재배하다)
 농산물	agricultural products, farm produce
-agricultural products, farm produce	농산물
-높이	height (길 — 넓이 — ~ — 깊이) 건물의 [height]가 얼마나 되는지 모르겠다. 아이가 태어날 때 같이 심은 나무가 이제는 [height]를 잴 수 없을 정도로 크게 자랐다.
-height (길 — 넓이 — ~ — 깊이) 건물의 [height]가 얼마나 되는지 모르겠다. 아이가 태어날 때 같이 심은 나무가 이제는 [height]를 잴 수 없을 정도로 크게 자랐다.	높이
+높이	height (길이 — 넓이 — ~ — 깊이) 건물의 [height]가 얼마나 되는지 모르겠다. 아이가 태어날 때 같이 심은 나무가 이제는 [height]를 잴 수 없을 정도로 크게 자랐다.
 재다	to measure, gauge, weigh; take into consideration
-to measure, gauge, weigh; take into consideration	재다
 심다	to plant (e.g. a tree) 정원에 사과나무를 [plant]
-to plant (e.g. a tree) 정원에 사과나무를 [plant]	심다
 눈치 (1.~를 보다, 2.~를 주다, 3.~가 있다/없다)	wits, sense 1. to be (self-)conscious, to have a regard for feelings, to read one's face/countenance 2. to give someone a gaze, notice; to make someone sense sth. 3. to be tactful/tactless [sense]가 있는 사람에게 센스가 있다고 말하기도 한다. 그는 이리저리 [sense]를 보다가 아무도 모르게 슬쩍 나왔다.
-wits, sense 1. to be (self-)conscious, to have a regard for feelings, to read one's face/countenance 2. to give someone a gaze, notice; to make someone sense sth. 3. to be tactful/tactless [sense]가 있는 사람에게 센스가 있다고 말하기도 한다. 그는 이리저리 [sense]를 보다가 아무도 모르게 슬쩍 나왔다.	눈치 (1.~를 보다, 2.~를 주다, 3.~가 있다/없다)
 이리저리	here and there (not 여기저기)
-here and there (not 여기저기)	이리저리
 슬쩍	secretly, stealthily [secretly] (훔쳐)보다 그녀는 [secretly] 남편의 눈치를 살폈다.
-secretly, stealthily [secretly] (훔쳐)보다 그녀는 [secretly] 남편의 눈치를 살폈다.	슬쩍
 훔쳐보다	to take a glance at, peek at (sth.)
-to take a glance at, peek at (sth.)	훔쳐보다
-애용하다	to love and use regularly; to patronize 국삼품을 [use regularly]
-to love and use regularly; to patronize 국삼품을 [use regularly]	애용하다
+애용하다	to love and use regularly; to patronize 국산품을 [use regularly]
 능동적	active, being proactive (유. 주동적, 반. 피동적, 수동적) 그는 모든 일에 [active]이고 모범적인 학생이다. 시민들에게 발생하는 문제에 대해서 [active]으로 해결해야 한다.
-active, being proactive (유. 주동적, 반. 피동적, 수동적) 그는 모든 일에 [active]이고 모범적인 학생이다. 시민들에게 발생하는 문제에 대해서 [active]으로 해결해야 한다.	능동적
-모범적	to be model, exemplary [exemplary] 학생 그녀의 생동은 [exemplary]이었다.
-to be model, exemplary [exemplary] 학생 그녀의 생동은 [exemplary]이었다.	모범적
+모범적	to be model, exemplary [exemplary] 학생 그녀의 행동은 [exemplary]이었다.
 수동적	passive, being passive (유. 피동적, 반. 능동적) [passive]인 사람 그는 그 관계에서 [passive]인 역할을 했다. 그런 [passive]인 자세로는 아무것도 얻을 수 없다.
-passive, being passive (유. 피동적, 반. 능동적) [passive]인 사람 그는 그 관계에서 [passive]인 역할을 했다. 그런 [passive]인 자세로는 아무것도 얻을 수 없다.	수동적
 능력 (1.~이 있다/없다, 2.~이 뛰어나다)	ability 1. to be (un)able to do, be (in)capable of doing 2. to have an excellent, exceptional ability 그는 사람들과 잘 어울리고 화합하는 [ability]이 있다. 새로 뽑은 신입사원은 업무 처리 [ability]이 뛰어나다.
-ability 1. to be (un)able to do, be (in)capable of doing 2. to have an excellent, exceptional ability 그는 사람들과 잘 어울리고 화합하는 [ability]이 있다. 새로 뽑은 신입사원은 업무 처리 [ability]이 뛰어나다.	능력 (1.~이 있다/없다, 2.~이 뛰어나다)
 화합(하다)	harmony (to harmonize, be in concord; unite) 나는 우리 모두 [unite]할 수 있을거라 믿는다.
-harmony (to harmonize, be in concord; unite) 나는 우리 모두 [unite]할 수 있을거라 믿는다.	화합(하다)
 뽑다	to pull (out), to draw; to select, choose; to recruit, hire
-to pull (out), to draw; to select, choose; to recruit, hire	뽑다
 다수	many, majority (of) (반. 소수) 이 안건에 대해 [majority]가 찬성한다면 채택될 것이다. 이번 휴가는 [majority]의 의견에 따라 시간과 장소를 정하기로 했다.
-many, majority (of) (반. 소수) 이 안건에 대해 [majority]가 찬성한다면 채택될 것이다. 이번 휴가는 [majority]의 의견에 따라 시간과 장소를 정하기로 했다.	다수
 안건	item (on the agenda) 다음 [item]으로 넘어갈까요?
-item (on the agenda) 다음 [item]으로 넘어갈까요?	안건
 채택하다	to choose, adopt (e.g. an agreement, a policy, a bill) 합의서를 [adopt] 정책을 [adopt] 의안을 [adopt]
-to choose, adopt (e.g. an agreement, a policy, a bill) 합의서를 [adopt] 정책을 [adopt] 의안을 [adopt]	채택하다
 정하다	to decide, determine; to fix, set
-to decide, determine; to fix, set	정하다
 추진하다	to propel, push (ahead), drive, promote 개발을 [push ahead] 계획을 [push ahead]
-to propel, push (ahead), drive, promote 개발을 [push ahead] 계획을 [push ahead]	추진하다
 단기간	short period of time (반. 장기간) 그는 [short period of time]에 많은 수익을 올렸다. 이 약은 [short period of time]에 많은 살을 뺄 수 있다고 광고하고 있다.
-short period of time (반. 장기간) 그는 [short period of time]에 많은 수익을 올렸다. 이 약은 [short period of time]에 많은 살을 뺄 수 있다고 광고하고 있다.	단기간
 장기간	long period of time, long time (반. 단기간) [long period of time]의 협상 후에 합의가 이뤄졌다.
-long period of time, long time (반. 단기간) [long period of time]의 협상 후에 합의가 이뤄졌다.	장기간
 단속 (1. 하다, 2.~이 있다/없다, 3.~에 걸리다)	crackdown, strict control, supervision (유. 감독, 통제) 1. to supervise, regulate; clamp down 2. for there to be a (no) clampdown 3. to be caught in a crackdown 길가에 세워 둔 차가 주차 [crackdown]에 걸렸다. 이번 주는 집중 [control] 기간이니 음주, 속도, 주차 등에 주의하십시오.
-crackdown, strict control, supervision (유. 감독, 통제) 1. to supervise, regulate; clamp down 2. for there to be a (no) clampdown 3. to be caught in a crackdown 길가에 세워 둔 차가 주차 [crackdown]에 걸렸다. 이번 주는 집중 [control] 기간이니 음주, 속도, 주차 등에 주의하십시오.	단속 (1. 하다, 2.~이 있다/없다, 3.~에 걸리다)
 단위	unit, measure 계약직 직원은 보통 1년 [unit]로 계약을 한다. 주말이나 공휴일에는 주로 가족 [unit]의 여행객들이 많다. 그것은 미터 [unit]로만 팝니다.
-unit, measure 계약직 직원은 보통 1년 [unit]로 계약을 한다. 주말이나 공휴일에는 주로 가족 [unit]의 여행객들이 많다. 그것은 미터 [unit]로만 팝니다.	단위
 계약직	contract worker
-contract worker	계약직
 소수	a minority, a few (반. 다수)
-a minority, a few (반. 다수)	소수
 답변 (1. 하다, 2.~을 보내다)	an answer (유. 대답) 1. to answer 2. to send an answer 문의를 하자마자 바로 [answer]이 왔다. 국민들은 이번 사건에 대한 대통력의 [answer]을 기다리고 있다.
-an answer (유. 대답) 1. to answer 2. to send an answer 문의를 하자마자 바로 [answer]이 왔다. 국민들은 이번 사건에 대한 대통력의 [answer]을 기다리고 있다.	답변 (1. 하다, 2.~을 보내다)
 당장	right now, at once, immediately (유. 즉시) 지금 [right now]이라도 당신에게 달려가고 싶다. 지금 [right now]은 지낼 만하지만 미래를 위해서 떠나는 것이 좋겠다.
-right now, at once, immediately (유. 즉시) 지금 [right now]이라도 당신에게 달려가고 싶다. 지금 [right now]은 지낼 만하지만 미래를 위해서 떠나는 것이 좋겠다.	당장
 즉시	immediately, instantly (유. 당장)
-immediately, instantly (유. 당장)	즉시
 촬영(하다)	shooting, filming (to shoot)
-shooting, filming (to shoot)	촬영(하다)
 당황 (1. 하다/되다, 2. 당황스럽다)	embarrassment, bewilderment 1. to be embarrassed bewildered 2. to be embarrassed, disconcerted 외국인이 영어로 말을 걸어오면 [flustered]을 하게 된다. 갑자기 화를 내는 그의 모습을 보고 [embarrassed]이 되었다.
-embarrassment, bewilderment 1. to be embarrassed bewildered 2. to be embarrassed, disconcerted 외국인이 영어로 말을 걸어오면 [flustered]을 하게 된다. 갑자기 화를 내는 그의 모습을 보고 [embarrassed]이 되었다.	당황 (1. 하다/되다, 2. 당황스럽다)
 대도시	big, large, major city (반. 소도시) [large city]의 교통난이 점점 심각해지고 있다. 서울시는 우리나라에서 가장 많은 인구를 가진 [large city]이다.
-big, large, major city (반. 소도시) [large city]의 교통난이 점점 심각해지고 있다. 서울시는 우리나라에서 가장 많은 인구를 가진 [large city]이다.	대도시
 교통난	traffic jam, traffic congestion (유. 교통체증)
-traffic jam, traffic congestion (유. 교통체증)	교통난
 대량	a large quantity, amount; in quantity (유. 다량, 반. 소량) 공장의 기계화로 인해 [large quantity] 생산이 가능해졌다. 시장에서 신선하고 질 좋은 야채를 [in quantity]으로 구매했다.
-a large quantity, amount; in quantity (유. 다량, 반. 소량) 공장의 기계화로 인해 [large quantity] 생산이 가능해졌다. 시장에서 신선하고 질 좋은 야채를 [in quantity]으로 구매했다.	대량
 질이 좋다 (나쁘다)	to be of good (poor) quality
-to be of good (poor) quality	질이 좋다 (나쁘다)
 소량	a small quantity, amount (반. 대량, 다량)
-a small quantity, amount (반. 대량, 다량)	소량
 산업화	industralization
-industralization	산업화
 대여 (1. 하다, 2. 되다)	rental, loan (반. 반납) 1. to rent or loan goods 2. to be rented, loaned 자동차 [rent] 시 신분증을 지참하십시오. 웨딩드레스는 한 번만 입기 때문에 [rent]를 해서 비용을 줄이기로 했다.
-rental, loan (반. 반납) 1. to rent or loan goods 2. to be rented, loaned 자동차 [rent] 시 신분증을 지참하십시오. 웨딩드레스는 한 번만 입기 때문에 [rent]를 해서 비용을 줄이기로 했다.	대여 (1. 하다, 2. 되다)
 신분증	identification (card), ID card
-identification (card), ID card	신분증
-(신부증/탑승권을) 지참하다	to bring (e.g. one's identification card/boarding pass)
-to bring (e.g. one's identification card/boarding pass)	(신부증/탑승권을) 지참하다
+(신분증/탑승권을) 지참하다	to bring (e.g. one's identification card/boarding pass)
 대접 (1. 하다, 2.~을 받다)	reception, treatment (유. 대우, 접대) 1. to receive, treat 2. to be treated, receive treatment 1) 언젠가는 기술자가 [treat]을 받는 날이 올 것이다. 2) 손님에게 제대로 식사 [treat]을 해 드리지 못했다.
-reception, treatment (유. 대우, 접대) 1. to receive, treat 2. to be treated, receive treatment 1) 언젠가는 기술자가 [treat]을 받는 날이 올 것이다. 2) 손님에게 제대로 식사 [treat]을 해 드리지 못했다.	대접 (1. 하다, 2.~을 받다)
 대중가요	pop song, pop music 대중이 즐겨 부르는 노래를 [pop music]라고 한다. 그의 노래는 [the masses]에게 많은 인기를 얻었다.
-pop song, pop music 대중이 즐겨 부르는 노래를 [pop music]라고 한다. 그의 노래는 [the masses]에게 많은 인기를 얻었다.	대중가요
 대중문화	pop culture
-pop culture	대중문화
 대중매체	mass media
-mass media	대중매체
 근본적	fundamental, basic [fundamental] 결함 그 생각은 [fundamentally]으로 틀렸다. 그 두 가지 관점 사이에는 [fundamental]인 차이가 있다.
-fundamental, basic [fundamental] 결함 그 생각은 [fundamentally]으로 틀렸다. 그 두 가지 관점 사이에는 [fundamental]인 차이가 있다.	근본적
-결함	flaw, fault, defect [flawed] 제품 근본적인 [flaw]
-flaw, fault, defect [flawed] 제품 근본적인 [flaw]	결함
+결함	flaw, fault, defect (유. 하자) [flawed] 제품 근본적인 [flaw]
 노후	one's later years, one's old age, life after retirement
-one's later years, one's old age, life after retirement	노후
-대출 (1. 하다/되다, 2.~을 받다	loan 1. to lend, borrow; be loaned, borrowed 2. to receive, take out a loan, to borrow money 신분증이 있는 경우에 도서 [loan]이 가능합니다. 어떤 사람들은 무리하게 [loan]을 받아서 집을 사기도 한다.
-loan 1. to lend, borrow; be loaned, borrowed 2. to receive, take out a loan, to borrow money 신분증이 있는 경우에 도서 [loan]이 가능합니다. 어떤 사람들은 무리하게 [loan]을 받아서 집을 사기도 한다.	대출 (1. 하다/되다, 2.~을 받다
+대출 (1. 하다/되다, 2.~을 받다)	loan 1. to lend, borrow; be loaned, borrowed 2. to receive, take out a loan, to borrow money 신분증이 있는 경우에 도서 [loan]이 가능합니다. 어떤 사람들은 무리하게 [loan]을 받아서 집을 사기도 한다.
 무리하다	to overdo it [over]하게 먹다 [over]하게 일하다
-to overdo it [over]하게 먹다 [over]하게 일하다	무리하다
 양보하다	to offer, yield, give away (to) 자리를 [yield]
-to offer, yield, give away (to) 자리를 [yield]	양보하다
+대형	to be large (반. 소형) 우리 동네에도 [large] 슈퍼마켓이 생겨서 장보기가 편해졌다. 고속도로에 야생 동물이 출몰하는 바람에 [large] 사고가 자주 발생한다.
+장보다	to go to the market, go (grocery) shopping
+야생	wild, wildness, growing in the wild [wild] 동물 [wild] 생물 [wildness]에서 살다
+출몰하다	to appear and disappear 귀신이 그곳에 [haunt]. 이 해안은 상어가 자주 [appear].
+더위 (1.~를 먹다, 2.~를 타다, 3.~를 이기다)	the heat (반. 추위) 1. to be affected by heat, for the heat to get to someone 2. to be sensitive to heat 3. to defeat the heat 나는 [heat]를 많이 타서 여름에는 밖에 잘 나가지 않는다. 찜통[heat]가 계속되자 [heat]를 피해서 산이나 바다로 떠나는 사람들이 늘었다.
+도구 (~를 사용하다)	tool 각 층에는 청소 [tool]가 마련되어 있다. [tool]를 이용하면서 인간의 문명이 발달하기 시작했다.
+문명	civilization
+도난 (~을 당하다)	theft 학교에서 고가의 카메라 [theft] 사건이 발생했다. 휴가철에 [theft]을 당하는 집이 많으니 문단속을 철저히 해 주십시오.
+철저히	thoroughly, completely, exhaustively
+고가(의)	high price, costly, expensive [costly]의 카메라 [expensive] 상품 그 그림들은 [high price]에 팔렸다.
+휴가철	vacation season
+문단속 (~을 하다)	lock up the door or gate
+도서	book (유. 책, 서적) 도서관 열람실에는 최신 [book] 목록이 작성되어 있다. 매일 출판되는 수많은 [book]들 중에서 좋은 책을 골라내는 것은 쉽지 않다.
+출판되다	to be published, come out
+열람실	reading room
+도전 (1. 하다, 2.~을 받다, 3.~에 응하다)	challenge 1. to challenge 2. to be challenged 3. to accept a challenge [challenge]에는 항상 위험이 따르기 마련이다. 주위에서는 그의 [challenge]에 박수를 보냈다.
+도중	part of the way, on the way (유. 중간, 동안) 퇴근하고 집으로 가는 [on the way]에 그를 만났다. 회의 [in the middle of]에 전화벨이 울려서 밖으로 나왔다.
+울리다	to ring, sound 전화벨이 [ring] 종을 [ring] 경종을 [ring]
+독립 (1. 하다/되다, 2.~을 기념하다)	independence 1. to be independent 2. to commemorate independence 8월 15일은 한국의 [independence]을 기념하는 날이다. 내 친구는 스무 살이 되면서 부모님한테 [independence]을 선언했다.
+동굴 (1.~을 파다, 2.~을 발견하다)	cave (유. 굴) 1. to dig a cave 2. to discover a cave [cave]은 너무 어둡고 캄캄했다. 곰은 [cave]에서 100일 동안 마늘과 쑥만 먹고 지낸 끝에 사람이 되었다.
+캄캄하다	very dark, pitch-dark; being ignorant, having no knowledge of sth. 하늘이 [pitch-dark] [very dark] 새벽 앞날이 [very dark] 경제에 [ignorant]
+동시	at the same time 두 사건은 거의 [same time]에 일어났다. 그는 동료들의 질투와 부러움을 [at the same time]에 받았다.
+동작 (~이 빠르다/느리다)	motion, movement (유. 움직임, 행동) 이 춤은 [motion]이 크고 힘이 있어 보여서 멋있다. 내 친구는 [movement]이 느려서 외출 준비할 때마다 한참을 기다려야 한다.
+마감일 (1.~이 되다, 2.~을 넘기다)	closing date, deadline 오늘이 대학교 입학 원서 접수 [closing date]이다. 원고 [deadline]이 얼마 남지 않아서 그런지 글이 더 잘 안 써진다.
+원고	manuscript, draft; plaintiff, complainant
+원서	application; original edition (of a book)
+마당	garden, yard 어렸을 때 살았던 집은 [garden]이 넓은 집이었다. 한옥에는 [yard]이 있어서 아이들이 마음껏 뛰어놀 수 있다.
+마음껏	to the full, to one's satisfaction [to the full] 먹다 [to the full] 즐기다 [to the full] 울다
+마디	word 수고했다는 말 한 [word]가 큰 힘이 된다. 그는 종일 말 한 [word] 하지 않고 묵묵히 일만 했다.
+묵묵히	silently, quietly 말없이 [silently] 학생들은 [quietly] 그의 이야기를 들었다. 우리는 아무 말도 나누지 않고 [silently] 걷기만 했다.
+마루	wooden floor [wooden floor]가 넓고 시원해서 낮잠 자기 좋다. 한옥의 특징 중에 대표적인 것이 [wooden floor]와 마당이다.
+챙기다	to look after; not forget; take; pack 약은 제때 [do not forget to] 먹어라. 그녀는 남편을 끔찍이도 [look after].
+마음씨 (1.~가 곱다)	temper, a frame of mind (유. 마음, 심성) 1. to be kind-hearted 그녀는 [kind-hearted]고 착할 뿐만 아니라 얼굴도 예쁘다. 그는 불쌍하고 약한 사람들을 보면 도와주는 착한 [frame of mind]를 가졌다.
+마중 (1. 하다, 2.~을 나가다/나오다)	meet, pick up (반. 배웅) 1. to pick someone up 2. to go/come to meet 부모님께서 공항까지 [pick up]을 나와 계셨다. 엄마한테 무서우니까 버스정류장까지 [pick up]을 나와 달라고 했다.
+배웅 (1. 하다)	send off (반. 마중) 1. to see/send someone off 역에서 사람을 [send off] 손님을 현관까지 [send off] 여행 가는 친구를 [see off]
+차다	to be full 기쁨에 [full] 그 식당은 사람들로 가득 [full] 있었다. 상자에 책이 반 정도 [full] 있었다. 비행기 좌석이 3/4 정도 찼다. 배가 꽉 [full].
+만약	if, supposing (유. 만일) [supposing]에 내가 내기에서 이긴다면 나하고 결혼해 줄래? 이 열쇠는 [in case]을 위해서 너한테 맡겨 놓는 게 좋을 거 같다.
+만족 (1. 하다, 2. 되다)	satisfaction (반. 불만족) 1. satisfied, be satisfied 2. for something to be satisfied 조건이 [satisfied]되다. 욕구가 [satisfied]되다. 그는 일을 통해 삶의 [satisfaction]을 느낀다. 할머니는 손자를 돌보는 데서 [satisfaction]을 얻는다.
+만족감 (1.~을 느끼다, 2.~을 얻다)	gratification, satisfaction (feeling) 1. to feel satisfaciton 2. to obtain gratification 그는 시험 결과를 보고 [satisfaction]을 느겼다. 감독은 선수들의 경기에 [gratification]을 표시했다.
+말다툼(하다)	argument, dispute (e.g. to argue) 사소한 [dispute]이 큰 싸움이 되었다. 그녀는 남자 친구와 [argument] 끝에 헤어져 버렸다.
+사소하다	trifling, trivial, insignificant [trivial] 다툼 [trivial] 잘못 [insignificant] 일 [insignificant] 문제 [trivial] 금액
+말투	tone, manner of speaking (유. 억양) 선생님의 [tone]는 친절하고 부드러웠다. 그녀는 화가 난 [tone]로 나에게 시비를 걸었다.
+시비를 걸다	to provoke a quarrel, pick a fight
+맞벌이하다	to work together, work for a double income
+매력적	charming, attractive 그는 눈웃음이 [charming]이다. 나에게 [attractive]인 사람은 자신의 일에 최선을 다하는 사람이다.
+매연	fumes, exhaust gas (유. 배기가스) 자동차 [exhaust gas]은 환경오염을 일으킨다. 밖에 오래 있으면 [fumes] 때문에 눈과 목이 아프다.
+매점	cafeteria 옛날 학교 [cafeteria]에서 먹던 라면이 그립다. 고등학교 때는 쉬는 시간에 항상 [cafeteria]에 갔다.
+매진되다	to be sold out, go out of stock 영화가 [sold out]이 되어서 볼 수 없었다. 공연은 한 달 동안 전석 [sold out]이 될 정도로 인기가 높았다. 참고) 전석 + sold out
+매표소	box office [box office] 앞에 사람들이 줄을 서 있다. 영화가 흥행에 성공하면서 [box office] 앞은 사람들로 붐볐다.
+붐비다	to be crowded, jam-packed (with) 사람들로 [crowded] [crowded] 도로 기념품 가게는 관광객들로 [jam-packed]
+맨발	bare foot 아이들은 해수욕장에서 [barefoot]로 뛰어놀았다. 그녀는 [barefoot]로 무대 위에서 열정적으로 노래를 불렀다.
+해수욕장	beach (유. 해변, 바닷가) 여름에는 [beach]에 가서 즐겨요
+맨손	bare hands; empty-handed 1) 김치를 [bare hands]으로 담갔더니 손이 맵다. 2) 그는 [bare hands]으로 시작하여 큰 부자가 되었다.
+먼지 (1.~를 털다)	dust 1. to dust off 오랫동안 방치한 방은 [dust]로 가득했다. 대청소를 하기 전에 [dust]부터 털어내는 게 좋겠다.
+방치하다	to neglect, leave alone or unattended
+가득하다	to be full, crammed, packed (with) 해변은 관광객들로 [full]
+명소	(tourist) attraction 이곳은 유명한 [attraction]라서 관광객이 많이 찾는다. 기말고사 과제로 각 나라의 [attraction]에 대해서 조사했다.
+명품	masterpiece; brand-name (designer) product 요즘 [designer product]을 들고 다니는 젊은이들이 많다. 경찰은 가짜 [masterpiece]을 판매한 사람을 붙잡았다.
+모범생	model student 그는 지각 한 번 하지 않는 [model student]이다. 성실하게 학업을 수행해서 다른 학생들에게 [role model]이 되는 학생을 [model student]이라고 한다.
+지각	lateness, tardiness (반. 정각)
+성실하다 (1. 성실하게)	faithful, sincere (유. 충실하다) 1. sincerely, honestly 그녀는 학업에 대단히 [diligence]. 그녀는 매우 [sincerely, with diligence (adv.)] 일한다.
+학업	study, learning; one's studies [one's studies]에 충실하다
+매진하다	to strive for, commit oneself to (유. 전념하다, 노력하다) 공부에 [strive] 학업에 [strive]
+수행(하다)	performance, fulfillment (e.g. carry out) 그는 자신의 업무를 성실히 [carried out]. 그 일은 최소의 비용으로 [fulfilled]되었다. 그녀는 자신의 모든 의무를 성실히 [carried out].
+모습	figure, form (유. 모양) 아버지와 아들의 [figure]이 많이 닮았다. 휴가철이라서 그런지 거리는 한산한 [form]이다.
+한산하다	quiet, slack 그 식당은 늘 붐비는데 오늘은 웬일인지 [quiet].
+모양	shape, form (유. 모습) 사람들이 사는 [form]은 가지각색이다. 여러 가지 [shape]으로 만든 사탕이 아이들에게 인기를 끌었다.
+모험심	adventurous spirit 내 동생은 [adventurous spirit]이 강하다. 아이들은 단체 활동을 통해 [adventurous spirit]과 협동심을 키울 수 있다.
+협동심 (~을 가지다)	cooperative spirit, team spirit
+모형	model, replica, mockup 내가 살고 싶은 집의 [model]을 만들었다. [model] 비행기를 만들어서 날리는 대회에 참가했다.
+목숨 (1.~을 걸다, 2.~을 끊다)	life (유. 생명) 1. to risk one's life 2. to take a life, one's life 나는 그녀를 [life]보다 사랑한다. 이번 대회에 [life]을 걸었기 때문에 열심히 준비하고 있다.
+목적지 (~에 도착하다)	destination (e.g. to reach one's destination) 요즘은 스마트폰으로 [destination]를 정확하게 찾을 수 있다. 여름휴가 [destination]로 바다를 꼽는 사람이 가장 많았다.
+여름 휴가	summer holidays (유. 여름 방학)
+정확하다	accurate, correct, exact, precise
+목표 (1.~를 세우다, 2.~를 이루다)	goal 1. to set a goal 2. to reach a goal 사람은 [goal]를 세워야 성공할 수 있다. 우리 팀은 이번 대회에서 우승이 [goal]다.
+무게 (1.~가 있다/없다, 2.~를 달다)	weight 1. to carry (no) weight 2. to weigh, measure weight 그 배는 [weight]를 이기지 못하고 침물했다. 재활용으로 모은 쓰레기는 [weight]를 달아 계산한다.
+침물하다	to sink, go under [sunk] 사업 배가 [sunk]
+무관심(하다)	indifference, apathy (to be indifferent) 그 아이는 주위의 [indifference] 속에서도 잘 자랐다. [indifference]과 방치가 이번 사고의 원인이다.
+무늬 (1.~가 있다/없다, 2.~를 새기다)	pattern, design 1. to have a (no) pattern 2. to engrave a pattern 날씬해 보이도록 세로줄 [pattern] 옷을 입었다. 직접 구운 도자기에 예쁜 [pattern]를 새겨 놓았다.
+도자기	ceramics, pottery
+날씬하다	to be slim, slender
+세로	height, length (vertical)
+가로	width (horizontal)
+의상	clothes, dress, garment, costume 한복은 한국의 고유 [dress]이다 연극용 [costume]
+고유하다	to be intrinsic, inherent (e.g. a quality)
+무더위	heat wave, scorching heat (유. 찜통더위, 반. 추위, 강추위) 올해도 어김없이 [heat wave]가 찾아왔습니다. 7월이 되자마자 [heat wave]가 기승을 부리고 있다.
+강추위	bitter cold, cold wave (반. 무더위)
+어김없이	infallibly, punctually, without fail 그녀는 약속한 것은 [without fail] 지킨다
+무덤	grave (유. 묘, 산소) [grave] 위에 난 잡초를 뽑았다. 옛날 왕의 [grave] 안에서 여러 유물들이 발견됐다.
+잡초	weeds, grass
+유물	relic, antiquity, artifact
+무선	wireless (반. 유선) 유선 마이크보다 [wireless] 마이크가 편하다. [wireless] 전화는 장소에 상관없이 사용할 수 있다.
+무소식	no news [no news]이 희소식이다. 아들이 군대에 간 지 일주일 지나도록 [no news]이다.
+희소식	good news [good news]을 전하다
+무시 (1. 하다, 2. 되다, 3.~를 당하다)	disregard 1. to disregard, neglect 2. to be disregarded, neglected 3. to be neglected, suffer neglect 그는 다른 사람들에게 [disregard]를 당하자 범행을 저질렀다. 나는 다른 사람에게 [disregard] 받기 싫어 공부를 열심히 했다.
+저지르다	to commit, make, do (a bad act) (e.g. to commit a crime) 그는 범행을 [committed] 사기 [commit]
+문서 (1.~를 작성하다)	document (유. 서류) 1. to write, fill out, draw up a document [document]로 작성해서 이메일로 보내 주세요. 회사는 회의 내용을 [document]로 만들어 보관한다.
+문의 (1. 하다, 2.~가 있다/없다)	inquiry 1. to ask, inquire 2. to have an (no) inquiry [inquiry] 사항이 있으면 홈페이지를 참조하세요. 전화 [inquiry]가 폭주하면서 연결이 되지 않고 있다.
+폭발(하다)	outburst, explosion (to explode) 인기 [explosion] 참아 왔던 분노가 [exploded] 말았다
+분노	rage, fury, violent anger [rage]가 폭발하다 [rage]가 터지다 [anger]를 느끼다 [anger]를 이르키다
+참조(하다)	reference (to refer to) 기사 [reference] 원문을 [refer to] [referenced] 논문
+문제점 (1.~이 있다/없다, 2.~을 해결하다)	problem, drawback 1. for there to be a (no) problem 2. to resolve a problem [problem]을 신속히 파악하여 해결해야 한다. 현재 한국 사회가 갖고 있는 [problems]에 대해 논의했다.
+신속히	quickly, swiftly [quickly] 답하다 우리는 새 제도에 [swiftly] 적응해야 했다.
+적응하다	to adapt, adjust (to) 새 환경에 [adjust] 변화에 [adapt] 새로운 직장에 잘 [adapt]
+파악하다	to grasp, understand, identify 핵심을 [grasp] 상황을 [understand] 현황을 [understand] 시장조사를 통해 소비자들의 행태를 [understand]
+문화적	cultural 나라별 [cultural] 차이를 인정해야 한다. 처음 해외여행을 했을 때 [cultural] 충격을 받았었다.
+물가 (1.~가 오르다/내리다, 2.~가 상승하다/하락하다)	price (level) 1. for prices to rise/fall 2. for prices to rise/fall (formal) 공공요금이 오르면 [prices]도 영향을 받는다. [price] 상승은 소비 심리를 위축시켜서 경제에 나쁜 영향을 준다.
+(근육을) 위축시키다 (되다)	daunt, dispirit; shrink, shrivel (e.g. muscles, trade) 거래 [shrink (noun)] 그는 사장 앞에서 [cower, shrink]되어 아무 말도 못했다.
+하락하다	drop, fall, decrease (반. 상승하다) [fallen] 가격 집값이 [fall] 1997년 이후로 6% [fell].
+(명사)은/는 물론이고 (명사)도 (...)	(of course) A as well as B 그녀는 외무는 [as well as] 성격도 좋다. 그 배우는 국내는 [of course, as well as] 해외에서도 인기가 많다.
+인체	human body, human organism [human body]의 구조 담배에 들어 있는 니코틴은 [human body]에 해로운 물질이다
+해롭다	to be detrimental, harmful (to), bad (for) 인체에 [detrimental, bad] 흡연은 건강에 [harmful] 수입산 농산물에서 인체에 [harmful] 물질들이 검출되었다
+해치다	harm, damage, spoil (유. 해롭게 하다) 공익을 [harm] 과로는 건강을 [damage] 무리한 다이어트는 건강을 [harm]
+공익	public interest, common good [public interest] 기관 이들 사실을 밝힌 것은 [public interest]을 위한 것이다.
+물품	article, commodity 이곳은 고가의 [article]만 취급한다. 나는 장을 보러 가기 전에 필요한 [article]을 메모해서 간다.
+취급하다	sell, serve; treat 고가품을 [sell] 약을 [sell] 학교 서점은 원서를 전문적으로 [sold]. 아기로 [treat as] 장난감으로 [treat as]
+전문적	being professional [professional]인 경험 [specialized] 기술 그 일은 상당히 [specialized]이다
+미혼	unmarried (반. 기혼) 아직 [unmarried]인 그는 철이 덜 들었다. [unmarried] 남성을 대상으로 설문 조사를 하였다.
+민속놀이 (1.~를 하다)	a folk game 1. to play a folk game 우리의 전통 [folk game]가 점점 사라지고 있다. 민속촌에서는 추석을 맞아 다양한 [folk games]를 준비하였다.
+민속촌	a folk village
+민요 (1.~를 부르다)	a folk song 1. to sing a folk song 각 지역마다 전해 내려오는 [folk song]가 있다. 옛 사람들은 힘든 일을 하면서 [folk song]로 힘든 것을 잊었다.
+믿음 (1.~이 가다, 2.~이 있다/없다)	belief (유. 신뢰) 1. to trust someone, believe someone 2. to have faith, be a believer ~에 대한 [belief] 있다 인간관계에서는 [faith]이 가장 중요하다. 너무 농담하는 것처럼 말하면 [belief]이 안 간다.
+바깥	the outside (유. 밖, 반. 안, 속) 답답한데 그만하고 [the outside]으로 나가자. [outside] 공기가 차가우니까 긴 옷을 챙겨 입으세요.
+바닥 (1.~이 보이다, 2.~이 드러나다)	floor 1. for the floor to be visible 2. for the bottom to be revealed 자리가 없어서 [floor]에 앉아서 관람했다. 그 바다는 [floor]이 보일 정도로 깨끗했다.
+드러나다	to be exposed, come into view 모습이 [come into view] 비밀이 [be exposed] 감정이 [be exposed] 거짓말이 [exposed] 어깨가 [exposing] 옷을 입다
+바람	wish (유. 희망, 소망) 부모의 [wish]대로 아들은 의대에 들어갔다. 우리의 [wish]은 그들이 살아 돌아오는 것이다.
+의대	college of medicine, medical school
+바탕	foundation (유. 기본) 1) 흰색 [foundation]에 검은색으로 글자를 썼다. 그녀는 검정 [foundation]에 꽃무늬가 있는 치마를 입고 있었다. 2) 이 영화는 사실을 [foundation]으로 만들었다. 결혼 생활의 [foundation]은 신뢰와 존경이다.
+신뢰	trust, faith (유. 맏음) [trust]를 잃다 [trust]를 쌓다 [trust]를 받다
+반복 (1. 하다, 2. 되다)	repetition (유. 되풀이) 1. to repeat 2. to be repeated 운동선수들에게는 [repetition] 훈련이 중요하다. 다람쥐 쳇바퀴 도는 듯한 일상의 [repetition]이 지겹기만 하다.
+훈련	training, drill, discipline 직업 [training] [training]을 받다
+지겹다	boring, tedious [tedious] 일 [boring] 강의 정말 [boring] 하루였어! 놀고 먹는 것도 이제 [boring]
+반성(하다)	self-reflection 1. to self-reflect 그는 자기의 잘못에 대해 깊이 [self-reflection]을 했다. [self-reflection]을 모르는 학생들은 체벌의 시간을 더 가져야 한다.
+체벌	physical punishment [physical punishment]을 받다
+반응 (1. 하다, 2.~을 얻다, 3.~이 있다/없다)	response (to) 1. to respond (to) 2. to receive, obtain a response 3. for there to be a (no) response 그 영화는 관객들에게 좋은 [response]을 얻었다. 신제품을 출시한 후 소비자들의 [response]을 살폈다.
+반품(하다)	return 1. to return (a product) [return] 및 환불 방법에 대해서 알려주세요. 구입한 제품에 하자가 있어 [return]을 요청했다.
+하자	flaw, fault, defect 이 물건은 약간의 [flaw]가 있어 반값에 판매한다. 상품에 [defect]가 있으면 다른 것으로 교환해 드립니다.
+환불	refund ~하다 [refund]을 받다 세일 상품은 [refund]이 안 됩니다
+발걸음 (1.~이 무겁다/가볍다)	step 1. to feel heavy/light-footed, heavy/light-hearted 그의 집 앞에서 나도 모르게 [step]을 멈추었다. 고향집으로 돌아가는 [step]은 가볍기만 했다.
+발견(하다)	discovery (e.g. to discover) [discovery]은 때로 우연한 기회에 일어난다. 너에게도 그런 모습이 있다니 새로운 [discovery]이다.
+우연히	by chance, by accident [by accident] 발견하다 나는 [by chance] 그를 만났다 나는 [by accident] 그 사실을 알게 되었다 승규는 [by chance] 나를 만난 척했지만 사실은 기다리고 있었다는 것을 알 수 있었다.
+상당히	considerably, quite, rather, fairly 오늘은 [rather] 덥다 그녀는 [considerably] 미인이다 그는 한국어를 배운 지 일 년밖에 안 되었는데도 한국어를 [quite] 잘한다.
+발급 (1. 하다, 2. 되다)	issue, issuance 1. to issue 2. to be issued 비자 [issuance]을 받기 위해 대사관에 갔다. 여권 [issuance] 시 필요한 서류를 준비해 갔다.
+발명 (1. 하다, 2. 되다)	invention 1. to invent 2. to be invented [invention]은 생활 속 관심에서 시작된다. 이 제품은 우연한 [invention]으로 탄생되었다.
+탄생(하다)	birth, be born (to come into the world) 딸의 [birth] 민주주의가 [was born] 그들은 공공 도서관의 [birth]을 축하했다.
+정치인	politician, stateman
+밤새	all night long (유. 밤새도록) 아기는 자지 않고 [all night] 울었다. [all night] 눈이 내려 교통이 마비되었다.
+방해 (1. 하다, 2. 되다)	disturbance 1. to disturb, interrupt 2. to be interrupted, disturbed 내가 도움이 될까 했는데 오히려 [disturbance]만 되었다. 아무런 [disturbance]도 받지 않고 내가 원하는 삶을 살고 싶다.
+방향 (1.~을 잃다, 2.~을 잡다)	direction 1. to lose direction 2. to take one's course, direction 1) 배는 일정한 [direction]으로 향해를 했다. 2) 포기하지 말고 올바른 [direction]을 모색해 보자.
+일정하다	uniform, constant, regular 간격이 [uniform] 도로 양옆에는 가로수들이 [uniform] 간격으로 서 있다. 퇴근 시간이 [constant, regular]하지 않아 정확한 약속 시간을 잡을 수 없었다.
+모색하다	to seek, find (유. 구하다) 방법을 [seek] 해결을 [seek] 대통령은 주변 나라들과 화해를 [seek]하여 세계 평화를 이끌어 내도록 해야 한다고 연설했다.
+배경	background 1) [background]이 예쁜 곳에서 사진을 찍었다. 2) 이 영화의 역사적 [background]은 남북전쟁이다.
+배려 (1. 하다, 2.~를 받다)	consideration 1. to consider 2. to receive consideration, attention [consideration]란, 도와주거나 보살펴 주려는 마음이다. 타인에 대한 [consideration]는 사람들이 지녀야 할 마음이다.
+타인	others, other people; stranger 단체 생활에서는 [others]에 대한 배려가 중요하다 [stranger](으로) 취급을 하다
+배우자 (1.~를 찾다, 2.~를 만나다)	spouse 1. to seek a spouse 2. to meet, find a spouse 저와 어울릴 만한 [spouse]를 찾고 있습니다. 그는 [spouse] 모르게 비상금을 마련해 두었다.
+버릇 (1.~이 있다, 2.~이 없다, 3.~을 고치다)	habit, manners (유. 습관) 1. to have a habit (of) 2. to have no manners, be ill-mannered 3. to cure, fix, break a habit 1) 세 살 [habit] 여든까지 간다. 2) 그 아이는 집에서 예쁨만 받고 자라서 그런지 [manners]이 없다.
+번역 (1. 하다, 2. 되다)	translation 1. to translate 2. to be translated 나에게는 [translation]이 적성에 맞는 것 같다. 이 책은 이미 영어와 독일어로 [translated]이 되어 있다.
+범위 (1.~가 넓다/좁다, 2.~가 적다/많다)	scope, range 1. to be narrow/wide in scope 2. to have a small/large range (of) 내가 아는 [range]에서 얘기해 줄게. 시험 [scope]가 너무 많아 공부하기 힘들다. 그런 질문은 이 주제의 [scope]를 벗어난 것이다.
+범인 (1.~을 잡다, 2.~을 체포하다)	criminal 1. to catch a criminal 2. to arrest, apprehend a criminal 경찰은 [criminal]을 체포하였다. 도대체 그 사건의 [criminal]이 누구인지 알 수가 없다.
+도대체	(not) at all; coming to the point; what on earth [completely, at all] 모르다/알 수 없다 [at all] 이해가 안 되다. 우리 아이는 [at all] 공부를 하지 않아요. [what on earth] 영어를 잘하는 비결이 뭐죠? 너 [what on earth] 뭐 하는 거니?
+범죄 (1.~를 저지르다, 2.~를 예방하다)	crime 1. to commit a crime 2. to prevent crime 최근 성폭력 [crime]가 증가하고 있다. 한 남성이 [crime]를 저질렀다가 경찰에 붙잡혔다.
+성폭력	sexual violence, sexual abuse
+어기다	to break, infringe, disobey (e.g. the law) 규칙을 [break] 법을 [break] 계약을 [break] 합의를 [break] 약속을 [break]
+변경 (1. 하다, 2. 되다)	change, alteration 1. to change, alter 2. to be changed, altered 일정 [change]에 대한 안내가 늦어졌다. 홈페이지에서 주소와 전화번호 [change]을 쉽게 할 수 있다.
+변명(하다)	excuse, justification (for) (유. 핑계) 선생님에게는 어떤 [excuse]도 통하지 않는다. 결과가 이리 되었으니 어떤 [excuse]도 소용없다.
+소용	use, good (e.g. to be of no use or good) [use]이 없다 [use]이 있다 그들의 노력은 [use]이 없었다. 그의 변명은 나에겐 아무 [use]이 없어. 그에게 말해 봤자 [use] 없다
+별명 (1.~을 짓다, 2.~을 부르다)	nickname 1. to make a nickname 2. to call by a nickname 재미있는 [nickname]을 갖고 있는 사람들이 많다. 나는 키가 커서 키다리라는 [nickname]으로 불렸다.
+별일	anything in particular; odd thing, strange thing [anything, issue]도 아닌데 너무 소란스럽게 떠들지 마세요. 살다 보면 [anything, strange things]을 다 겪게 된다.
+떠들다	to clamor, make a noise, speak loudly 시끄럽게 [make a noise] 아이들이 큰 소리로 [make a noise] 언니가 방에서 공부하니까 [make a noise]면 안 돼.
+소란 (1. 소란스럽다)	disturbance, fuss, commotion 1. noisy, fussy [disturbance, uproar]을 피우다 왜 아무것도 아닌 일로 네가 이렇게 [fuss]을 피우는지 모르겠다.
+접다	to fold 발래를 [fold] 나는 편지를 반으로 [folded] 우리는 그 문제를 당분간 [fold, put aside] 두기로 했다.
+용이하다	to be easy (유. 쉽다) 그 고속도로는 진입이 아주 [easy]. 이 기계를 다루는 것은 [easy]하지 않다. 개발에 [easy]. 수행에 [easy].
+한참	long time, being a while [long time] 뒤 [long time] 전 [a while]을 기다리다 [a while]을 지나다 [a long time] 뒤에 깨닫다
+보람 (1.~이 있다/없다, 2.~을 느끼다)	fruit, benefit, effect, worthwhile 1. to be worth(while), fruitful/in vain, useless 2. to feel rewarded, feel worth 농사는 힘들지만 수확할 때 큰 [worth]을 느낀다. 이렇게 좋은 결과가 나오니 그동안 열심히 노력한 [worthwhile]이 있었다.
+보물	treasure 1) 그는 [treasure]을 찾으러 [treasure]섬으로 떠났다. 2) 한국의 [(national) treasure] 제1호는 흥인지문(동대문)이다.
+사립학교	private school (반. 공립 학교)
+공립 학교	public school (반. 사립 학교)
+보호 (1. 하다, 2. 되다)	protection 1. to protect 2. to be protected 대통령은 경호원의 [protection]를 받고 있다. 부모가 없는 아이를 위한 [protection] 시설을 마련해야 한다.
+경호원	bodyguard, security guard
+복 (1.~을 주다, 2.~을 받다, 3.~이 나가다)	luck 1. to give/bring someone luck; to bless 2. to be blessed, endowed with fortune 3. to lose one's luck 새해 [luck] 많이 받으세요. 입 주변에 점이 있으면 먹을 [luck]이 많다고 한다.
+봉사(하다)	service, volunteering 1. to serve, volunteer 그는 주말에는 양로원으로 [volunteer] 활동을 하러 간다. 많은 사람들이 해외 [volunteering]에 참여했다.
+양로원	nursing home, old people's home
+부담 (1. 되다, 2.~을 주다)	burden 1. to be a burden, burdensome 2. to burden (someone), give or impose a burden 새로 생긴 슈퍼마켓은 가격이 싼 편이라 [burden]이 없다. 정부는 농민들의 [burden]을 덜어주기 위해 세금을 낮췄다.
+덜다	to reduce, lessen, lighten 부담을 [lessen] 고통을 [lessen] 수고를 [lessen] 슬픔을 [lessen] 지수는 자신의 밥그릇에 있는 밥을 좀 [reduce] 동생에게 주었다. 마음의 짐을 [take off, reduce]
+낮추다	lower, shorten, reduce, bring down 가격을 [lower] 가스불을 [reduce, lower] 대출 연이율을 [reduce, lower] 온도를 [lower] 목소리를 [lower]
+(약을) 복용하다	to take, take a dose (medicine)
+부상 (1.~을 입다/당하다)	injury 1. to suffer an injury 군대에서 훈련을 받다가 [injury]을 입었다. 선수가 [injury]을 당했지만 교체할 수 없었다.
+교체(하다)	replacement, substitution, shift 1. to replace 부품을 [replace] 선수를 [substitute] 평화적인 정권 [substitution, transfer]가 이루어졌다
+부품	part, component 자동차 [part] 전자 [component]
+부상자	injured person 액션 영화를 촬영하는 동안 [injured person]가 속출했다. 사고와 관련해 [injured person]들의 응급처치가 제때 이루어지지 않아 더 큰 피해를 입었다.
+속출하다	to occur continuously 부상자가 [occur continuously] 몇 달째 가뭄이 계속되어 농작물의 피해가 [occur continuously]하고 있다 경기가 과열되면서 양 팀 모두 부상자가 [occur continuously]
+응급 처치	first aid, emergency care [first aid] 교육 [first aid] 방법 그녀는 환자에게 [first aid]를 했다
+부서	department 우리 [department]에서는 회계업무를 맡고 있습니다. 담당 [department]로 연결해 드리겠습니다.
+회계(하다)	accounting, bookkeeping (to do accounting, keep book)
+담당	being in charge, person in charge 그 일은 제 [responsibility, in charge]이 아닙니다. [in charge] 간호사가 자세히 설명해 드릴 겁니다. 마케팅 업무를 [in charge]할 직원을 새로 뽑았다.
+부자	rich person 저는 [rich person]가 되는 것이 꿈입니다. 자기가 가진 것들을 사회에 환원하는 [rich person]들이 많아졌으면 좋겠다.
+환원하다	return, restore, give back 자연으로 [return, restore] 복잡한 문제를 [return]하여 바라보니 조금 더 쉽게 느껴졌다.
+부작용	side effect 약을 바른 후 [side effect]이 생기면 의사와 상담하세요. 성형 수술이 많아지면서 [side effect]의 피해도 증가하고 있다.
+성형 수술	plastic surgery
+부잣집	rich family 그는 [rich family]에서 태어나서 고생을 모르고 자랐다. 그녀는 얼굴이 동그랗고 통통해서 [rich family] 맏며느리처럼 푸근한 인상을 준다.
+동그랗다	circular, round, ball-shaped 눈이 [round] [round]게 자르다 내 동생은 눈이 토끼같이 [round]고 커서 정말 귀엽다.
+부장	head of department 아버지가 과장에서 [head of department]으로 승진하셨다. [head of department]님은 인격도 훌륭하고 능력도 있으시다.
+푸근하다	cozy, snug, soft, comfortable, warm 오늘은 봄 날씨처럼 [warm] [soft, warm] 마음 늘 웃는 승규는 따뜻하고 [warm] 인상을 가졌다
+인격	personality, individuality, character; an individual (유. 성격) 세상의 모든 어머니는 자식이 훌륭한 [character]을 지닌 사람이 되기를 바란다. 그 사람은 신뢰할 수가 없어. [character]에 문제가 있는 사람이거든.
+부주의(하다)	carelessness 1. to be careless 사소한 [carelessness]로 큰 화재가 발생했다. 교통사고는 운전기사의 [carelessness]로 생긴 것이다.
+분량 (1.~이 많다/적다)	amount, quantity 1. for a quantity to be large, small 대본의 [amount]이 많지 않아서 금방 외웠다. 이 식당의 음식들은 먹기 좋은 [amount]으로 포장 되어 나온다.
+외우다	to memorize
+대본	script, screenplay [script]을 외우다 [script]대로 하다
+분리수거(하다)	garbage recycling 1. to separate garbage [garbage recycling]는 귀찮더라도 환경을 위해서 꼭 해야 한다. [garbage recycling]를 제대로 하지 않고 버리는 사람들이 많다.
+분실 (1. 하다, 2. 되다)	loss 1. to lose 2. to be lost 스마트폰 [loss]로 인해 하루 종일 불편했다. 본인 잘못으로 인한 [loss]은 업체에서 책임지지 않으니 주의하세요.
+본인	person concerned [person concerned] 책임 [person concerned] 확인 [person concerned] 소개를 해 주세요 이 서류를 제출하실 때에는 꼭 [person concerned]이 직접 와야 합니다.
+불경기	recession, depression (반. 호경기) [recession]로 인해 취업난이 더 악화되고 있다. [recession]가 지속되면서 소비자들이 백화점보다 할인점을 찾고 있다.
+취업난	unemployment crisis [unemployment crisis]을 겪다 [unemployment crisis]이 심각하다
+악화되다	to worsen, deteriorate
+지속되다	to last, maintain, continue
+불만 (1.~을 털어놓다, 2.~이 쌓이다)	dissatisfaction (유. 불평, 불만족, 반. 만족) 1. to express one's dissatisfaction 2. to accumulate dissatisfaction, for dissatisfaction to pile up 심판의 판정에 관객들은 [dissatisfaction]을 터트렸다. [dissatisfaction]이 쌓이다 보니 관계가 나빠질 수밖에 없었다.
+터트리다	to pop, burst, spark 웃음을 [burst into] 울음을 [burst into] 분노 [burst into] 불평을 [burst into] 사건을 [open up] 문제를 [open up]
+심판	judgement, decision; referee 법의 [judgement]을 받다 여론의 [judgement]을 받다 누가 그 시합의 [refereed]을 봤어요? 한 선수가 [referee]에게 강력히 항의하다가 퇴장당했다
+판정 (1.~을 내리다, 2.~을 받다)	judgment, decision 1. to give a judgement, reach a verdict 2. to receive a judgement
+불면증 (1.~이 있다/없다, 2.~에 시달리다)	insomnia 1. to (not) have insomnia 2. to suffer from insomnia [insomnia]으로 인해 잠을 설쳤다. 호두는 [insomnia]에 도움이 되는 음식이다.
+(잠을) 설치다	to toss and turn
+불빛	light, beam, glow 밤에 한강에 가면 야경과 [light]이 예쁘다. 비가 오는 날에는 가로동 [light]이 더 예뻐 보인다.
+불안 (1. 하다, 2.~에 떨다)	uneasiness, anxiety 1. to be uneasy, anxious 2. to shake with anxiety 발표할 때 [anxiety]을 느끼는 사람이 많다. 밖에서 나는 발소리 때문에 밤새도록 [anxiety]에 떨었다.
+불안감 (1.~을 느끼다, 2.~을 해소하다)	anxiety (feeling) 1. to feel anxiety, uneasiness, feel anxious 2. to relieve one's anxiety 미래에 대한 [anxiety]을 갖고 있는 청소년들이 많다. [anxiety]을 해소하기 위한 방법은 클래식 음악을 듣는 것이다.
+불평 (1. 하다, 2.~을 늘어놓다)	complaint (유. 불만) 1. to complain, grumble 2. to make complaints, to spell one's complaints out 학생들은 선생님에게 [complaint]을 쏟아냈다. 감정적으로 [complaint]만 늘어놓기보다 대안을 제시하는 게 좋다.
+대안	alternative, solution, measure [alternative]을 마련하다 [alternative]을 만들다 [alternative]을 세우다 [solution]을 찾다 [solution]을 제시하다 [alternative]을 떠오르다
+제시하다	to present, produce (and show) [presented] 대안 목적을 [present] 문제를 [present] 신분증을 [show] 여권을 [show] 나는 환경 오염 문제를 해결할 몇 가지 방안을 [present]하고자 한다.
+불행(하다)	unhappiness, misfortune (반. 행복, 행운) 1. to be unhappy, unfortunate 행복과 [unhappiness]은 마음먹기에 달려 있다. [misfortune] 뒤에는 행운이 따르기 마련이다.
+비교 (1. 하다, 2. 되다)	comparison 1. to compare 2. to be compared 우리는 타인과 [comparison]를 자주 한다. 다양한 제품이 있으니 [comparison] 후에 구입하세요.
+비교적	comparatively 이 논문은 한국과 일본의 경제를 [comparatively]인 시각으로 연구하였다. 역사에 대한 국가별 인식을 [comparatively]인 연구를 통해 알아 보았다.
+비만 (1.~을 치료하다)	obesity 1. to treat obesity 소아 [obesity]이 증가하는 추세이다. [obesity] 방지를 위한 효과적인 운동법을 소개하겠다.
+추세	trend, tendency 감소 [trend] 증가 [trend] 경제 [trend] [trend]를 따르다 [trend]를 보이다
+소아	baby, infant
+방지(하다)	prevention 1. to prevent, block 공해 [prevention] 홍수 [prevention] 사고 [prevention] [prevention] 대책 이번 사건에 대해 경찰은 현재로서는 재발 [prevention] 대책에 힘을 써야 할 때라는 입장을 밝혔다.
+비용 (1.~이 들다, 2.~을 지불하다)	cost, expense (유. 경비) 1. to cost, to incur a cost, expenses 2. to pay an expense, cost 해외여행을 하려고 하는데 [cost]이 만만치 않다. 휴가 [cost]을 마련하기 위해 아르바이트를 하고 있다.
+만만하다	to be easy (to handle) 상대방이 [easy to handle] [easy] 세상 그는 최고의 선수는 아니지만 그래도 [easy] 상대는 아니다. 세상은 네가 생각하는 것처럼 [easy]지 않다. 대출을 받는다고 하더라도 이자를 생각하면 절대 [easy]지 않다.
+이자	(loan) interest 대출 [interest] [interest] 부담 [interest]가 비싸다/싸다 [interest]를 받다
+빚 (1.~을 지다, 2.~을 갚다)	debt, loan 1. to fall into debt, be in debt (to) 2. to pay one's debt 이자를 붙여 [debt]을 갚다 그는 주변 지인들에게 [debt]을 졌다. [debt]을 갚기 위해 열심히 돈을 벌고 있다.
+충격적	to be shocking [shocking]인 결과 [shocking]인 경험 [shocking]인 뉴스
+연잇다	to continue, persist, in a row [continuous]은 폭우 [in a row]서 발생하다 아이는 김 선생님에게 이 년을 [in a row] 배웠다. 어제에 [continuous]은 폭우로 홍수가 나 강둑이 무너져 버렸다. 우리 집은 첫딸 아래로 아들들이 [in a row]서 세 명이나 태어났다.
+사교적	to be sociable, outgoing 나는 [outgoing]이지 않아서 친구가 많지 않다. 그는 [sociable]인 편이라서 사람들과 쉽게 친해진다.
+사막	desert 그는 [desert]의 오아시스 같은 존재이다. 이 도시는 [desert]에서 날아온 모래바람으로 인해 공기가 좋지 않다.
+모래바람	sandstorm, sandblast
+날아가다	to fly (away/off), to be blown
+사망(하다)	death (유. 죽음) 1. to die, pass away, decease 배우의 [death] 소식은 팬들을 슬프게 했다. [death]의 원인은 과다 출혈로 밝혀졌습니다.
+사생활 (1.~을 보호하다, 2.~을 침해하다, 3.~이 노출되다)	privacy, one's private life 1. to protect one's privacy 2. to invade one's privacy 3. for one's private life to be exposed 누구든지 [privacy]은 보호받아야 한다. SNS는 [privacy] 침해 문제를 일으켰다.
+침해하다	invade, violate, intrude, enchroach 권리를 [violate] 독립을 [violate] 사생활을 [invade] 자유를 [violate]
+노출(되다)	exposure 1. to be exposed, revealed
+과다(하다)	excessive, superabundant 인구 [excessive] 공급 [excessive]
+사실	fact, truth 본 것을 [truth]대로 말해 주세요. 기자는 [fact]만을 전달하고 공정하게 보도해야 한다.
+공정하다	impartial, just, fair
+사업하다	to do business, operate
+구상(하다)	plan, design; conception, idea 1. to plan, map out, design 결과물은 처음에 [plan]했던 것과 달랐다. 요즘 새로운 사업을 [plan]하고 있다. 제 소설은 아직 [planning] 단계에 있습니다.
+사은품 (~을 증정하다)	free gift (to give out freebies) 백화점에서 [free gift]으로 그릇을 받았다. 소비자를 끌어 모으기 위해 고가의 [free gift]을 준비했다.
+적자	being in the red, loss [being in the red]가 나다 [loss]가 발생하다 [loss]가 증가하다 [losses]가 쌓이다
+미루다	delay, postpone, put off (유. 늦추다) 약속을 [postpone] 숙제를 [put off] 내일로/나중으로 [postpone]
+사투리 (1.~가 있다/없다, 2.~를 쓰다)	dialect (반. 표준어, 유. 방언) 1. to have a (no) dialect 2. to speak in dialect 부모님은 아직도 [dialect]를 쓰신다. 한국에도 지역마다 개성 있는 [dialect]가 있다.
+사표 (1.~를 쓰다, 2.~를 내다)	resignation (유. 사직서) 1. to write one's resignation 2. to hand in one's resignation 나는 참다못해 [resignation]를 내고 말았다. 사장은 그가 낸 [resignation]를 수리하였다.
+사회생활 (1.~을 하다)	social life, community life 1. to lead, live a social life [social life]을 계속할지 육아에 전념할지 고민이다. 여성의 [social life]이 증가하면서 맞벌이 부부도 증가하고 있다.
+사회적	social, being social (반. 개인적) 인간은 [social] 동물이다. 그 사건은 [social]으로 큰 문제가 되었다.
+육성하다	promote, foster, nurture (e.g. a business) 기업을 [promote] 산업을 [promote] 문화를 [foster] 연구자를 [foster]
+강대국	powerful nation, world power
+살림 (1. 하다, 2.~을 차리다)	housekeeping, household economy 그녀는 스스로 번 돈으로 [housekeeping]을 장만했다. 우리 집은 [household]이 넉넉하지는 않지만 행복하다.
+삶	life (유. 인생) 가치 있는 [life]을 살기 위해 노력하고 있다. 배우라는 직업의 장점은 다른 사람의 [life]을 살아 볼 수 있다는 점이다.
+상금 (1.~을 주다/받다, 2.~을 타다)	prize money 1. to give/receive prize money 2. to win prize money 대회에서 우승을 하여 [prize money]을 받았다. [prize money]을 타기 위해 공모전에 참가했다.
+상담(하다)	advice 1. to give advice 전문가와의 [advice]을 통해 문제점을 해결했다. 진학 [advice]을 위해 담임 선생님을 찾아뵈었다.
+진학(하다)	entrance to a higher education institution 1. enter into a higher education institution (i.e. a university) 대학에 [enter]
+담임 (선생)	homeroom teacher
+상대	opponent; counterpart, the other person (유. ~방) 결혼 [counterpart]를 찾기란 쉬운 일이 아니다. [the other person]의 말을 제멋대로 판단하지 마세요.
+상대방	counterpart, the other person (유. 상대, 상대편) 그는 대화할 때 [the other person]의 눈을 쳐다본다. 역지사지란 [the other person]의 입장에서 생각해 보라는 것이다.
+역지사지	putting yourself in someone else's shoes ~로 생각하다
+상대하다	to face each other, fight with
+상승	rise, increase, ascent (반. 하락) 해수면 [rise]으로 섬이 점점 사라지고 있다. 경제 회복과 취업률 [rise]으로 실업률이 줄어들었다.
+실업률	unemployment rate
+해수면	sea surface, sea level [sea level] 상승
+상식 (1.~이 풍부하다, 2.~이 있다/없다)	common sense 1. to have plenty of common sense 2. to have (no) common sense 그는 [common sense]이 풍부한 사람이다. [common sense] 밖의 행동을 하는 사람들을 이해할 수 없다.
+상업	commerce, trade [commerce]이 발달하면서 무역도 활발해졌다. [commerce]에 종사하는 사람들이 증가하고 있다.
+종사하다	to work, engage in; be devoted, dedicate oneself 건설업에 [engage in] 과학에 [dedicated, work]
+상징 (1. 하다, 2. 되다)	symbol 1. to symbolize, represent 2. to be symbolized 비둘기는 평화의 [symbol]이다. 파리의 대표적인 [symbol]으로 에펠탑이 있다.
+상태	condition [condition]가 좋다/나쁘다 과도한 스트레스로 건강 [condition]가 나빠졌다. 이번에 이사 갈 집은 [condition]가 꽤 깨끗하고 좋습니다.
+과도하다	to be excessive (유. 과다하다) [excessive]한 경쟁 [excessive]한 소비 [excessive]한 다이어트 [excessive]하게 먹다
+꽤	quitely, fairly [fairly] 가깝다 [fairly] 가볍다 [fairly] 오래되다 [fairly] 잘하다
+상표 (1.~가 있다/없다, 2.~를 붙이다)	trademark 1. to have a (no) trademark 2. to put a trademark, brand sth. 모든 물건에는 [trademark]가 붙어 있다. 특허권은 자신의 [trademark]를 다른 사람이 사용하지 뭇하도록 하는 권리이다.
+특허권	patent
+권리	right, authority, power
+상품권	gift card 친구 생일에 [gift card]을 선물로 주었다. 최근에는 모바일 [gift card]이 인기를 끌고 있다.
+상황	situation 고속도로 교통 [situation]을 미리 알아보고 출발하자. 만일의 [situation]에 대비해 준비를 철저히 하는 것이 좋다.
+대비(하다)	being prepared, preparation 1. to prepare, be ready 사전 [preparation] 시험 [preparation] [preparation]가 필요하다
+만일	in case [in case]의 경우 [in case]의 상황 [in case]을 걱정하다 [in case]에 대비하다
+생김새	appearance, looks, features (유. 모양, 모습) 그들은 쌍둥이지만 [looks]가 전혀 다르다. 오늘 과학 시간에는 동물들의 [appearance]와 특징에 대해서 배우도록 하겠습니다.
+쌍둥이	twins
+생략 (1. 하다, 2. 되다)	omission, deletion 1. to leave out, skip, omit 2. to be skipped, left out, omitted 주어가 두 번 사용됐으므로 [omission]이 가능합니다. 그 연극은 내용의 자니친 [omission]으로 다소 부자연스러운 부분도 있었다.
+부자연스럽다	to be unnatural
+생명을 구하다	to save a life
+신비롭다	mysterious [mysterious] 분위기 [mysterious] 음악 생명이란 [mysterious] 것이다.
+생산하다	to produce
+(기대에) 어긋나다	to run counter to, fall short off (one's expectations)
+생중계 (1. 하다, 2. 되다)	live broadcast 1. to broadcast live 2. to be broadcast live 월드컵 경기를 [live broadcast]로 방송했다. 공연은 인터넷을 통해 [live broadcast]로 접할 수 있다.
+방송하다	to broadcast
+접하다	to learn about, hear (of) 남편의 사고 소식을 [learn about]고 그녀는 정신을 잃었다. 언제 처음으로 불교를 [hear of]셨습니까?
+생필품	daily necessity (유. 생활필수품) 저소득층에 [daily necessity]이 전달되었다. 대형마트에서 [daily necessity] 위주로 할인 행사를 하고 있다.
+저소득층	low income bracket, group
+고소득층	high income bracket, group
+위주	center, focus 자기 [center]의 사고 방식 남성 [focus]의 사회 요즘은 문법보다는 회화 [focus]로 영어 교육을 한다.
+생활비 (1.~를 아끼다, 2.~가 모자라다)	living expenses 1. to cut back on living expenses 2. to be short in terms of living expenses 노후 [living expenses]를 마련하기 위해 적금을 넣고 있다. [living expenses]를 아무리 아껴도 물가가 계속 올라 생활이 빠듯하다.
+빠듯하다	tight, hard, barely enough 생활비가 [barely enough] 시간이 [tight] 공간이 [tight] 이 일을 다 끝내기에는 주어진 날짜가 너무 [tight].
+서랍	drawer [drawer]을 열다/닫다/잠그다 일기장은 [drawer] 속에 잘 넣어 두었다. [drawer] 안에는 여러 물품들이 잘 정돈되어 있었다.
+서명 (1. 하다, 2. 되다)	signature 1. to sign 2. to be signed 도장 대신에 [signature]을 하셔도 됩니다. 사고 희생자 가족들은 [signature]에 동참해 달라고 호소했다.
+희생자	victim, casualty
+호소하다	to appeal, plead 고통을 [complain] 법에 [appeal to] 환자 어머니는 의사에게 아들을 살려 달라고 간절하게 [appeal, plead]하였다
+개발도상국	developing country
+복지	welfare 사회 [welfare] 노인 [welfare] [welfare]국가를 건설하다
+가치관	values [values] 다르다 올바른 [values] 전통적인 [values] 우리의 문제는 [values]의 차이였다. 그들은 우리와 다른 [values]을 가지고 있다.
+선착순 (1.~으로 모집하다, 2.~으로 주다)	by order of arrival, FIFO 1. to recruit by order of arrival 2. to give on a first-come first-serve basis 사음품을 [by order of arrival]으로 증정하겠습니다. [by order of arrival]으로 100명까지 무료입장이 가능하오니 줄을 서 주시기 바랍니다.
+설득 (1. 하다, 2. 되다)	persuasion 1. to persuade, convince 2. to be persuaded [persuasion]의 중요성에 대한 강연을 들었다. 노사가 타협할 수 있었던 이유는 사장의 진실된 [persuasion] 때문이었다.
+진실하다	to be honest, sincere
+중요성	importance, significance, gravity 자유의 [importance] [significance]을 인식하다
+설명서	instructions, directions, manual 이 제품은 [manual]대로 사용하시면 됩니다. 아무리 [instructions]를 살펴봐도 사용법을 도통 알 수가 없었다.
+도통	in all, all together, totally, all told 무슨 말씀이신지 [all together] 모르겠군요. 요즘 그녀를 [totally] 못 만났다. 오늘 [totally] 정신이 없다. 그의 이름이 [totally] 생각이 안 난다.
+설문	survey [survey] 조사를 하다 [survey]에 참여하시는 분에게 추첨을 통해 푸짐한 상품을 드립니다. 제품에 대한 [survey] 조사는 소비자의 의견을 들을 수 있어 유용하다.
+유용하다	to be useful, helpful, valuable 이 사전은 상당히 [useful]. 인터넷은 [useful] 의사소통 수단이다. 승규가 준 [helpful] 정보 덕분에 지수는 일을 잘 끝낼 수 있었다.
+추첨하다	to draw lots (for winners) 다들 청소 이미 한 번씩 했으니 공평하게 추첨해서 정하자.
+성능 (1.~이 좋다/나쁘다)	performance, efficiency (유. 기능) 1. to have good/bad performance; perform well/poorly 새로 출시된 자동차는 [performance]이 뛰어나다. [performance]을 향상시키기 위한 연구가 한창 진행 중이다.
+성별	sex [sex]에 따라 희망하는 직업이 다르다. 국적이나 나이, [sex]에 상관없이 누구나 지원 가능합니다.
+성실	faithfulness, sincerity (반. 불성실) 노력과 [faithfulness]은 거짓말을 하지 않는다. [faithfulness]은 사람이 갖고 있어야 할 중요한 덕목이다.
+성인	adult (유. 어른, 반. 아이, 어린이, 미성년자) 이 설문은 [adult]을 대상으로 조하하였다. [adult]이 돼서도 부모에게 의존하는 사람이 많다.
+의존하다	to depend on, rely on 부모에게 [depend on] 그러니 상식에 [rely on]지 마세요.
+성적 (1.~이 오르다/내리다, 2.~을 받다/주다)	grade, record, results (유. 점수) 1. to improve in grades/for one's grades to go down 2. to receive/give grades 이 책은 한국어 [grade] 향상에 도움이 됩니다. 이번 학기 [grades]이 좋아서 장학금을 받을 수 있다.
+성형 (1. 하다, 2.~수술을 받다)	shaping, plastic surgery 1. to get, receive plastic surgery 2. to get plastic surgery [plastic surgery] 수술은 이제 대중화되었다. 나는 자연스러운 모습이 좋기 때문에 [plastic surgery]을 반대하는 편이다.
+대중화(하다)	popularization 1. to popularize, be popularized
+세금 (1.~을 내다, 2.~을 납부하다)	tax 1. to pay one's taxes 2. to make payment on one's taxes [tax]을 내는 것은 국민의 의무다. [tax]을 내지 않능 연예인이 조사를 받고 있다.
+연예인	entertainer, performer
+후손	descendant, future generation 그들은 대부분 이민자의 [descendant]들이다. [descendant]들은 그를 위대한 인물로 기억할 것이다.
+세대 (1. 차이가 있다/없다)	generation 1. for there to (no) be generation gap 신입인 나는 상사와 [generation] 차이를 느낀다. 조사에 따르면 [generation]에 따라 결혼관이 다른 것을 알 수 있다.
+세련(되다)	sophistication, refinement 1. to be polished, refined, sophisticated 이 가구는 [sophistication]과 품격의 조합이 느껴진다. 디자인 공부를 하기 전까지는 [sophistication]이 뭔지도 몰랐다.
+조합	combination, union
+세상	world (유. 세계) [world]은 넓고 할 일은 많다. 여행을 하면서 [world]을 구경하다 보면 많은 것을 느끼게 된다.
+세월 (1.~이 빠르다, 2.~이 흐르다)	time (유. 시간) 1. for time to be fast 2. for time to pass, go by 벌써 [time]이 이렇게 흘렀구나. 부부는 [time]이 갈수록 닮아 간다.
+소감 (1.~을 밝히다)	thoughts, feelings (유. 느낌) 1. to express one's feelings 배우의 수상 [feelings]을 들어 보겠습니다. 대통령은 당선 [thoughts]을 글로 써서 발표했다.
+당선(하다)	election win (to win an election, be elected)
+수상(하다)	win an award, be awarded (a prize)
+소규모	small scale (반. 대~) 친한 친구들만 초대하여 [small scale]로 결혼식을 치렸다. 최근 [small scale] 창업을 하는 1인 기업가들이 증가했다.
+창업(하다)	foundation, establishment, founding (유. 창립) 1. to found, establish 나라를 [found] 회사를 [found]
+대규모	large scale (반. 소~)
+소득	income (유. 수입, 반. 소비, 지출) [income]이 많을수록 지출도 많아진다. 수입은 있지만 지출이 많아 실제 [income]은 별로 없다.
+소망 (1.~을 이루다, 2.~을 빌다)	wish, desire (유. 소원) 1. to accomplish a wish, to make a wish come true 2. to make a wish 보름달을 보며 [wish]이 이루어지기를 빌었다. 나의 [wish]은 가족이 모두 건강하게 사는 것이다.
+보름달	full moon
+소비 (1. 하다, 2. 되다, 3.~가 많다/적다)	consumption, spending 1. to consume, spend 2. to be consumed 3. to consume a lot/little 올바른 [consumption]를 위한 무료 교육을 실시하였다. 소비자는 이성적이고 합리적인 [consumption]를 지향해야 한다.
+이성적	rational (not steered by emotion) [rational]인 판단 [rational]인 행동 인간은 [rational]인 동물이다. 화가 났지만 그녀는 [rational]으로 행동하려고 노력했다
+합리적	reasonable, logical, rational [reasonable]인 가격 [reasonable]인 선택을 하다 [reasonable]인 해결책을 제시하다 [logical]으로 생각하다
+지향하다	to pursue, seek, strive for 그는 중요한 가치들을 무시한 채 오로지 성공만 [pursued]고 나아갔다. 우리는 지금 과거를 탓하기보다 앞으로의 시대에 우리가 무엇을 [pursue]해야 할지를 생각해야 한다.
+소식	news 아침마다 인터넷을 통해 새로운 [news]들을 접한다. 해외 근무를 하고 있는 아들에게서 [news]이 없어 걱정이다.
+소원 (1.~을 이루다, 2.~을 빌다)	wish (유. 소망) 1. for a wish to come true 2. to make a wish 추석에 보름달을 보며 [wish]을 빌었다. 별똥별이 떨어질 때 [wish]을 빌면 이루어진다고 한다.
+별똥별	meteor, shooting star
+소음	noise [noise]이 있다/없다/심하다 이 청소기는 [noise]도 없고 저렴해서 잘 팔린다. 층간 [noise]으로 인해 이웃 간에 싸움이 벌어졌다.
+속담	proverb 한국에는 재미있는 [proverb]이 많다. 이 책을 읽으면 [proverb]의 의미를 알 수 있다.
+속도위반	speeding [speeding]으로 벌금을 냈다. 한산한 고속도로에서는 과속이나 [speeding]을 조심해야 한다.
+속력	speed, velocity (유. 속도) KTX는 시속 190km의 [speed]으로 달린다. 앞에 가는 차가 갑자기 [speed]을 줄이는 바람에 사고가 날 뻔했다.
+시속	speed per hour [speed per hour] 100킬로미터로 달리다
+손질 (1. 하다, 2. 되다)	trimming, cleaning, repair 1. to trim, clean, mend, repair 2. to be trimmed, cleaned, mended, repaired 나는 머리 [trimming]을 잘 못 하다. 식재료는 [cleaning]과 보관이 중요하다.
+솜씨 (1.~가 있다/없다, 2.~가 좋다/뛰어나다)	skill, ability (casual, informal) (유. 능력) 1. to have (no) skill, to (not) be skilled at something 2. to be good at/remarkable at 어머니는 요리 [skill]가 좋다. 할머니는 바느질 [ability]가 뛰어나서 직접 옷을 만드신다.
+바느질	sewing
